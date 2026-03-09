@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="ess-page-title">Private Driver in Essaouira | Luxury Transfers & Chauffeur Service</title>
+    <meta name="description" data-i18n="ess-page-desc"
+        content="Professional private driver in Essaouira offering airport transfers, city rides, and coastal tours. Luxury chauffeur and transport to Marrakech.">
+    <meta name="keywords"
+        content="private driver Essaouira, Essaouira airport transfer, chauffeur service Essaouira, luxury transport Essaouira, Essaouira to Marrakech transfer, coastal driver Morocco">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://moutaouakil-transfers.com/private-driver-essaouira.html">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://moutaouakil-transfers.com/private-driver-essaouira.html">
+    <meta property="og:title" content="Private Driver in Essaouira | Luxury Transfers & Chauffeur Service">
+    <meta property="og:description"
+        content="Professional private driver in Essaouira offering airport transfers, coastal tours, and luxury long-distance transport to Marrakech, Agadir, and beyond.">
+    <meta property="og:image" content="https://moutaouakil-transfers.com/images/essaouira.jpg">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Private Driver in Essaouira | Luxury Transfers">
+    <meta name="twitter:description"
+        content="Professional private driver in Essaouira. Luxury airport transfers and coastal tours.">
+    <meta name="twitter:image" content="https://moutaouakil-transfers.com/images/essaouira.jpg">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        /* Specific page styles overlay */
+        .essaouira-hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/essaouira.jpg') no-repeat center center/cover;
+            padding: 200px 0 100px;
+            text-align: center;
+        }
+
+        .content-block {
+            margin-bottom: 40px;
+        }
+
+        .content-block h2 {
+            color: var(--accent-gold);
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .content-block p {
+            margin-bottom: 15px;
+            color: var(--text-light);
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .ul-gold-bullets {
+            list-style: none;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+
+        .ul-gold-bullets li {
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 10px;
+            color: var(--text-muted);
+        }
+
+        .ul-gold-bullets li::before {
+            content: '\f00c';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            color: var(--accent-gold);
+            position: absolute;
+            left: 0;
+            top: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html">
+                    <div class="logo-text">MouTaouakil<span>Transfers</span></div>
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html"><span data-i18n="nav-home">Home</span></a></li>
+                    <li><a href="fleet.html"><span data-i18n="nav-fleet">Fleet</span></a></li>
+                    <li><a href="services.html"><span data-i18n="nav-services">Services</span></a></li>
+                    <li><a href="destinations.html"><span data-i18n="nav-destinations">Destinations</span></a></li>
+                    <li><a href="booking.html"><span data-i18n="nav-booking">Booking</span></a></li>
+                    <li><a href="faq.html"><span data-i18n="nav-faq">FAQ</span></a></li>
+                    <li><a href="index.html#footer"><span data-i18n="nav-contact">Contact</span></a></li>
+                </ul>
+            </nav>
+            <div class="book-btn-container">
+                <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold"><span
+                        data-i18n="btn-book-now">Book Now</span></a>
+            </div>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="essaouira-hero">
+        <div class="container">
+            <h1 class="animate-up" data-i18n="ess-hero-title">Private Driver in <span
+                    class="text-shine-gold">Essaouira</span></h1>
+            <p class="animate-up delay-1" style="font-size: 1.3rem; max-width: 800px; margin: 20px auto;"
+                data-i18n="ess-hero-subtitle">Luxury
+                chauffeur and transfer services in Essaouira, Morocco</p>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold animate-up delay-2">
+                <i class="fab fa-whatsapp"></i> <span data-i18n="btn-book-whatsapp">Book on WhatsApp</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="section">
+        <div class="container">
+
+            <!-- Introduction -->
+            <div class="content-block animate-up">
+                <div class="section-title">
+                    <h2 data-i18n="ess-intro-title">Relax and Explore the Wind City</h2>
+                    <div class="line"></div>
+                </div>
+                <p data-i18n="ess-intro-p1">
+                    <strong>MouTaouakil Transfers</strong> brings you the ultimate convenience in coastal travel with
+                    our <strong>private driver in Essaouira</strong> service. Known as the "Wind City of Africa,"
+                    Essaouira offers a laid-back atmosphere, historic ramparts, and a vibrant arts scene. Whether you
+                    are visiting for the Gnaoua Festival, a kitesurfing adventure, or a relaxing retreat, our service
+                    ensures efficient and comfortable transport.
+                </p>
+                <p data-i18n="ess-intro-p2">
+                    Navigating the region can be tricky, especially if you plan to visit secluded beaches or Argan oil
+                    cooperatives in the countryside. Our <strong>chauffeur service Essaouira</strong> provides you with
+                    a dedicated vehicle and a knowledgeable local driver. Forget the limitations of bus schedules or the
+                    uncertainty of shared taxis. With our <strong>luxury transport Essaouira</strong>, you set the pace
+                    of your journey.
+                </p>
+                <p data-i18n="ess-intro-p3">
+                    We cater to couples, families, and solo travelers who value safety and comfort. Our fleet of modern
+                    vehicles is perfect for navigating the coastal roads, ensuring you arrive at your destination
+                    refreshed and ready to enjoy the ocean breeze.
+                </p>
+            </div>
+
+            <!-- Airport Transfers -->
+            <div class="content-block animate-up delay-1">
+                <h2 data-i18n="ess-airport-title">Essaouira Mogador Airport Transfers</h2>
+                <p data-i18n="ess-airport-p1">
+                    Begin your coastal getaway without stress. Our <strong>Essaouira airport transfer</strong> service
+                    offers punctual pickups from Essaouira-Mogador Airport (ESU). Although a smaller airport, securing
+                    reliable transport upon arrival can sometimes be a challenge.
+                </p>
+                <p data-i18n="ess-airport-p2">
+                    We offer a premium meet-and-greet service. Your driver will be waiting in the arrivals hall with a
+                    nameplate, ready to assist with your luggage and sports equipment (golf clubs, surfboards). Enjoy a
+                    direct, comfortable ride to your hotel door in Agadir, Taghazout, or Taroudant.
+                </p>
+                <p data-i18n="ess-airport-p3">
+                    For departures, we guarantee a timely pick-up, allowing for a relaxed drive back to the airport. We
+                    also provide transfers to passengers arriving at Marrakech Menara Airport (RAK) destined for
+                    Essaouira, bridging the gap with a comfortable 2.5-hour drive.
+                </p>
+                <p>
+                    <a href="booking.html" style="color: var(--accent-gold); text-decoration: underline;"
+                        data-i18n="nav-booking">Book your
+                        Essaouira airport transfer now</a>
+                </p>
+            </div>
+
+            <!-- City & Leisure Travel -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="ess-tour-title">Private Chauffeur for Leisure & Sightseeing</h2>
+                <p data-i18n="ess-tour-p1">
+                    Make the most of your time with a <strong>private chauffeur for sightseeing</strong>. Essaouira's
+                    surroundings are rich with cultural and natural attractions. Visit the famous <strong>Sqala du
+                        Port</strong>, explore the bustling fish market, or take a trip to Diabat to see the ruins
+                    famously associated with Jimi Hendrix.
+                </p>
+                <p data-i18n="ess-tour-p2">
+                    A private driver allows you to venture further afield to <strong>Sidi Kaouki</strong>, a surfer's
+                    paradise just south of the city, or to local vineyards and Argan oil cooperatives. Learn about the
+                    traditional production of Argan oil firsthand without the pressure of organized tour groups.
+                </p>
+                <p data-i18n="ess-tour-p3">
+                    Enjoy the flexibility of stopping for photos of the goats in the Argan trees or a sunset view over
+                    the Atlantic. Your driver is there to facilitate a unique and personalized experience of the region.
+                </p>
+                <p>
+                    Check our <a href="fleet.html" style="color: var(--accent-gold); text-decoration: underline;"><span
+                            data-i18n="nav-fleet">Fleet</span></a> to find the perfect ride for your coastal
+                    exploration.
+                </p>
+            </div>
+
+            <!-- City to City -->
+            <div class="content-block animate-up delay-1">
+                <h2 data-i18n="ess-intercity-title">City-to-City Transfers from Essaouira</h2>
+                <ul class="ul-gold-bullets">
+                    <li><strong data-i18n="ess-to-rak-t">Essaouira to Marrakech:</strong> <span
+                            data-i18n="ess-to-rak-d">The most popular route, a smooth trip back to the Red City.</span>
+                    </li>
+                    <li><strong data-i18n="ess-to-aga-t">Essaouira to Agadir:</strong> <span data-i18n="ess-to-aga-d">A
+                            stunning drive south along the Atlantic coast, offering breathtaking ocean views.</span>
+                    </li>
+                    <li><strong data-i18n="ess-to-cmn-t">Essaouira to Casablanca:</strong> <span
+                            data-i18n="ess-to-cmn-d">A longer coastal journey north to the economic capital.</span></li>
+                </ul>
+            </div>
+
+            <!-- Essaouira Landmarks & Coastal Travel Times -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="ess-landmark-title">Essaouira Landmarks & Coastal Travel Times</h2>
+                <p>Embrace the relaxed pace of the "Wind City" with our <strong>private driver Essaouira</strong>
+                    service. Travel times from the Medina walls (Bab Sbaâ):</p>
+                <div class="features-grid" style="grid-template-columns: repeat(2, 1fr); gap: 20px;">
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-plane"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="ess-esu">Essaouira
+                            Mogador Airport (ESU)</h4>
+                        <p><strong>20 - 25 Minutes</strong></p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-umbrella-beach"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="ess-kaouki">Sidi
+                            Kaouki (Surf & Camel Rides)</h4>
+                        <p><strong>25 - 30 Minutes</strong></p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-city"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="ess-rak">Marrakech (The
+                            Red City)</h4>
+                        <p><strong>2h 30m - 2h 45m</strong></p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-water"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="ess-imsouane">Imsouane
+                            (Longest Wave)</h4>
+                        <p><strong>1h 30m - 1h 45m</strong></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Gnaoua & Argan Experiences -->
+            <div class="content-block animate-up delay-1">
+                <h2>Gnaoua & Argan Experiences</h2>
+                <p>Let your <strong>chauffeur service Essaouira</strong> guide you to the authentic soul of the
+                    Atlantic:</p>
+                <ul class="ul-gold-bullets">
+                    <li><strong>Val d'Argan Vineyard:</strong> Take a tasting tour of the region's unique wines, just 15
+                        minutes from the city center.</li>
+                    <li><strong>Argan Oil Cooperatives:</strong> Visit women-led cooperatives along the Marrakech road
+                        and see the goats in the trees.</li>
+                    <li><strong>Diabat (Hendrix Village):</strong> Explore the ruins near the golf course, where rock
+                        history meets the sand dunes.</li>
+                    <li><strong>Coastal Lunch:</strong> Your driver can take you to hidden seafood spots in Moulay
+                        Bouzerktoun or Had Dra.</li>
+                </ul>
+                <div style="text-align: center; margin-top: 30px;">
+                    <a href="https://wa.me/212600000000?text=I%20want%20to%20book%20an%20Essaouira%20Day%20Trip"
+                        class="btn btn-gold"><i class="fab fa-whatsapp"></i> Reserve Your Coastal Chauffeur</a>
+                </div>
+            </div>
+
+            <!-- Essaouira FAQ -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="ess-faq-title">Frequently Asked Questions (Essaouira FAQ)</h2>
+                <div class="faq-container" style="margin-top: 20px;">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="ess-faq-1-q">Where does the private driver drop me at Essaouira
+                                Medina?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="ess-faq-1-a">Essaouira’s medina is a largely car-free zone. Our
+                                <strong>private driver in
+                                    Essaouira</strong> will drop you as close as possible to the nearest gates (such as
+                                Bab Sbaâ, Bab Marrakech, or Bab Doukkala) and help coordinate with your Riad for
+                                seamless luggage assistance.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="ess-faq-2-q">Is it better to fly to Marrakech or direct to
+                                Essaouira?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="ess-faq-2-a">Flying directly to ESU is very fast, but more international
+                                airlines fly into Marrakech
+                                (RAK). For your convenience, we offer 24/7 <strong>private transfers</strong> from
+                                Marrakech to Essaouira, which perfectly covers the 2.5-hour journey in absolute comfort.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="ess-faq-3-q">Can we stop for photos on the way to Marrakech?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="ess-faq-3-a">Of course! A great perk of booking a <strong>chauffeur service
+                                    Essaouira</strong> is the
+                                flexibility to comfortably stop at Argan cooperatives or capture unique photos of the
+                                famous "goats on trees" without being rushed.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Why Choose Us (Moved Down) -->
+            <div class="content-block animate-up delay-1">
+                <div class="section-title">
+                    <h2>Why Choose Our Private Driver in Essaouira?</h2>
+                    <div class="line"></div>
+                </div>
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <i class="fas fa-umbrella-beach"></i>
+                        <h4>Coastal Expertise</h4>
+                        <p>We know every hidden beach and authentic cooperative on the Atlantic coast.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-language"></i>
+                        <h4>English-Speaking</h4>
+                        <p>Fluent and friendly chauffeurs to make your journey through the countryside informative.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-money-bill-wave"></i>
+                        <h4>Fixed Rates</h4>
+                        <p>Transparent, all-inclusive pricing with no hidden fees for luggage or highway tolls.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-car-side"></i>
+                        <h4>Scenic Luxury</h4>
+                        <p>Relax in the latest Mercedes-Benz models specifically serviced for coastal driving comfort.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Detailed Services Links -->
+    <section class="section bg-darker">
+        <div class="container text-center">
+            <h3 style="margin-bottom: 30px;">Explore More Services</h3>
+            <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                <a href="services.html" class="btn btn-gold">All <span data-i18n="nav-services">Services</span></a>
+                <a href="fleet.html" class="btn btn-gold">View <span data-i18n="nav-fleet">Fleet</span></a>
+                <a href="booking.html" class="btn btn-gold">Booking Process</a>
+                <a href="index.html#footer" class="btn btn-gold">Contact Us</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container cta-content">
+            <h2 class="animate-up" data-i18n="ess-cta-title">Experience Essaouira with Comfort and Ease</h2>
+            <p class="animate-up delay-1" data-i18n="cta-p">Book your private transfer today.</p>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold btn-large animate-up delay-2">
+                <i class="fab fa-whatsapp"></i> <span data-i18n="btn-book-whatsapp">Book Your Driver on WhatsApp</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h3>MouTaouakil Transfers</h3>
+                <p><span data-i18n="footer-desc">Luxury Tourist Transport & Chauffeur Service in Morocco.</span></p>
+            </div>
+            <div class="footer-links">
+                <h4 data-i18n="footer-areas">Service Areas</h4>
+                <ul>
+                    <li data-i18n="footer-area-all">All Morocco</li>
+                    <li><a href="private-driver-essaouira.html" style="color: var(--accent-gold);">Essaouira</a></li>
+                    <li data-i18n="footer-area-rak">Marrakech Airport</li>
+                    <li>Agadir Airport</li>
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <h4 data-i18n="footer-contact-title">Contact Us</h4>
+                <p><i class="fab fa-whatsapp"></i> +212 600 000 000</p>
+                <p><span data-i18n="footer-available">Available 24/7</span></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 MouTaouakil Transfers. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <a href="#" id="scroll-top" class="scroll-top" title="Go to top">
+        UP
+    </a>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

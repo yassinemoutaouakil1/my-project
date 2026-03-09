@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="boo-page-title">Book Private Driver Morocco | Instant Quote | MouTaouakil Transfers</title>
+    <meta name="description"
+        content="Book your private driver in Morocco easily. Get an instant quote for airport transfers or custom tours. Secure online reservation for Casablanca, Marrakech & Fes."
+        data-i18n="boo-page-desc">
+    <meta name="keywords"
+        content="book private driver Morocco, airport transfer booking Marrakech, specialized transport booking, WhatsApp chauffeur reservation, Morocco private tour booking">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://moutaouakil-transfers.com/en/booking.html">
+    <link rel="alternate" hreflang="en" href="https://moutaouakil-transfers.com/en/booking.html">
+    <link rel="alternate" hreflang="fr" href="https://moutaouakil-transfers.com/fr/booking.html">
+
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://moutaouakil-transfers.com/en/booking.html">
+    <meta property="og:title" content="Book Private Driver Morocco | Instant Quote">
+    <meta property="og:description"
+        content="Secure your private transport in Morocco with our simple booking process. Instant confirmation via WhatsApp.">
+    <meta property="og:image" content="https://moutaouakil-transfers.com/images/hero_luxury_van.png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Private Driver Morocco | Instant Quote">
+    <meta name="twitter:description"
+        content="Secure your private transport in Morocco with our simple booking process.">
+    <meta name="twitter:image" content="https://moutaouakil-transfers.com/images/hero_luxury_van.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "OrderAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://wa.me/212600000000",
+        "inLanguage": "en",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/MobileWebPlatform"
+        ]
+      },
+      "result": {
+        "@type": "Reservation",
+        "name": "Private Driver Booking"
+      },
+      "object": {
+        "@type": "Service",
+        "name": "Private Transport Service"
+      }
+    }
+    </script>
+</head>
+
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html">
+                    <div class="logo-text">MouTaouakil<span>Transfers</span></div>
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html"><span data-i18n="nav-home">Home</span></a></li>
+                    <li><a href="fleet.html"><span data-i18n="nav-fleet">Fleet</span></a></li>
+                    <li><a href="services.html"><span data-i18n="nav-services">Services</span></a></li>
+                    <li><a href="destinations.html"><span data-i18n="nav-destinations">Destinations</span></a></li>
+                    <li><a href="booking.html" class="active"><span data-i18n="nav-booking">Booking</span></a></li>
+                    <li><a href="faq.html"><span data-i18n="nav-faq">FAQ</span></a></li>
+                    <li><a href="contact.html"><span data-i18n="nav-contact">Contact</span></a></li>
+                </ul>
+            </nav>
+            <div class="book-btn-container">
+                <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold"><span
+                        data-i18n="btn-book-now">Book Now</span></a>
+            </div>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Booking Hero -->
+    <section class="services-hero">
+        <div class="container">
+            <h1 class="animate-up" data-i18n="boo-hero-title">Book Your <span class="text-shine-gold">Private
+                    Driver</span></h1>
+            <p class="animate-up delay-1" data-i18n="boo-hero-subtitle">Simple, fast, and secure booking in just a few
+                steps</p>
+        </div>
+    </section>
+
+    <!-- Booking Form -->
+    <section class="section">
+        <div class="container">
+            <div class="section-title">
+                <h2 data-i18n="boo-form-title">Booking Form</h2>
+                <div class="line"></div>
+            </div>
+            <div class="booking-container animate-up"
+                style="max-width: 800px; margin: 0 auto; background: var(--card-bg); padding: 40px; border-radius: 8px; border: 1px solid rgba(212, 175, 55, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+                <form id="mainBookingForm" onsubmit="handleBookingSubmit(event)">
+                    <div class="form-group">
+                        <label for="b_name" style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                            data-i18n="boo-label-name">Full
+                            Name *</label>
+                        <input type="text" id="b_name" name="name" class="form-control" placeholder="Your name"
+                            data-i18n="boo-placeholder-name" required
+                            style="width: 100%; padding: 12px; margin-bottom: 20px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                    </div>
+
+                    <div class="form-row" style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_email" style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                                data-i18n="boo-label-email">Email *</label>
+                            <input type="email" id="b_email" name="email" class="form-control"
+                                placeholder="your@email.com" data-i18n="boo-placeholder-email" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_phone" style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                                data-i18n="boo-label-phone">Phone / WhatsApp
+                                *</label>
+                            <input type="tel" id="b_phone" name="phone" class="form-control" placeholder="+212..."
+                                data-i18n="boo-placeholder-phone" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                    </div>
+
+                    <div class="form-row" style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_pickup" style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                                data-i18n="boo-label-pickup">Pickup Location
+                                *</label>
+                            <input type="text" id="b_pickup" name="pickup" class="form-control"
+                                placeholder="Airport, Hotel, Address..." data-i18n="boo-placeholder-pickup" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_destination"
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                                data-i18n="boo-label-destination">Destination
+                                *</label>
+                            <input type="text" id="b_destination" name="destination" class="form-control"
+                                placeholder="City or specific place" data-i18n="boo-placeholder-destination" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                    </div>
+
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="b_date" style="color: var(--accent-gold); display: block; margin-bottom: 8px;"
+                            data-i18n="boo-label-date">Date
+                            and Time *</label>
+                        <input type="datetime-local" id="b_date" name="date" class="form-control" required
+                            style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px; color-scheme: dark;">
+                    </div>
+
+                    <div class="form-group"
+                        style="margin-bottom: 25px; display: flex; align-items: flex-start; gap: 10px;">
+                        <input type="checkbox" id="b_gdpr" name="gdpr" value="yes"
+                            style="margin-top: 5px; cursor: pointer; border-radius: 4px; width: 18px; height: 18px;">
+                        <label for="b_gdpr"
+                            style="color: var(--text-light); font-size: 0.9rem; line-height: 1.4; cursor: pointer;"
+                            data-i18n="boo-label-gdpr">
+                            I agree to the processing of my data for booking purposes.
+                        </label>
+                    </div>
+
+                    <button type="submit" id="submitBtn" class="btn btn-gold"
+                        style="width: 100%; border: none; cursor: pointer; padding: 15px; font-size: 1.1rem;">
+                        <span data-i18n="boo-btn-submit">Confirm Booking</span>
+                    </button>
+
+                    <div id="formStatus"
+                        style="display: none; margin-top: 20px; padding: 15px; border-radius: 4px; text-align: center; font-weight: bold;">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Booking With Us Is Easy -->
+    <section class="section">
+        <div class="container">
+            <div class="section-title">
+                <h2 data-i18n="boo-why-title">Why It's Easy</h2>
+                <div class="line"></div>
+            </div>
+            <div class="features-grid">
+                <div class="feature-item animate-up">
+                    <i class="fas fa-bolt"></i>
+                    <h4 data-i18n="boo-why-fast-t">Fast Response</h4>
+                    <p data-i18n="boo-why-fast-p">Quick replies on WhatsApp.</p>
+                </div>
+                <div class="feature-item animate-up delay-1">
+                    <i class="fas fa-money-bill-wave"></i>
+                    <h4 data-i18n="boo-why-price-t">Fixed Pricing</h4>
+                    <p data-i18n="boo-why-price-p">Transparent rates, no surprises.</p>
+                </div>
+                <div class="feature-item animate-up delay-2">
+                    <i class="fas fa-headset"></i>
+                    <h4 data-i18n="boo-why-avail-t">24/7 Availability</h4>
+                    <p data-i18n="boo-why-avail-p">We are always here for you.</p>
+                </div>
+                <div class="feature-item animate-up delay-3">
+                    <i class="fas fa-user-shield"></i>
+                    <h4 data-i18n="boo-why-secure-t">Secure & Private</h4>
+                    <p data-i18n="boo-why-secure-p">Your safety and privacy are our priority.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container cta-content">
+            <h2 class="animate-up" data-i18n="boo-cta-title">Ready to book your private driver in Morocco?</h2>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold btn-large animate-up delay-1">
+                <i class="fab fa-whatsapp"></i> <span data-i18n="boo-cta-btn">Book Now on WhatsApp</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h3>MouTaouakil Transfers</h3>
+                <p><span data-i18n="footer-desc">Luxury Tourist Transport & Chauffeur Service in Morocco.</span></p>
+            </div>
+            <div class="footer-links">
+                <h4 data-i18n="footer-areas">Service Areas</h4>
+                <ul>
+                    <li data-i18n="footer-area-all">All Morocco</li>
+                    <li data-i18n="footer-area-cmn">Casablanca Airport</li>
+                    <li data-i18n="footer-area-rak">Marrakech Airport</li>
+                    <li data-i18n="footer-area-fez">Fes Airport</li>
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <h4 data-i18n="footer-contact-title">Contact Us</h4>
+                <p><i class="fab fa-whatsapp"></i> +212 600 000 000</p>
+                <p><span data-i18n="footer-available">Available 24/7</span></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p data-i18n="footer-copyright">&copy; 2026 MouTaouakil Transfers. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <a href="#" id="scroll-top" class="scroll-top" title="Go to top">
+        UP
+    </a>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

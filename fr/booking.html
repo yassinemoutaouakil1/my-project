@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réserver Chauffeur Privé Maroc | Devis Immédiat | MouTaouakil Transfers</title>
+    <meta name="description"
+        content="Réservez facilement votre chauffeur privé au Maroc. Obtenez un devis immédiat pour vos transferts aéroport ou circuits personnalisés. Réservation sécurisée.">
+    <meta name="keywords"
+        content="réserver chauffeur privé Maroc, réservation transfert aéroport Marrakech, réservation transport spécialisé, réservation chauffeur WhatsApp">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://moutaouakil-transfers.com/fr/booking.html">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html">
+                    <div class="logo-text">MouTaouakil<span>Transfers</span></div>
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="fleet.html">Flotte</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="destinations.html">Destinations</a></li>
+                    <li><a href="booking.html" class="active">Réservation</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="book-btn-container">
+                <a href="booking.html" class="btn btn-gold">Réserver</a>
+            </div>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Booking Hero -->
+    <section class="services-hero">
+        <div class="container">
+            <h1 class="animate-up">Réservez Votre <span class="text-shine-gold">Chauffeur Privé</span></h1>
+            <p class="animate-up delay-1">Simple, rapide et sécurisé en quelques étapes</p>
+        </div>
+    </section>
+
+    <!-- Formulaire de Réservation -->
+    <section class="section">
+        <div class="container">
+            <div class="section-title">
+                <h2>Formulaire de Réservation</h2>
+                <div class="line"></div>
+            </div>
+            <div class="booking-container animate-up"
+                style="max-width: 800px; margin: 0 auto; background: var(--card-bg); padding: 40px; border-radius: 8px; border: 1px solid rgba(212, 175, 55, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+                <form id="mainBookingForm" onsubmit="handleBookingSubmit(event)">
+                    <div class="form-group">
+                        <label for="b_name" style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Nom
+                            Complet *</label>
+                        <input type="text" id="b_name" name="name" class="form-control" placeholder="Votre nom" required
+                            style="width: 100%; padding: 12px; margin-bottom: 20px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                    </div>
+
+                    <div class="form-row" style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_email"
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Email *</label>
+                            <input type="email" id="b_email" name="email" class="form-control"
+                                placeholder="votre@email.com" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_phone"
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Téléphone /
+                                WhatsApp *</label>
+                            <input type="tel" id="b_phone" name="phone" class="form-control" placeholder="+212..."
+                                required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                    </div>
+
+                    <div class="form-row" style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_pickup"
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Lieu de prise en
+                                charge *</label>
+                            <input type="text" id="b_pickup" name="pickup" class="form-control"
+                                placeholder="Aéroport, Hôtel, Adresse..." required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                        <div class="form-group" style="flex: 1; min-width: 250px;">
+                            <label for="b_destination"
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Destination
+                                *</label>
+                            <input type="text" id="b_destination" name="destination" class="form-control"
+                                placeholder="Ville ou lieu précis" required
+                                style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
+                        </div>
+                    </div>
+
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="b_date" style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Date
+                            et Heure *</label>
+                        <input type="datetime-local" id="b_date" name="date" class="form-control" required
+                            style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px; color-scheme: dark;">
+                    </div>
+
+                    <div class="form-group"
+                        style="margin-bottom: 25px; display: flex; align-items: flex-start; gap: 10px;">
+                        <input type="checkbox" id="b_gdpr" name="gdpr" value="yes"
+                            style="margin-top: 5px; cursor: pointer; border-radius: 4px; width: 18px; height: 18px;">
+                        <label for="b_gdpr"
+                            style="color: var(--text-light); font-size: 0.9rem; line-height: 1.4; cursor: pointer;">
+                            J'accepte de m'inscrire à la newsletter pour recevoir des offres exclusives. Mes données
+                            seront traitées conformément au RGPD.
+                        </label>
+                    </div>
+
+                    <button type="submit" id="submitBtn" class="btn btn-gold"
+                        style="width: 100%; border: none; cursor: pointer; padding: 15px; font-size: 1.1rem;">
+                        Confirmer la Réservation
+                    </button>
+
+                    <div id="formStatus"
+                        style="display: none; margin-top: 20px; padding: 15px; border-radius: 4px; text-align: center; font-weight: bold;">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container cta-content">
+            <h2 class="animate-up">Prêt à réserver votre chauffeur privé au Maroc ?</h2>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold btn-large animate-up delay-1">
+                <i class="fab fa-whatsapp"></i> Réserver sur WhatsApp
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h3>MouTaouakil Transfers</h3>
+                <p>Transport Touristique de Luxe au Maroc.</p>
+            </div>
+            <div class="footer-contact">
+                <h4>Contactez-nous</h4>
+                <p><i class="fab fa-whatsapp"></i> +212 600 000 000</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 MouTaouakil Transfers. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <script src="../script.js"></script>
+</body>
+
+</html>
