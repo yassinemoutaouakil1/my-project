@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="cmn-page-title">Chauffeur Privé à Casablanca | Transferts de Luxe & Service VTC | MouTaouakil
+    </title>
+    <meta name="description" data-i18n="cmn-page-desc"
+        content="Chauffeur privé professionnel à Casablanca proposant des transferts aéroport, du transport d'affaires, des visites de la ville et des transferts longue distance partout au Maroc.">
+    <meta name="keywords"
+        content="chauffeur privé Casablanca, transfert aéroport Casablanca, service chauffeur Casablanca, transport affaires Casablanca, chauffeur luxe Casablanca, transfert Casablanca Marrakech, transport VIP Maroc">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://moutaouakil-transfers.com/fr/private-driver-casablanca.html">
+    <link rel="alternate" hreflang="en" href="https://moutaouakil-transfers.com/en/private-driver-casablanca.html">
+    <link rel="alternate" hreflang="fr" href="https://moutaouakil-transfers.com/fr/private-driver-casablanca.html">
+
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://moutaouakil-transfers.com/fr/private-driver-casablanca.html">
+    <meta property="og:title" content="Chauffeur Privé à Casablanca | Transferts de Luxe & Service VTC">
+    <meta property="og:description"
+        content="Chauffeur privé professionnel à Casablanca proposant des transferts aéroport, du transport d'affaires et des visites de la ville.">
+    <meta property="og:image" content="https://moutaouakil-transfers.com/images/casablanca.jpg">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chauffeur Privé à Casablanca | Transferts de Luxe">
+    <meta name="twitter:description"
+        content="Chauffeur privé professionnel à Casablanca. Transferts aéroport de luxe et transport d'affaires.">
+    <meta name="twitter:image" content="https://moutaouakil-transfers.com/images/casablanca.jpg">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../style.css">
+
+    <!-- Schema: Service -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Chauffeur Privé & Transfert Aéroport",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "MouTaouakil Transfers",
+        "image": "https://moutaouakil-transfers.com/images/casablanca.jpg"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Casablanca"
+      },
+      "description": "Service de chauffeur privé premium à Casablanca. Transferts aéroport CMN et transport inter-villes."
+    }
+    </script>
+
+    <style>
+        /* Specific page styles overlay */
+        .casablanca-hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/casablanca.jpg') no-repeat center center/cover;
+            padding: 200px 0 100px;
+            text-align: center;
+        }
+
+        .content-block {
+            margin-bottom: 40px;
+        }
+
+        .content-block h2 {
+            color: var(--accent-gold);
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .content-block p {
+            margin-bottom: 15px;
+            color: var(--text-light);
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .ul-gold-bullets {
+            list-style: none;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+
+        .ul-gold-bullets li {
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 10px;
+            color: var(--text-muted);
+        }
+
+        .ul-gold-bullets li::before {
+            content: '\f00c';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            color: var(--accent-gold);
+            position: absolute;
+            left: 0;
+            top: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html">
+                    <div class="logo-text">MouTaouakil<span>Transfers</span></div>
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html"><span data-i18n="nav-home">Accueil</span></a></li>
+                    <li><a href="fleet.html"><span data-i18n="nav-fleet">Flotte</span></a></li>
+                    <li><a href="services.html"><span data-i18n="nav-services">Services</span></a></li>
+                    <li><a href="destinations.html"><span data-i18n="nav-destinations">Destinations</span></a></li>
+                    <li><a href="booking.html"><span data-i18n="nav-booking">Réservation</span></a></li>
+                    <li><a href="faq.html"><span data-i18n="nav-faq">FAQ</span></a></li>
+                    <li><a href="contact.html"><span data-i18n="nav-contact">Contact</span></a></li>
+                </ul>
+            </nav>
+            <div class="book-btn-container">
+                <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold"><span
+                        data-i18n="btn-book-now">Réserver</span></a>
+            </div>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="casablanca-hero">
+        <div class="container">
+            <h1 class="animate-up" data-i18n="cmn-hero-title">Chauffeur Privé à <span
+                    class="text-shine-gold">Casablanca</span></h1>
+            <p class="animate-up delay-1" style="font-size: 1.3rem; max-width: 800px; margin: 20px auto;"
+                data-i18n="cmn-hero-subtitle">Services de
+                chauffeur de luxe et transferts à Casablanca, Maroc</p>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold animate-up delay-2">
+                <i class="fab fa-whatsapp"></i> <span data-i18n="hero-whatsapp">Réserver sur WhatsApp</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="section">
+        <div class="container">
+
+            <!-- Introduction -->
+            <div class="content-block animate-up">
+                <div class="section-title">
+                    <h2 data-i18n="cmn-intro-title">Transport Professionnel Affaires & Loisirs</h2>
+                    <div class="line"></div>
+                </div>
+                <p data-i18n="cmn-intro-p1">
+                    En tant que cœur économique du Maroc, Casablanca exige un niveau de service de transport qui reflète
+                    son dynamisme et sa sophistication. <strong>MouTaouakil Transfers</strong> fournit un service de
+                    premier ordre de <strong>chauffeur privé à Casablanca</strong>, sur mesure pour les professionnels,
+                    les diplomates et les voyageurs de loisirs qui refusent de compromettre la qualité.
+                </p>
+                <p data-i18n="cmn-intro-p2">
+                    Naviguer dans la plus grande ville du Maroc peut être un défi pour les non-initiés. Les
+                    embouteillages et les itinéraires inconnus peuvent causer un stress inutile. Notre <strong>service
+                        de chauffeur à Casablanca</strong> offre l'antidote parfait : une expérience de voyage fiable,
+                    confortable et efficace. Que vous vous précipitiez pour une réunion dans le quartier financier ou
+                    que vous vous dirigiez vers un dîner en bord de mer sur la Corniche, nos solutions de
+                    <strong>transport d'affaires Casablanca</strong> garantissent que vous arriviez à l'heure et avec
+                    style.
+                </p>
+                <p data-i18n="cmn-intro-p3">
+                    Nous comprenons que pour nos clients, le temps est un luxe. C'est pourquoi la ponctualité, la
+                    discrétion et l'optimisation des itinéraires sont les piliers de notre offre. Avec un
+                    <strong>chauffeur de luxe Casablanca</strong> à votre service, votre véhicule devient un bureau
+                    mobile ou un sanctuaire de détente au milieu de l'énergie de la ville.
+                </p>
+            </div>
+
+            <!-- Airport Transfers -->
+            <div class="content-block animate-up delay-1">
+                <h2 data-i18n="cmn-airport-title">Transferts Aéroport Casablanca Mohammed V</h2>
+                <p data-i18n="cmn-airport-p1">
+                    Commencez votre voyage du bon pied avec notre service fluide de <strong>transfert aéroport
+                        Casablanca</strong>. L'Aéroport International Mohammed V (CMN) est la porte d'entrée la plus
+                    fréquentée du Maroc, mais votre arrival ne doit pas être chaotique.
+                </p>
+                <p data-i18n="cmn-airport-p2">
+                    Votre chauffeur privé surveillera votre vol en temps réel et vous accueillera au terminal des
+                    arrivées avec une pancarte personnalisée. Nous vous assistons avec vos bagages et vous guidons
+                    rapidement vers votre véhicule Mercedes-Benz en attente. De là, profitez d'un transfert en douceur
+                    vers votre hôtel, votre bureau ou toute destination du centre-ville.
+                </p>
+                <p data-i18n="cmn-airport-p3">
+                    Nous sommes également spécialisés dans les transferts entre terminaux et les liaisons inter-villes
+                    directement depuis l'aéroport. Oubliez les tracas des taxis d'aéroport ou les incertitudes des
+                    applications de VTC. Notre <strong>navette aéroport VIP</strong> assure confidentialité, confort
+                    suprême et une tarification fixe convenue à l'avance.
+                </p>
+                <p>
+                    <a href="booking.html" style="color: var(--accent-gold); text-decoration: underline;"
+                        data-i18n="nav-booking">Réservez votre
+                        transfert aéroport Casablanca maintenant</a> pour une expérience d'arrivée premium.
+                </p>
+            </div>
+
+            <!-- City & Business Travel -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="cmn-city-title">Chauffeur Privé pour Affaires & Visites</h2>
+                <p data-i18n="cmn-city-p1">
+                    Maximisez votre productivité ou votre temps libre avec un <strong>chauffeur privé dédié pour les
+                        visites et les affaires</strong>. Casablanca n'est pas seulement un centre d'affaires ; elle
+                    abrite des merveilles architecturales comme la <strong>Mosquée Hassan II</strong>, le quartier Art
+                    Déco et le vibrant quartier des Habous.
+                </p>
+                <p data-i18n="cmn-city-p2">
+                    Pour les voyageurs d'affaires, notre service offre la fiabilité dont vous avez besoin. Gardez vos
+                    effets personnels en sécurité dans le véhicule entre les réunions, chargez vos appareils en route et
+                    préparez votre prochain rendez-vous dans un environnement calme et climatisé. Nous nous occupons des
+                    tournées promotionnelles, des visites d'ambassades et de la logistique exécutive avec une discrétion
+                    absolue.
+                </p>
+                <p data-i18n="cmn-city-p3">
+                    Pour les voyageurs de loisirs, explorez l'incroyable <strong>Corniche Ain Diab</strong>, visitez le
+                    Morocco Mall ou découvrez l'Ancienne Médina. Votre chauffeur reste à votre disposition, éliminant
+                    les temps d'attente et assurant que vous vous déplaciez sans effort d'un monument à l'autre.
+                </p>
+                <p>
+                    Consultez notre <a href="fleet.html"
+                        style="color: var(--accent-gold); text-decoration: underline;">flotte de luxe</a>, parfaite pour
+                    les voyages exécutifs et de loisirs.
+                </p>
+            </div>
+
+            <!-- City to City -->
+            <div class="content-block animate-up delay-1">
+                <h2 data-i18n="cmn-intercity-title">Transferts Inter-Villes depuis Casablanca</h2>
+                <p data-i18n="cmn-intercity-p">
+                    La situation centrale de Casablanca en fait le point de départ idéal pour explorer le Royaume. Nous
+                    proposons des <strong>transferts longue distance</strong> confortables vers toutes les grandes
+                    villes marocaines, offrant une alternative sans stress aux trains ou aux vols intérieurs.
+                </p>
+                <ul class="ul-gold-bullets">
+                    <li><strong data-i18n="cmn-to-rak-t">Casablanca à Marrakech :</strong> <span
+                            data-i18n="cmn-to-rak-d">Un transfert rapide par autoroute vers la Ville Rouge,
+                            parfait pour les escapades de week-end.</span></li>
+                    <li><strong data-i18n="cmn-to-rba-t">Casablanca à Rabat :</strong> <span
+                            data-i18n="cmn-to-rba-d">Rejoignez la capitale en moins d'une heure avec un confort
+                            exécutif.</span></li>
+                    <li><strong data-i18n="cmn-to-fes-t">Casablanca à Fès :</strong> <span
+                            data-i18n="cmn-to-fes-d">Voyagez vers la capitale spirituelle à travers les paysages
+                            intérieurs pittoresques.</span></li>
+                    <li><strong data-i18n="cmn-to-tng-t">Casablanca à Tanger :</strong> <span
+                            data-i18n="cmn-to-tng-d">Dirigez-vous vers le nord, porte de l'Europe, avec un
+                            trajet fluide et fiable.</span></li>
+                    <li><strong>Casablanca à El Jadida/Mazagan :</strong> Un court transfert de luxe vers les stations
+                        balnéaires côtières voisines.</li>
+                </ul>
+                <p>
+                    Nos véhicules sont équipés pour les longs trajets, vous assurant d'arriver frais et dispos. Nous
+                    pouvons organiser des arrêts pour se rafraîchir ou visiter des sites sur demande, transformant un
+                    simple transfert en un voyage personnalisé.
+                </p>
+            </div>
+
+            <!-- Key Landmarks & Travel Times -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="cmn-landmark-title">Monuments Clés & Temps de Trajet à Casablanca</h2>
+                <p data-i18n="cmn-landmark-p">Maximisez votre temps dans la ville avec notre service efficace de
+                    <strong>chauffeur privé</strong>.
+                    Voici les temps de trajet estimés depuis le centre-ville (Maarif/Gauthier) dans nos véhicules de
+                    luxe :
+                </p>
+                <div class="features-grid" style="grid-template-columns: repeat(2, 1fr); gap: 20px;">
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-plane"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="cmn-cmn">Aéroport
+                            Mohammed V (CMN)</h4>
+                        <p><strong data-i18n="cmn-time-cmn">35 - 45 Minutes</strong></p>
+                        <p style="font-size: 0.9rem;">Selon le trafic. Nous recommandons de réserver 3,5 heures avant
+                            votre vol.</p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-mosque"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="cmn-mosque">Mosquée
+                            Hassan II</h4>
+                        <p><strong data-i18n="cmn-time-mosque">15 - 20 Minutes</strong></p>
+                        <p style="font-size: 0.9rem;">Monument emblématique en bord de mer. Idéal à visiter le matin.
+                        </p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-shopping-bag"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="cmn-mall">Morocco Mall
+                        </h4>
+                        <p><strong data-i18n="cmn-time-mall">25 - 30 Minutes</strong></p>
+                        <p style="font-size: 0.9rem;">Situé sur la Corniche Ain Diab. Idéal pour le shopping et les
+                            restaurants.</p>
+                    </div>
+                    <div class="feature-item" style="padding: 20px;">
+                        <i class="fas fa-city"></i>
+                        <h4 style="color: var(--accent-gold); margin-bottom: 10px;" data-i18n="cmn-twin">Twin Center /
+                            Maarif</h4>
+                        <p><strong data-i18n="cmn-time-twin">5 - 10 Minutes</strong></p>
+                        <p style="font-size: 0.9rem;">Le cœur moderne des affaires de Casablanca.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Local Experiences -->
+            <div class="content-block animate-up delay-1">
+                <h2 data-i18n="cmn-local-title">Expériences Locales Uniques à Casablanca</h2>
+                <p data-i18n="cmn-local-p">Au-delà des affaires, laissez votre <strong>chauffeur privé</strong> vous
+                    faire découvrir les joyaux
+                    cachés de la Ville Blanche :</p>
+                <ul class="ul-gold-bullets">
+                    <li><strong data-i18n="cmn-local-1-t">Rick's Café :</strong> <span data-i18n="cmn-local-1-d">Revivez
+                            l'ambiance du film classique. Votre chauffeur vous
+                            déposera à la porte pour un dîner élégant.</span></li>
+                    <li><strong data-i18n="cmn-local-2-t">Quartier des Habous (Nouvelle Médina) :</strong> <span
+                            data-i18n="cmn-local-2-d">Découvrez l'artisanat traditionnel, les
+                            olives et les pâtisseries dans un cadre plus propre et moins chaotique que les autres
+                            médinas.</span>
+                    </li>
+                    <li><strong data-i18n="cmn-local-3-t">Corniche Ain Diab :</strong> <span
+                            data-i18n="cmn-local-3-d">Profitez d'une promenade au coucher du soleil le long de la
+                            côte atlantique, en vous arrêtant dans des clubs de plage ou des cafés haut de gamme.</span>
+                    </li>
+                    <li><strong data-i18n="cmn-local-4-t">Musée du Judaïsme Marocain :</strong> <span
+                            data-i18n="cmn-local-4-d">Une étape culturelle unique dans le quartier de
+                            l'Oasis, facilement accessible en transport privé.</span></li>
+                </ul>
+                <div style="text-align: center; margin-top: 30px;">
+                    <a href="booking.html" class="btn btn-gold" data-i18n="btn-book-tour">Réservez Votre Visite de
+                        Ville</a>
+                </div>
+            </div>
+
+            <!-- Casablanca FAQ -->
+            <div class="content-block animate-up">
+                <h2 data-i18n="cmn-faq-title">Questions Fréquemment Posées (FAQ Casablanca)</h2>
+                <div class="faq-container" style="margin-top: 20px;">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="cmn-faq-1-q">Où me récupérez-vous exactement à l'aéroport de Casablanca
+                                (CMN) ?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="cmn-faq-1-a">Votre <strong>chauffeur privé</strong> vous attendra dès votre
+                                sortie des formalités
+                                douanières, dans le hall des arrivées du
+                                Terminal 1 ou 2, en tenant bien en vue une pancarte à votre nom. Nous suivons votre vol
+                                en temps réel, donc les retards
+                                ne sont jamais un problème pour votre <strong>transfert aéroport Casablanca</strong>.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="cmn-faq-2-q">Puis-je réserver un chauffeur pour une journée de réunions
+                                d'affaires ?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="cmn-faq-2-a">Absolument. Notre service de transport VIP "Mise à Disposition"
+                                est extrêmement populaire
+                                auprès des voyageurs
+                                d'affaires à <strong>Casablanca</strong>. Vous bénéficiez d'un véhicule de luxe dédié
+                                (type Mercedes Classe E ou Classe V) et de votre propre
+                                <strong>chauffeur professionnel</strong> pendant 8 à 12 heures pour vous conduire en
+                                toute sécurité de rendez-vous en rendez-vous.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="cmn-faq-3-q">Est-il plus rapide de prendre le train pour Marrakech plutôt
+                                qu'une voiture ?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="cmn-faq-3-a">Le train prend environ 2h40 vers Marrakech mais nécessite en plus
+                                de se rendre aux gares
+                                avec vos bagages. Un <strong>transfert
+                                    privé Casablanca-Marrakech</strong> prend à peine 2h30 de porte à porte. Il offre
+                                beaucoup plus de confidentialité, de
+                                confort (pas de manutention de valises), et de flexibilité dans vos horaires.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span data-i18n="cmn-faq-4-q">Vos chauffeurs de luxe parlent-ils étranger ?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p data-i18n="cmn-faq-4-a">Oui, tous nos chauffeurs desservant la capitale économique et ses
+                                alentours parlent
+                                couramment anglais,
+                                français et arabe. Cela nous permet d'assurer une communication fluide et personnalisée
+                                avec notre clientèle internationale exigeante.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Why Choose Us (Moved Down) -->
+            <div class="content-block animate-up delay-1">
+                <div class="section-title">
+                    <h2 data-i18n="cmn-why-title">Pourquoi Choisir Notre Chauffeur Privé à Casablanca ?</h2>
+                    <div class="line"></div>
+                </div>
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <i class="fas fa-user-tie"></i>
+                        <h4 data-i18n="f-professionalism-t">Professionnalisme</h4>
+                        <p data-i18n="f-professionalism-d">Nos chauffeurs anglophones sont formés pour servir une
+                            clientèle internationale avec les plus
+                            hauts standards.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-file-invoice-dollar"></i>
+                        <h4 data-i18n="f-pricing-t">Tarification Transparente Fixe</h4>
+                        <p data-i18n="f-pricing-d">Comptabilité d'entreprise facilitée. Des devis clairs et tout compris
+                            à l'avance, sans frais
+                            cachés.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-car-side"></i>
+                        <h4 data-i18n="f-luxury-t">Confort de Luxe</h4>
+                        <p data-i18n="f-luxury-d">Notre flotte comprend les derniers modèles Mercedes-Benz, assurant un
+                            trajet prestigieux à
+                            chaque fois.</p>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fas fa-headset"></i>
+                        <h4 data-i18n="f-available-t">Support 24/7</h4>
+                        <p data-i18n="f-available-d">Arrivées tardives ou réunions matinales ? Nous opérons 24 heures
+                            sur 24 pour soutenir votre
+                            emploi du temps chargé.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Detailed Services Links -->
+    <section class="section bg-darker">
+        <div class="container text-center">
+            <h3 style="margin-bottom: 30px;" data-i18n="footer-explore">Explorez Plus de Services</h3>
+            <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                <a href="services.html" class="btn btn-gold"><span data-i18n="nav-services">Tous les Services</span></a>
+                <a href="fleet.html" class="btn btn-gold"><span data-i18n="nav-fleet">Voir la Flotte</span></a>
+                <a href="booking.html" class="btn btn-gold" data-i18n="nav-booking-process">Processus de Réservation</a>
+                <a href="index.html#footer" class="btn btn-gold" data-i18n="nav-contact-us">Contactez-nous</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container cta-content">
+            <h2 class="animate-up" data-i18n="cmn-cta-title">Voyagez à Casablanca avec Confort et Professionnalisme</h2>
+            <p class="animate-up delay-1" data-i18n="cmn-cta-subtitle">Sécurisez votre transfert de luxe dès
+                aujourd'hui.</p>
+            <a href="https://wa.me/212600000000" target="_blank" class="btn btn-gold btn-large animate-up delay-2">
+                <i class="fab fa-whatsapp"></i> <span data-i18n="btn-book-whatsapp">Réserver Votre Chauffeur sur
+                    WhatsApp</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h3>MouTaouakil Transfers</h3>
+                <p><span data-i18n="footer-desc">Transport Touristique de Luxe & Service de Chauffeur au Maroc.</span>
+                </p>
+            </div>
+            <div class="footer-contact">
+                <h4 data-i18n="footer-contact-title">Contactez-nous</h4>
+                <p><i class="fas fa-envelope"></i> contact@moutaouakiltransfers.com</p>
+                <p><i class="fas fa-phone"></i> +212 600 000 000</p>
+                <p><i class="fab fa-whatsapp"></i> +212 600 000 000</p>
+            </div>
+            <div class="footer-social">
+                <h4>Suivez-nous</h4>
+                <div class="social-icons">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p data-i18n="footer-copyright">&copy; 2024 MouTaouakil Transfers. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <a href="#" id="scroll-top" class="scroll-top" title="Haut de page">
+        UP
+    </a>
+
+    <script src="../script.js"></script>
+</body>
+
+</html>

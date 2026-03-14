@@ -1,0 +1,20 @@
+{
+    "airport_transfers": {
+        "CMN_Casablanca": 50,
+        "CMN_Marrakech": 150,
+        "CMN_Rabat": 70,
+        "RAK_Marrakech": 30,
+        "RAK_Casablanca": 160,
+        "FEZ_Fes": 25,
+        "FEZ_Chefchaouen": 120
+    },
+    "city_transfers": {
+        "Casablanca_Marrakech": 140,
+        "Marrakech_Agadir": 180,
+        "Casablanca_Rabat": 60,
+        "Fes_Chefchaouen": 110
+    },
+    "hourly_rate": 25,
+    "daily_rate": 150,
+    "currency": "EUR"
+}
