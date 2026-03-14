@@ -1,0 +1,119 @@
+/* Testimonials Section */
+.testimonials-section {
+    padding: 80px 0;
+    background-color: var(--secondary-bg);
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.testimonial-card {
+    background: var(--card-bg);
+    /* Use card-bg if existing, or fallback */
+    background-color: #1a1a1a;
+    /* Fallback */
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-gold);
+}
+
+.testimonial-text {
+    font-style: italic;
+    margin-bottom: 20px;
+    color: var(--text-light);
+    line-height: 1.6;
+}
+
+.testimonial-author {
+    font-weight: bold;
+    color: var(--accent-gold);
+}
+
+.testimonial-stars {
+    color: #FFD700;
+    margin-bottom: 10px;
+}
+
+/* Trust Badges */
+.trust-badges-section {
+    padding: 40px 0;
+    background-color: #000;
+    text-align: center;
+}
+
+.trust-badges-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.trust-badge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-muted);
+}
+
+.trust-badge i {
+    font-size: 2.5rem;
+    color: var(--accent-gold);
+}
+
+/* Floating WhatsApp Button */
+.floating-whatsapp {
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    background-color: #25D366;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: transform 0.3s ease;
+}
+
+.floating-whatsapp:hover {
+    transform: scale(1.1);
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .floating-whatsapp {
+        bottom: 90px;
+        right: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+    }
+}
+
+/* RTL Support for Floating WhatsApp */
+[dir="rtl"] .floating-whatsapp {
+    right: auto;
+    left: 30px;
+}
+
+@media (max-width: 768px) {
+    [dir="rtl"] .floating-whatsapp {
+        left: 20px;
+    }
+}
