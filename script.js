@@ -68,11 +68,73 @@ const translations = {
         "fleet-title": "Our Luxury Fleet",
         "fleet-vclass-t": "Mercedes V-Class",
         "fleet-vclass-p": "Luxury VIP Van",
+        "fleet-vclass-desc": "Our top-of-the-line van, perfect for groups and luxury transfers.",
         "fleet-ford-t": "Ford Tourneo",
         "fleet-ford-p": "Spacious Group Van",
+        "fleet-ford-desc": "A spacious and reliable luxury choice for group travels, combined with modern comfort.",
         "fleet-trafic-t": "Renault Trafic",
         "fleet-trafic-p": "Reliable Comfort",
+        "fleet-trafic-desc": "A versatile and spacious van perfect for group transfers and longer journeys with comfort.",
+        "fleet-passengers-7": "Up to 7 Passengers",
+        "fleet-passengers-8": "Up to 8 Passengers",
+        "fleet-luggage-7": "7 Large Bags",
+        "fleet-luggage-8": "8 Large Bags",
+        "fleet-wifi": "Free Wi-Fi",
+        "fleet-ac": "Climate Control",
+        "fleet-ac-double": "Double A/C",
+        "fleet-ac-full": "Fully Air Conditioned",
+        "fleet-usb": "USB Ports",
+        "fleet-seats": "Comfortable Seating",
         "btn-view-fleet": "View Full Fleet",
+        "btn-details": "View Details",
+        "vclass-title": "Premium VIP Chauffeur Service",
+        "vclass-desc-full": "Travel in style, comfort, and absolute privacy. The Mercedes-Benz V-Class is the preferred choice for VIPs, executives, and families who refuse to compromise on quality.",
+        "vclass-sub": "The Definition of Luxury Travel",
+        "fleet-ac-dual": "Dual Zone A/C",
+        "fleet-water": "Complimentary Water",
+        "fleet-charging": "Charging Ports",
+        "perfect-for": "Perfect For:",
+        "pf-air-t": "Airport Transfers:",
+        "pf-air-p": "VIP meet & greet service.",
+        "pf-bus-t": "Business Travel:",
+        "pf-bus-p": "Mobile office environment.",
+        "pf-long-t": "Long Distance Touring:",
+        "pf-long-p": "Maximum comfort for city-to-city trips.",
+        "pf-event-t": "Events:",
+        "pf-event-p": "Weddings and special occasions.",
+        "btn-book-vehicle": "Book This Vehicle",
+        "btn-chat-now": "Chat Now",
+        "ford-sub": "Spacious. Modern. Reliable.",
+        "ford-title": "Superior Group Comfort",
+        "ford-desc-full": "The Ford Tourneo Custom sets the standard for group travel. With its generous interior space and flexible seating, it offers a first-class experience for families and larger groups.",
+        "fleet-ac-gen": "Air Conditioned",
+        "why-choose": "Why Choose This Vehicle?",
+        "ford-f1-t": "Spacious Cabin:",
+        "ford-f1-p": "Ample legroom for everyone.",
+        "ford-f2-t": "Luggage Capacity:",
+        "ford-f2-p": "Ideal for airport transfers with lots of bags.",
+        "ford-f3-t": "Modern Safety:",
+        "ford-f3-p": "Equipped with latest safety features.",
+        "ford-f4-t": "Smooth Ride:",
+        "ford-f4-p": "Advanced suspension for long journeys.",
+        "ren-sub": "Perfect for Groups & Families",
+        "ren-title": "Reliable Group Transport",
+        "ren-desc-full": "The Renault Trafic combines practicality with comfort. It's the smart choice for larger groups looking for reliable transport across Morocco without breaking the bank.",
+        "fleet-passengers-9": "9 Passengers",
+        "fleet-luggage-big": "Big Luggage Space",
+        "fleet-ac-sys": "A/C System",
+        "key-features": "Key Features",
+        "ren-f1-t": "Group Friendly:",
+        "ren-f1-p": "Accommodates up to 9 people securely.",
+        "ren-f2-t": "Versatile:",
+        "ren-f2-p": "Great for both city transfers and excursions.",
+        "ren-f3-t": "Budget Friendly:",
+        "ren-f3-p": "Excellent value for money.",
+        "ren-f4-t": "Safe:",
+        "ren-f4-p": "Regularly maintained and inspected.",
+                
+        
+        
         "why-title": "Why Choose Us",
         "why-punctual-t": "Punctual & Reliable",
         "why-punctual-p": "We value your time. Our drivers are always on time, every time.",
@@ -160,9 +222,58 @@ const translations = {
         "fleet-passengers": "7 Passengers",
         "fleet-luggage": "7 Large Suitcases",
         "fleet-wifi": "Free Wi-Fi",
-        "fleet-ac": "Air Conditioning",
+        "fleet-ac": "Climate Control",
+        "fleet-ac-double": "Double A/C",
+        "fleet-ac-full": "Fully Air Conditioned",
         "btn-details": "View Details",
-        "btn-inquire": "Inquire Now",
+        "vclass-title": "Premium VIP Chauffeur Service",
+        "vclass-desc-full": "Travel in style, comfort, and absolute privacy. The Mercedes-Benz V-Class is the preferred choice for VIPs, executives, and families who refuse to compromise on quality.",
+        "vclass-sub": "The Definition of Luxury Travel",
+        "fleet-ac-dual": "Dual Zone A/C",
+        "fleet-water": "Complimentary Water",
+        "fleet-charging": "Charging Ports",
+        "perfect-for": "Perfect For:",
+        "pf-air-t": "Airport Transfers:",
+        "pf-air-p": "VIP meet & greet service.",
+        "pf-bus-t": "Business Travel:",
+        "pf-bus-p": "Mobile office environment.",
+        "pf-long-t": "Long Distance Touring:",
+        "pf-long-p": "Maximum comfort for city-to-city trips.",
+        "pf-event-t": "Events:",
+        "pf-event-p": "Weddings and special occasions.",
+        "btn-book-vehicle": "Book This Vehicle",
+        "btn-chat-now": "Chat Now",
+        "ford-sub": "Spacious. Modern. Reliable.",
+        "ford-title": "Superior Group Comfort",
+        "ford-desc-full": "The Ford Tourneo Custom sets the standard for group travel. With its generous interior space and flexible seating, it offers a first-class experience for families and larger groups.",
+        "fleet-ac-gen": "Air Conditioned",
+        "why-choose": "Why Choose This Vehicle?",
+        "ford-f1-t": "Spacious Cabin:",
+        "ford-f1-p": "Ample legroom for everyone.",
+        "ford-f2-t": "Luggage Capacity:",
+        "ford-f2-p": "Ideal for airport transfers with lots of bags.",
+        "ford-f3-t": "Modern Safety:",
+        "ford-f3-p": "Equipped with latest safety features.",
+        "ford-f4-t": "Smooth Ride:",
+        "ford-f4-p": "Advanced suspension for long journeys.",
+        "ren-sub": "Perfect for Groups & Families",
+        "ren-title": "Reliable Group Transport",
+        "ren-desc-full": "The Renault Trafic combines practicality with comfort. It's the smart choice for larger groups looking for reliable transport across Morocco without breaking the bank.",
+        "fleet-passengers-9": "9 Passengers",
+        "fleet-luggage-big": "Big Luggage Space",
+        "fleet-ac-sys": "A/C System",
+        "key-features": "Key Features",
+        "ren-f1-t": "Group Friendly:",
+        "ren-f1-p": "Accommodates up to 9 people securely.",
+        "ren-f2-t": "Versatile:",
+        "ren-f2-p": "Great for both city transfers and excursions.",
+        "ren-f3-t": "Budget Friendly:",
+        "ren-f3-p": "Excellent value for money.",
+        "ren-f4-t": "Safe:",
+        "ren-f4-p": "Regularly maintained and inspected.",
+                
+        
+        
         // Services Page
         "ser-hero-title": "Luxury Chauffeur Service & <span class='text-shine-gold'>Transport</span>",
         "ser-hero-subtitle": "Premium transport services designed for comfort, reliability, and elegance in Morocco",
@@ -568,7 +679,15 @@ const translations = {
         "f-safe-t": "Reliable & Safe",
         "f-safe-d": "Your safety is our priority. Our chauffeurs are licensed professionals with extensive experience on Moroccan roads.",
         "btn-book-whatsapp": "Book Your Private Driver on WhatsApp",
-        "nav-booking-process": "Booking Process"
+        "nav-booking-process": "Booking Process",
+        "faq-title": "Common Questions",
+        "faq-1-q": "How can I book a private driver?",
+        "faq-1-a": "You can easily book a driver via WhatsApp, phone, or our online form.",
+        "faq-2-q": "Are your prices fixed?",
+        "faq-2-a": "Yes, all our prices are fixed and provided upfront. There are no hidden fees or extra charges for luggage or late-night transfers.",
+        "faq-3-q": "Do you pick up from the airport?",
+        "faq-3-a": "Absolutely. We monitor your flight and our chauffeur will wait for you at the arrivals hall with a personalized name sign.",
+        "btn-all-faqs": "Read All FAQs"
     },
 
     fr: {
@@ -629,12 +748,29 @@ const translations = {
         "philosophy-quote": "“Enracinés au Maroc, inspirés par le monde — nous offrons des voyages façonnés par le confort, la culture et l'attention.”",
         "fleet-title": "Notre Flotte de Luxe",
         "fleet-vclass-t": "Mercedes Classe V",
-        "fleet-vclass-p": "Van VIP Luxe",
+        "fleet-vclass-p": "Van VIP de Luxe",
+        "fleet-vclass-desc": "Notre van haut de gamme, parfait pour les groupes et les transferts de luxe.",
         "fleet-ford-t": "Ford Tourneo",
-        "fleet-ford-p": "Van Spacieux",
+        "fleet-ford-p": "Van Spacieux pour Groupes",
+        "fleet-ford-desc": "Un choix de luxe spacieux et fiable pour les voyages de groupe, allié à un confort moderne.",
         "fleet-trafic-t": "Renault Trafic",
         "fleet-trafic-p": "Confort Fiable",
-        "btn-view-fleet": "Voir toute la flotte",
+        "fleet-trafic-desc": "Un van polyvalent et spacieux, parfait pour les transferts de groupe et les longs trajets.",
+        "fleet-passengers-7": "Jusqu'Ã  7 Passagers",
+        "fleet-passengers-8": "Jusqu'Ã  8 Passagers",
+        "fleet-luggage-7": "7 Grands Bagages",
+        "fleet-luggage-8": "8 Grands Bagages",
+        "fleet-wifi": "Wi-Fi Gratuit",
+        "fleet-ac": "Climatisation RÃ©versible",
+        "fleet-ac-double": "Double Climatisation",
+        "fleet-ac-full": "EntiÃ¨rement ClimatisÃ©",
+        "btn-view-fleet": "Voir Toute la Flotte",
+        "btn-details": "Voir en Détails",
+                
+        
+        
+        "fleet-usb": "Ports USB",
+        "fleet-seats": "Sièges Confortables",
         "why-title": "Pourquoi Nous Choisir",
         "why-punctual-t": "Ponctuel & Fiable",
         "why-punctual-p": "Nous valorisons votre temps. Nos chauffeurs sont toujours à l'heure.",
@@ -722,7 +858,9 @@ const translations = {
         "fleet-passengers": "7 Passagers",
         "fleet-luggage": "7 Grands Bagages",
         "fleet-wifi": "Wi-Fi Gratuit",
-        "fleet-ac": "Climatisation",
+        "fleet-ac": "Climatisation RÃ©versible",
+        "fleet-ac-double": "Double Climatisation",
+        "fleet-ac-full": "EntiÃ¨rement ClimatisÃ©",
         "btn-details": "Voir Détails",
         "btn-inquire": "S'informer",
         "fleet-usb": "Ports USB",
@@ -1430,18 +1568,30 @@ const translations = {
         "f-safe-t": "Fiable & Sûr",
         "f-safe-d": "Votre sécurité est notre priorité. Nos chauffeurs sont des professionnels agréés avec une grande expérience sur les routes marocaines.",
         "btn-book-whatsapp": "Réservez Votre Chauffeur Privé sur WhatsApp",
-        "nav-booking-process": "Processus de Réservation"
+        "nav-booking-process": "Processus de Réservation",
+        "faq-title": "Questions Fréquentes",
+        "faq-1-q": "Comment réserver un chauffeur privé ?",
+        "faq-1-a": "Vous pouvez facilement réserver un chauffeur via WhatsApp, par téléphone ou via notre formulaire en ligne.",
+        "faq-2-q": "Vos prix sont-ils fixes ?",
+        "faq-2-a": "Oui, tous nos prix sont fixes et annoncés à l'avance. Il n'y a pas de frais cachés, ni de suppléments pour les bagages ou les transferts nocturnes.",
+        "faq-3-q": "Faites-vous la prise en charge à l'aéroport ?",
+        "faq-3-a": "Absolument. Nous suivons votre vol et notre chauffeur vous attendra dans le hall des arrivées avec une pancarte personnalisée à votre nom.",
+        "btn-all-faqs": "Lire toutes les FAQ"
     }
 };
 
 
 function setLanguage(lang) {
+    if (!translations[lang]) return;
+
+    // 1. Update localStorage + html attribute
     localStorage.setItem('selectedLanguage', lang);
     document.documentElement.setAttribute('lang', lang);
 
+    // 2. Loop through every translatable element
     document.querySelectorAll('[data-i18n]').forEach(element => {
         const key = element.getAttribute('data-i18n');
-        if (translations[lang][key]) {
+        if (translations[lang] && translations[lang][key]) {
             if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
                 element.placeholder = translations[lang][key];
             } else if (element.tagName === 'META') {
@@ -1452,41 +1602,35 @@ function setLanguage(lang) {
         }
     });
 
-    // Special handling for document title if it has data-i18n
+    // 3. Special handling for document title
     const titleEl = document.querySelector('title[data-i18n]');
-    if (titleEl && translations[lang][titleEl.getAttribute('data-i18n')]) {
+    if (titleEl && translations[lang] && translations[lang][titleEl.getAttribute('data-i18n')]) {
         document.title = translations[lang][titleEl.getAttribute('data-i18n')];
     }
 
-    // Update active state on switcher buttons
+    // 4. Update Floating Header Switcher 
     document.querySelectorAll('.lang-btn').forEach(btn => {
         btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
     });
 
-    // Refresh WhatsApp links with new language message
+    // 5. Refresh WhatsApp Message Link
     if (typeof initWhatsAppBot === 'function') {
         initWhatsAppBot();
     }
 }
 
 function initLanguage() {
-    let lang = 'en';
-    const path = window.location.pathname;
+    // 1. Check local storage
+    const savedLang = localStorage.getItem('selectedLanguage');
 
-    // Detect language from URL first to ensure sync with physical folders
-    if (path.includes('/fr/')) {
-        lang = 'fr';
-    } else if (path.includes('/en/')) {
-        lang = 'en';
-    } else {
-        // Fallback to localStorage or browser default
-        const savedLang = localStorage.getItem('selectedLanguage');
-        const browserLang = navigator.language ? navigator.language.split('-')[0] : 'en';
-        const defaultLang = ['en', 'fr'].includes(browserLang) ? browserLang : 'en';
-        lang = savedLang || defaultLang;
-    }
+    // 2. Check browser default otherwise
+    const browserLang = navigator.language ? navigator.language.split('-')[0] : 'en';
+    const defaultLang = ['en', 'fr'].includes(browserLang) ? browserLang : 'en';
 
-    localStorage.setItem('selectedLanguage', lang);
+    // 3. Set the state locally without redirects
+    const lang = savedLang || defaultLang;
+
+    // 4. Mount the UI language switcher in its original spot
     createLanguageSwitcher(lang);
     setLanguage(lang);
 }
@@ -1508,36 +1652,14 @@ function createLanguageSwitcher(activeLang) {
         btn.setAttribute('data-lang', lang.code);
         btn.innerHTML = `<i class="fas fa-globe"></i> ${lang.label}`;
         btn.onclick = () => {
-            if (lang.code !== activeLang) {
-                switchLanguageAndRedirect(lang.code);
+            if (lang.code !== document.documentElement.lang) {
+                setLanguage(lang.code);
             }
         };
         switcher.appendChild(btn);
     });
 
     document.body.appendChild(switcher);
-}
-
-function switchLanguageAndRedirect(newLang) {
-    localStorage.setItem('selectedLanguage', newLang);
-    let path = window.location.pathname;
-
-    let newUrl = "";
-    if (path.includes('/en/')) {
-        newUrl = path.replace('/en/', `/${newLang}/`);
-    } else if (path.includes('/fr/')) {
-        newUrl = path.replace('/fr/', `/${newLang}/`);
-    } else {
-        // Root directory
-        let pageName = path.split('/').pop();
-        if (!pageName || pageName === '') pageName = 'index.html';
-
-        // Handle path ending with slash
-        const basePath = path.endsWith('/') ? path : path.substring(0, path.lastIndexOf('/') + 1);
-        newUrl = `${basePath}${newLang}/${pageName}`;
-    }
-
-    window.location.href = newUrl;
 }
 
 // initLanguage is safe to run on load
@@ -2037,3 +2159,28 @@ async function handleBookingSubmit(event) {
         submitBtn.innerHTML = originalBtnText;
     }
 }
+
+// FAQ Accordion Logic
+document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.faq-question').forEach(button => {
+        button.addEventListener('click', () => {
+            const answer = button.nextElementSibling;
+            const icon = button.querySelector('i');
+            if (answer && answer.classList.contains('faq-answer')) {
+                if (answer.style.display === 'none' || !answer.style.display || getComputedStyle(answer).display === 'none') {
+                    answer.style.display = 'block';
+                    if (icon) {
+                        icon.classList.remove('fa-chevron-right');
+                        icon.classList.add('fa-chevron-down');
+                    }
+                } else {
+                    answer.style.display = 'none';
+                    if (icon) {
+                        icon.classList.remove('fa-chevron-down');
+                        icon.classList.add('fa-chevron-right');
+                    }
+                }
+            }
+        });
+    });
+});

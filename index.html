@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -11,25 +11,26 @@
     content="private driver Morocco, luxury transfers Morocco, airport transfer Marrakech, chauffeur service Casablanca, private transport Fes Rabat Tangier, Morocco tourist driver">
 
   <!-- Canonical -->
-  <link rel="canonical" href="https://moutaouakil-transfers.com/index.html">
-  <link rel="alternate" hreflang="en" href="https://moutaouakil-transfers.com/index.html">
-  <link rel="alternate" hreflang="fr" href="https://moutaouakil-transfers.com/index.html">
+  <link rel="canonical" href="https://moutaouakil-transfers.com/">
+  <link rel="alternate" hreflang="en" href="https://moutaouakil-transfers.com/">
+  <link rel="alternate" hreflang="fr" href="https://moutaouakil-transfers.com/fr/">
 
   <link rel="alternate" hreflang="x-default" href="https://moutaouakil-transfers.com/">
 
-  <!-- SEO Schema: LocalBusiness + Review -->
+  <!-- SEO Schema: LocalBusiness & TransportationService -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": ["LocalBusiness", "TransportationService"],
     "name": "MouTaouakil Transfers & Private Driver",
     "image": "https://moutaouakil-transfers.com/images/hero_luxury_van.png",
     "@id": "https://moutaouakil-transfers.com",
     "url": "https://moutaouakil-transfers.com",
     "telephone": "+212600000000",
+    "priceRange": "$$",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Boulevard Hassan II",
+      "streetAddress": "Av. Mohammed V",
       "addressLocality": "Marrakech",
       "postalCode": "40000",
       "addressCountry": "MA"
@@ -39,28 +40,24 @@
       "latitude": 31.6295,
       "longitude": -7.9811
     },
-    "priceRange": "$$",
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
     "areaServed": [
-      {
-        "@type": "City",
-        "name": "Marrakech"
-      },
-      {
-        "@type": "City",
-        "name": "Casablanca"
-      },
-      {
-        "@type": "City",
-        "name": "Fes"
-      },
-      {
-        "@type": "City",
-        "name": "Rabat"
-      },
-      {
-        "@type": "City",
-        "name": "Tangier"
-      }
+      { "@type": "City", "name": "Marrakech" },
+      { "@type": "City", "name": "Casablanca" },
+      { "@type": "City", "name": "Fes" },
+      { "@type": "City", "name": "Rabat" },
+      { "@type": "City", "name": "Tangier" }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/moutaouakiltransfers",
+      "https://www.instagram.com/moutaouakiltransfers"
     ],
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -72,7 +69,7 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://moutaouakil-transfers.com/en/index.html">
+  <meta property="og:url" content="https://moutaouakil-transfers.com/">
   <meta property="og:title" content="Private Driver Morocco | Luxury Transfers & Tours">
   <meta property="og:description"
     content="Book your private driver in Morocco. Luxury airport transfers and tourist transport in Marrakech, Casablanca, Fes.">
@@ -98,50 +95,6 @@
   <!-- Styles -->
   <link rel="stylesheet" href="style.css">
 
-  <!-- Schema Markup -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "TransportationService",
-    "name": "MouTaouakil Transfers & Private Driver",
-    "image": "https://moutaouakil-transfers.com/images/hero_luxury_van.png",
-    "@id": "https://moutaouakil-transfers.com",
-    "url": "https://moutaouakil-transfers.com",
-    "telephone": "+212600000000",
-    "priceRange": "$$",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Av. Mohammed V",
-      "addressLocality": "Marrakech",
-      "postalCode": "40000",
-      "addressCountry": "MA"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 31.6295,
-      "longitude": -7.9811
-    },
-    "openingHoursSpecification": {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ],
-      "opens": "00:00",
-      "closes": "23:59"
-    },
-    "sameAs": [
-      "https://www.facebook.com/moutaouakiltransfers",
-      "https://www.instagram.com/moutaouakiltransfers"
-    ]
-  }
-  </script>
-</head>
 
 <body>
   <canvas id="bg-canvas"></canvas>
@@ -165,7 +118,7 @@
           <li><a href="contact.html"><span data-i18n="nav-contact">Contact</span></a></li>
         </ul>
       </nav>
-      <div class="book-btn-container">
+            <div class="book-btn-container" >
         <a href="booking.html" class="btn btn-gold"><span data-i18n="btn-book-now">Book Now</span></a>
       </div>
       <div class="hamburger">
@@ -227,7 +180,7 @@
           <h3 data-i18n="service-vip-t">VIP & Business</h3>
           <p data-i18n="service-vip-p">Discreet and reliable transport solutions for corporate clients and VIPs.</p>
         </a>
-        <a href="services.html#driver-details" class="service-card">
+        <a href="services.html#multi-details" class="service-card">
           <i class="fas fa-calendar-check"></i>
           <h3 data-i18n="service-multi-t">Multi-day Booking</h3>
           <p data-i18n="service-multi-p">Hire a vehicle and driver for your entire stay for ultimate freedom.</p>
@@ -437,23 +390,38 @@
       <div class="faq-accordion-preview" style="max-width: 800px; margin: 0 auto;">
         <div class="faq-item" style="border-bottom: 1px solid rgba(255,255,255,0.1);">
           <div class="faq-question"
-            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;"
+            onclick="var ans=this.nextElementSibling; var i=this.querySelector('i'); if(ans.style.display==='none'){ans.style.display='block';i.classList.remove('fa-chevron-right');i.classList.add('fa-chevron-down');}else{ans.style.display='none';i.classList.remove('fa-chevron-down');i.classList.add('fa-chevron-right');}">
             <span style="font-weight: 500;" data-i18n="faq-1-q">How can I book a private driver?</span>
             <i class="fas fa-chevron-right text-gold"></i>
+          </div>
+          <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: var(--text-muted);"><p data-i18n="faq-1-a">You can easily book a driver via WhatsApp, phone, or our online form.</p></div> <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: #e0e0e0;">
+            <p>You can book directly via WhatsApp, by phone, or through our contact form. We recommend booking at least
+              24 hours in advance.</p>
           </div>
         </div>
         <div class="faq-item" style="border-bottom: 1px solid rgba(255,255,255,0.1);">
           <div class="faq-question"
-            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;"
+            onclick="var ans=this.nextElementSibling; var i=this.querySelector('i'); if(ans.style.display==='none'){ans.style.display='block';i.classList.remove('fa-chevron-right');i.classList.add('fa-chevron-down');}else{ans.style.display='none';i.classList.remove('fa-chevron-down');i.classList.add('fa-chevron-right');}">
             <span style="font-weight: 500;" data-i18n="faq-2-q">Are your prices fixed?</span>
             <i class="fas fa-chevron-right text-gold"></i>
+          </div>
+          <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: var(--text-muted);"><p data-i18n="faq-2-a">Yes, all our prices are fixed and shared with you before booking.</p></div> <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: #e0e0e0;">
+            <p>Yes, all our prices are fixed and provided upfront. There are no hidden fees or extra charges for luggage
+              or late-night transfers.</p>
           </div>
         </div>
         <div class="faq-item">
           <div class="faq-question"
-            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+            style="padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;"
+            onclick="var ans=this.nextElementSibling; var i=this.querySelector('i'); if(ans.style.display==='none'){ans.style.display='block';i.classList.remove('fa-chevron-right');i.classList.add('fa-chevron-down');}else{ans.style.display='none';i.classList.remove('fa-chevron-down');i.classList.add('fa-chevron-right');}">
             <span style="font-weight: 500;" data-i18n="faq-3-q">Do you pick up from the airport?</span>
             <i class="fas fa-chevron-right text-gold"></i>
+          </div>
+          <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: var(--text-muted);"><p data-i18n="faq-3-a">Absolutely. Our chauffeurs meet you right at the airport arrivals hall.</p></div> <div class="faq-answer" style="display: none; padding: 0 15px 15px; color: #e0e0e0;">
+            <p>Absolutely. We monitor your flight and our chauffeur will wait for you at the arrivals hall with a
+              personalized name sign.</p>
           </div>
         </div>
       </div>
@@ -525,8 +493,8 @@
     <div class="container footer-content">
       <div class="footer-brand">
         <h3>MouTaouakil Transfers</h3>
-        <p data-i18n="footer-desc"><span data-i18n="footer-desc">Luxury Tourist Transport & Chauffeur Service in
-            Morocco.</span></p>
+        <p data-i18n="footer-desc">Luxury Tourist Transport & Chauffeur Service in
+          Morocco.</p>
       </div>
       <div class="footer-links">
         <h4 data-i18n="footer-areas">Service Areas</h4>
@@ -540,7 +508,7 @@
       <div class="footer-contact">
         <h4 data-i18n="footer-contact-title">Contact Us</h4>
         <p><i class="fab fa-whatsapp"></i> +212 600 000 000</p>
-        <p><span data-i18n="footer-available"><span data-i18n="footer-available">Available 24/7</span></span></p>
+        <p><span data-i18n="footer-available">Available 24/7</span></p>
       </div>
     </div>
     <div class="footer-bottom">
@@ -549,7 +517,7 @@
   </footer>
 
   <a href="#" id="scroll-top" class="scroll-top" title="Go to top">
-    UP
+    <i class="fas fa-arrow-up"></i>
   </a>
 
   <script src="script.js"></script>
