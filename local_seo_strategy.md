@@ -1,13 +1,13 @@
-# Local SEO Strategy for MouTaouakil Transfers
+# Local SEO Strategy for Safia Transfers
 
 ## 1. Google Business Profile (GBP) Optimization
 
 ### Business Description
 
-**Business Name:** MouTaouakil Transfers & Private Driver
+**Business Name:** Safia Transfers & Private Driver
 
 **Description:**
-"Experience Morocco with **MouTaouakil Transfers & Private Driver**, your premier choice for **luxury chauffeur services** and **private transport in Morocco**. Based in Marrakech and Casablanca, we specialize in reliable **airport transfers** (Marrakech Menara, Casablanca Mohammed V), city-to-city transfers, and custom **tourist transport**.
+"Experience Morocco with **Safia Transfers & Private Driver**, your premier choice for **luxury chauffeur services** and **private transport in Morocco**. Based in Marrakech and Casablanca, we specialize in reliable **airport transfers** (Marrakech Menara, Casablanca Mohammed V), city-to-city transfers, and custom **tourist transport**.
 
 Our fleet of modern Mercedes-Benz vehicles ensures comfort for business travelers, families, and solo tourists. Whether you need a **private driver for a day**, a transfer to Fes or Essaouira, or a complete **Morocco private tour**, our professional, English-speaking drivers are at your service 24/7. Book your **private driver in Morocco** today for a stress-free journey."
 
@@ -25,7 +25,7 @@ Our fleet of modern Mercedes-Benz vehicles ensures comfort for business traveler
 
 1. **Special Offer:** "Book your Round Trip Airport Transfer in Marrakech and get 10% off your City Tour! 🚐✨ #Marrakech Transfers"
 2. **Travel Tip:** "Avoiding the heat? Our air-conditioned V-Class vans are the coolest way to travel from Casablanca to Marrakech this summer. ❄️ #MoroccoTravel"
-3. **New Destination:** "Now offering direct private transfers to the Blue City, Chefchaouen! Ride in comfort with MouTaouakil Transfers. 💙 #Chefchaouen"
+3. **New Destination:** "Now offering direct private transfers to the Blue City, Chefchaouen! Ride in comfort with Safia Transfers. 💙 #Chefchaouen"
 4. **Client Testimonial:** " 'The best driver we had in Morocco!' - Thank you, John, for the 5-star review! We love serving our guests. ⭐⭐⭐⭐⭐"
 
 ---
@@ -38,22 +38,22 @@ Our fleet of modern Mercedes-Benz vehicles ensures comfort for business traveler
 
 #### WhatsApp Template
 
-"Hello [Name], we hope you enjoyed your trip with MouTaouakil Transfers! 🚐🇲🇦
+"Hello [Name], we hope you enjoyed your trip with Safia Transfers! 🚐🇲🇦
 It was a pleasure serving you. If you have a moment, could you share your experience on Google? It helps us a lot!
 👉 [Insert Google Review Link]
-Thank you and safe travels! - The MouTaouakil Team"
+Thank you and safe travels! - The Safia Team"
 
 #### SMS Template
 
-"Hi [Name], thanks for choosing MouTaouakil Transfers. Would you mind rating your driver? It takes just 1 min: [Link]. Thanks!"
+"Hi [Name], thanks for choosing Safia Transfers. Would you mind rating your driver? It takes just 1 min: [Link]. Thanks!"
 
 #### Email Template
 
-**Subject:** Your trip with MouTaouakil Transfers - How was it?
+**Subject:** Your trip with Safia Transfers - How was it?
 
 "Dear [Name],
 
-Thank you for choosing **MouTaouakil Transfers** for your recent journey in Morocco. We hope you traveled comfortably and safely.
+Thank you for choosing **Safia Transfers** for your recent journey in Morocco. We hope you traveled comfortably and safely.
 
 As a local business, we strive to provide the best **private driver service**. Would you mind sharing your feedback on our Google profile?
 
@@ -62,7 +62,7 @@ As a local business, we strive to provide the best **private driver service**. W
 Your feedback helps other travelers find reliable transport in Morocco.
 
 Warm regards,
-MouTaouakil Transfers Team"
+Safia Transfers Team"
 
 ---
 
@@ -80,7 +80,7 @@ MouTaouakil Transfers Team"
 
 "Hello [Manager Name],
 
-I am the manager of **MouTaouakil Transfers**, a top-rated private driver service in Marrakech.
+I am the manager of **Safia Transfers**, a top-rated private driver service in Marrakech.
 
 I know your guests at **[Riad Name]** often ask for reliable airport transfers or day trips. We offer a premium fleet (Mercedes V-Class) with fixed pricing and English-speaking drivers.
 
@@ -90,7 +90,7 @@ Are you open to a quick chat?
 
 Best,
 [Your Name]
-MouTaouakil Transfers"
+Safia Transfers"
 
 ---
 

@@ -1,4 +1,4 @@
-# 🇲🇦 MouTaouakil Transfers - WhatsApp Automation Bot
+# 🇲🇦 Safia Transfers - WhatsApp Automation Bot
 
 This project contains the source code for a smart, luxury-toned WhatsApp automation bot designed to convert inquiries into confirmed bookings.
 
@@ -33,4 +33,4 @@ This project contains the source code for a smart, luxury-toned WhatsApp automat
 - Be concise but helpful.
 
 ---
-*Created for MouTaouakil Transfers - Luxury Travel Morocco.*
+*Created for Safia Transfers - Luxury Travel Morocco.*

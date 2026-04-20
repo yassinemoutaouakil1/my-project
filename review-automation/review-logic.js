@@ -1,16 +1,16 @@
 /**
- * MouTaouakil Transfers - Review Collection Logic
+ * Safia Transfers - Review Collection Logic
  */
 
 const translations = {
     en: {
-        ask_feedback: "How was your trip with MouTaouakil Transfers? 🇲🇦\n\n1️⃣ Excellent! 🌟\n2️⃣ Could be better...",
+        ask_feedback: "How was your trip with Safia Transfers? 🇲🇦\n\n1️⃣ Excellent! 🌟\n2️⃣ Could be better...",
         excellent_reply: "We're thrilled you enjoyed it! Your support means the world to us. Could you leave a quick 5-star review on Google? ✨\n🔗 [Google Review Link]",
         improvement_reply: "We are sorry to hear that. Your satisfaction is our priority. Please tell us what went wrong here: [Private Feedback Link]",
         reminder: "Hi! Just a friendly reminder to share your experience with us. It only takes a minute! 🚗💨"
     },
     fr: {
-        ask_feedback: "Comment s'est passé votre voyage avec MouTaouakil Transfers ? 🇲🇦\n\n1️⃣ Excellent ! 🌟\n2️⃣ Pourrait être mieux...",
+        ask_feedback: "Comment s'est passé votre voyage avec Safia Transfers ? 🇲🇦\n\n1️⃣ Excellent ! 🌟\n2️⃣ Pourrait être mieux...",
         excellent_reply: "Nous sommes ravis que vous ayez apprécié ! Votre soutien est précieux. Pourriez-vous nous laisser un avis 5 étoiles sur Google ? ✨\n🔗 [Lien Google Review]",
         improvement_reply: "Nous sommes désolés d'apprendre cela. Votre satisfaction est notre priorité. Dites-nous ce qui n'a pas été ici : [Lien Feedback Privé]",
         reminder: "Bonjour ! Un petit rappel pour partager votre expérience avec nous. Cela ne prend qu'une minute ! 🚗💨"

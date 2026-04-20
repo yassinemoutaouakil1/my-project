@@ -1,6 +1,6 @@
 {
   "en": {
-    "welcome": "Welcome to *MouTaouakil Transfers & Private Driver* 🇲🇦\nHow can we assist you today?\n\n1️⃣ Airport Transfer\n2️⃣ City Transfer\n3️⃣ Private Chauffeur\n4️⃣ Custom Tour\n\n*Please reply with the number of your choice.*",
+    "welcome": "Welcome to *Safia Transfers & Private Driver* 🇲🇦\nHow can we assist you today?\n\n1️⃣ Airport Transfer\n2️⃣ City Transfer\n3️⃣ Private Chauffeur\n4️⃣ Custom Tour\n\n*Please reply with the number of your choice.*",
     "airport_pickup": "Which airport are you arriving at?\n(e.g., Casablanca CMN, Marrakech RAK, Fes FEZ)",
     "dest_city": "What is your destination city?",
     "date_time": "Please provide the *Date & Time* of your transfer.",
@@ -10,12 +10,12 @@
     "custom_plan": "Please describe your travel plan details (Cities, Days, Preferences).",
     "estimating": "🔄 *Calculating your luxury transfer price...*",
     "price_offer": "Estimated price for a luxury *Mercedes-Benz* vehicle:\n\n📍 Route: {route}\n🚗 Vehicle: VIP Van\n💰 Estimated Price: {price} EUR\n\nWould you like to confirm this booking?\n\n1️⃣ Yes, Book Now\n2️⃣ Talk to an Agent",
-    "confirmed": "✅ *Booking Confirmed!*\n\nOur team is preparing your {service}. A human agent will contact you shortly to finalize details.\n\nThank you for choosing MouTaouakil Transfers!",
+    "confirmed": "✅ *Booking Confirmed!*\n\nOur team is preparing your {service}. A human agent will contact you shortly to finalize details.\n\nThank you for choosing Safia Transfers!",
     "handoff": "Transferring you to a human agent... Please wait a moment. 🎧",
-    "review_req": "We hope you enjoyed your journey with *MouTaouakil Transfers*! 🌟\n\nWould you mind sharing your experience on Google? It helps us grow!\n🔗 [Link to Google Review]"
+    "review_req": "We hope you enjoyed your journey with *Safia Transfers*! 🌟\n\nWould you mind sharing your experience on Google? It helps us grow!\n🔗 [Link to Google Review]"
   },
   "fr": {
-    "welcome": "Bienvenue chez *MouTaouakil Transfers & Chauffeur Privé* 🇲🇦\nComment pouvons-nous vous aider aujourd'hui ?\n\n1️⃣ Transfert Aéroport\n2️⃣ Transfert Inter-villes\n3️⃣ Chauffeur Privé\n4️⃣ Circuit Personnalisé\n\n*Veuillez répondre avec le numéro de votre choix.*",
+    "welcome": "Bienvenue chez *Safia Transfers & Chauffeur Privé* 🇲🇦\nComment pouvons-nous vous aider aujourd'hui ?\n\n1️⃣ Transfert Aéroport\n2️⃣ Transfert Inter-villes\n3️⃣ Chauffeur Privé\n4️⃣ Circuit Personnalisé\n\n*Veuillez répondre avec le numéro de votre choix.*",
     "airport_pickup": "À quel aéroport arrivez-vous ?\n(ex: Casablanca CMN, Marrakech RAK, Fès FEZ)",
     "dest_city": "Quelle est votre ville de destination ?",
     "date_time": "Veuillez indiquer la *Date et l'Heure* de votre transfert.",
@@ -25,9 +25,9 @@
     "custom_plan": "Veuillez décrire les détails de votre plan de voyage (Villes, Jours, Préférences).",
     "estimating": "🔄 *Calcul de votre devis de luxe en cours...*",
     "price_offer": "Prix estimé pour un véhicule de luxe *Mercedes-Benz* :\n\n📍 Trajet : {route}\n🚗 Véhicule : Van VIP\n💰 Prix Estimé : {price} EUR\n\nVoulez-vous confirmer cette réservation ?\n\n1️⃣ Oui, Réserver\n2️⃣ Parler à un agent",
-    "confirmed": "✅ *Réservation Confirmée !*\n\nNotre équipe prépare votre {service}. Un agent humain vous contactera sous peu pour finaliser les détails.\n\nMerci d'avoir choisi MouTaouakil Transfers !",
+    "confirmed": "✅ *Réservation Confirmée !*\n\nNotre équipe prépare votre {service}. Un agent humain vous contactera sous peu pour finaliser les détails.\n\nMerci d'avoir choisi Safia Transfers !",
     "handoff": "Nous vous mettons en relation avec un agent... Veuillez patienter un instant. 🎧",
-    "review_req": "Nous espérons que vous avez apprécié votre voyage avec *MouTaouakil Transfers* ! 🌟\n\nPourriez-vous partager votre expérience sur Google ? Cela nous aide beaucoup !\n🔗 [Lien vers Google Review]"
+    "review_req": "Nous espérons que vous avez apprécié votre voyage avec *Safia Transfers* ! 🌟\n\nPourriez-vous partager votre expérience sur Google ? Cela nous aide beaucoup !\n🔗 [Lien vers Google Review]"
   },
   "ar": {
     "welcome": "مرحباً بكم في *موتوكيل للتحويلات والسائق الخاص* 🇲🇦\nكيف يمكننا مساعدتكم اليوم؟\n\n1️⃣ توصيل من المطار\n2️⃣ توصيل بين المدن\n3️⃣ سائق خاص\n4️⃣ جولة مخصصة\n\n*يرجى الرد برقم اختياركم.*",

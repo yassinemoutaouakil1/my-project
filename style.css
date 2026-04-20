@@ -605,6 +605,15 @@ footer {
   color: var(--text-muted);
 }
 
+.footer-contact a {
+  transition: var(--transition);
+}
+
+.footer-contact a:hover {
+  color: var(--accent-gold);
+  text-decoration: underline;
+}
+
 .footer-bottom {
   text-align: center;
   padding-top: 20px;

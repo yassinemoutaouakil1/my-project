@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const directory = 'c:/Users/pc/.gemini/antigravity/scratch/moutaouakil-transfers';
+const directory = 'c:/Users/pc/.gemini/antigravity/scratch/safia-transfers';
 
 function fixFaqStructure(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');

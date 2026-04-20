@@ -13,7 +13,7 @@ The forms on your site are already pre-configured to send data via a Webhook. Fo
 
 1. Click the large `+` button to add a module and search for **Webhooks**.
 2. Select **Custom Webhook**.
-3. Click **Add** to create a new webhook. Name it "MouTaouakil Transfers Booking".
+3. Click **Add** to create a new webhook. Name it "Safia Transfers Booking".
 4. Make will generate a unique URL (e.g. `https://hook.eu2.make.com/xxxxxxxxxxxx`).
 5. **Copy this URL**.
 
@@ -41,7 +41,7 @@ The forms on your site are already pre-configured to send data via a Webhook. Fo
 1. Add a third module: **Gmail** (or whichever email provider you prefer).
 2. Select **Send an Email**.
 3. Map the "To" field to the `email` variable captured by the webhook.
-4. Set the Subject to "Booking Confirmation - MouTaouakil Transfers" (or map dynamically based on the `language` field!).
+4. Set the Subject to "Booking Confirmation - Safia Transfers" (or map dynamically based on the `language` field!).
 5. Add your personalized HTML message body telling the customer their booking request for `${pickup}` to `${destination}` is received.
 
 ## Step 6: Integrate Email Marketing (MailerLite / Brevo)

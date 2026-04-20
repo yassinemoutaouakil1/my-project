@@ -17,9 +17,9 @@ const translations = {
         "nav-contact": "Contact",
         "nav-contact": "Contact",
         "footer-explore": "Explore More Services",
-        "page-title": "MouTaouakil Transfers | Private Driver Morocco & Luxury Transfers",
+        "page-title": "Safia Transfers | Private Driver Morocco & Luxury Transfers",
         "page-desc": "Premium private driver services and luxury transfers in Morocco (Marrakech, Casablanca, Fes, Rabat, Tangier). Professional chauffeurs at fixed rates.",
-        "con-page-title": "Contact MouTaouakil Transfers | Book Your Private Driver Morocco",
+        "con-page-title": "Contact Safia Transfers | Book Your Private Driver Morocco",
         "con-page-desc": "Book your private driver and luxury transfers across Morocco. Contact us today for reliable and comfortable transport.",
         "aga-page-title": "Private Driver in Agadir | Luxury Transfers & Chauffeur Service",
         "aga-page-desc": "Professional private driver in Agadir offering airport transfers, beach resort transport, city tours, and luxury long-distance transfers to Marrakech and more.",
@@ -37,13 +37,13 @@ const translations = {
         "che-page-desc": "Book a private driver to the Blue Pearl of Morocco. Luxury chauffeur and transport to Chefchaouen from Fes, Tangier, and Casablanca.",
         "sah-page-title": "Private Driver for Sahara Desert Tours | Luxury Transfers",
         "sah-page-desc": "Embark on a luxury Sahara Desert tour with a professional private driver. Transfers to Merzouga and Zagora from Marrakech and Fes.",
-        "fle-page-title": "Luxury Fleet | Mercedes V-Class & E-Class Morocco | MouTaouakil",
+        "fle-page-title": "Luxury Fleet | Mercedes V-Class & E-Class Morocco | Safia",
         "fle-page-desc": "Explore our luxury fleet for private transport in Morocco. Mercedes-Benz V-Class vans and VIP transport for ultimate comfort and style.",
         "ser-page-title": "Luxury Chauffeur Service Casablanca, Marrakech & Fes | Transfers",
         "ser-page-desc": "Premium chauffeur service in Casablanca, Marrakech, and Fes. We offer reliable airport transfers, city-to-city transport, and luxury private tours.",
         "des-page-title": "Morocco Tours & Destinations | Private Driver Fes, Rabat, Tangier",
         "des-page-desc": "Discover Morocco's top destinations with a private driver. Custom tours to Fes, Rabat, Tangier, Chefchaouen, and the Sahara Desert.",
-        "boo-page-title": "Book Private Driver Morocco | Instant Quote | MouTaouakil Transfers",
+        "boo-page-title": "Book Private Driver Morocco | Instant Quote | Safia Transfers",
         "boo-page-desc": "Book your private driver in Morocco easily. Get an instant quote for airport transfers or custom tours. Secure online reservation.",
         "btn-book-now": "Book Now",
         "hero-title": "<span class='text-shine-gold'>Private Driver</span> Morocco &<br>Luxury Transfers",
@@ -107,7 +107,7 @@ const translations = {
         "trust-verified": "Verified Professional Drivers",
         "trust-insured": "Fully Insured Vehicles",
         "trust-support": "24/7 Customer Support",
-        "faq-page-title": "FAQ | Private Driver Morocco | Questions & Answers | MouTaouakil",
+        "faq-page-title": "FAQ | Private Driver Morocco | Questions & Answers | Safia",
         "faq-page-desc": "Find answers about your private driver in Morocco. Luxury transfers, airport services in Marrakech, Casablanca, Fes, Rabat & Tangier. Book your chauffeur service today.",
         "faq-hero-title": "Frequently Asked <span class='text-shine-gold'>Questions</span> about Private Transfers",
         "faq-hero-subtitle": "Everything you need to know about your luxury travel experience in Morocco",
@@ -115,7 +115,7 @@ const translations = {
         "faq-cat-fleet": "Fleet, Comfort & Drivers",
         "faq-cat-tours": "Tours, Pricing & Trust",
         "faq-p-q1": "How do I book a private transfer in Morocco?",
-        "faq-p-a1": "Booking a <strong>private driver in Morocco</strong> is simple with MouTaouakil Transfers. You can book directly via WhatsApp for instant confirmation, or use our online booking page. We recommend reserving your luxury transfer at least 24 hours in advance.",
+        "faq-p-a1": "Booking a <strong>private driver in Morocco</strong> is simple with Safia Transfers. You can book directly via WhatsApp for instant confirmation, or use our online booking page. We recommend reserving your luxury transfer at least 24 hours in advance.",
         "faq-p-q2": "Do you offer airport transfer services in Marrakech, Casablanca & Fes?",
         "faq-p-a2": "Yes, we provide reliable <strong>luxury airport transfers</strong> across all major Moroccan hubs, including Marrakech (RAK), Casablanca (CMN), Fes (FEZ), Rabat, and Tangier. Our drivers meet you at the arrivals hall with a name sign.",
         "faq-p-q3": "Is your private driver service Available 24/7?",
@@ -130,8 +130,8 @@ const translations = {
         "faq-p-a7": "Yes! We offer fully customized tours. Whether it's a desert trip to Merzouga or a tour of Imperial Cities, we tailor the itinerary to your pace.",
         "faq-p-q8": "Is your pricing transparent? Are there hidden fees?",
         "faq-p-a8": "We believe in 100% transparent pricing. The quote you receive includes vehicle, driver, fuel, and tolls. No hidden fees for luggage or delays.",
-        "faq-p-q9": "Why choose MouTaouakil Transfers for my Morocco trip?",
-        "faq-p-a9": "MouTaouakil Transfers offers peace of mind with punctual private drivers, immaculate luxury vehicles, 24/7 support, and deep local knowledge.",
+        "faq-p-q9": "Why choose Safia Transfers for my Morocco trip?",
+        "faq-p-a9": "Safia Transfers offers peace of mind with punctual private drivers, immaculate luxury vehicles, 24/7 support, and deep local knowledge.",
         "faq-soft-cta": "Book your private driver via WhatsApp now",
         "faq-trust-title": "Reliability & Safety",
         "faq-trust-p": "We are committed to providing reliable, safe, and professional private driver services throughout Morocco.",
@@ -149,7 +149,7 @@ const translations = {
         "footer-area-fez": "Fes Airport",
         "footer-contact-title": "Contact Us",
         "footer-available": "Available 24/7",
-        "footer-copyright": "© 2026 MouTaouakil Transfers. All rights reserved.",
+        "footer-copyright": "© 2026 Safia Transfers. All rights reserved.",
         "footer-follow": "Follow Us",
         // Fleet Page
         "fleet-hero-title": "<span class='text-shine-gold'>Luxury Fleet</span> & Private Transport",
@@ -237,7 +237,7 @@ const translations = {
         "ser-city-cta-p": "Planning a trip to another city?",
         "ser-city-btn": "Get a Quote",
         "ser-tour-t": "Luxury Tourist Tours",
-        "ser-tour-p": "Tailor-made sightseeing tours allowing travelers to explore Morocco’s cultural and natural highlights with a private driver.",
+        "ser-tour-p": "Tailor-made sightseeing tours allowing travelers to explore Morocco's cultural and natural highlights with a private driver.",
         "ser-tour-det-h": "Luxury Tourist Tours | Explore Morocco in Style",
         "ser-tour-det-p": "Discover the magic of Morocco with our <strong>Tailor-Made Tourist Tours</strong>. Whether you dream of riding camels in the Sahara, getting lost in the blue streets of Chefchaouen, or exploring the ancient medinas of Fes and Marrakech, we create personalized itineraries just for you. With a private driver, you explore at your own rhythm—no rushed bus schedules, just pure discovery.",
         "ser-tour-det-pop-h": "Popular Experiences",
@@ -325,10 +325,10 @@ const translations = {
         // Booking Page
         "btn-submit-booking": "Confirm Booking Request",
         // Contact Page (CON)
-        "con-hero-title": "Contact <span class='text-shine-gold'>MouTaouakil Transfers</span>",
+        "con-hero-title": "Contact <span class='text-shine-gold'>Safia Transfers</span>",
         "con-hero-subtitle": "Book your private driver and luxury transfers across Morocco — fast, easy, and reliable.",
         "con-info-title": "Get in Touch",
-        "con-info-p": "Looking for a private driver in Morocco? MouTaouakil Transfers provides luxury airport transfers, city rides, and long-distance chauffeur services in Marrakech, Casablanca, Rabat, Fes, and Tangier. Contact us today for fast booking and premium service.",
+        "con-info-p": "Looking for a private driver in Morocco? Safia Transfers provides luxury airport transfers, city rides, and long-distance chauffeur services in Marrakech, Casablanca, Rabat, Fes, and Tangier. Contact us today for fast booking and premium service.",
         "con-wa-title": "WhatsApp (Quick Response)",
         "con-phone-title": "Phone Call",
         "con-email-title": "Email",
@@ -380,12 +380,12 @@ const translations = {
         "fleet-usb": "USB Ports",
         "fleet-seats": "Comfortable Seating",
         // Marrakech (RAK)
-        "rak-page-title": "Private Driver in Marrakech | Luxury Transfers & Chauffeur Service | MouTaouakil",
+        "rak-page-title": "Private Driver in Marrakech | Luxury Transfers & Chauffeur Service | Safia",
         "rak-page-desc": "Professional private driver in Marrakech offering airport transfers, city tours, and long-distance luxury transfers across Morocco.",
         "rak-hero-title": "Private Driver in <span class='text-shine-gold'>Marrakech</span>",
         "rak-hero-subtitle": "Luxury chauffeur and transfer services in Marrakech, Morocco",
         "rak-intro-title": "Experience Marrakech in Luxury and Comfort",
-        "rak-intro-p1": "Welcome to <strong>MouTaouakil Transfers</strong>, your premier choice for a <strong>private driver in Marrakech</strong>. Known as the Red City, Marrakech is a vibrant tapestry of history, culture, and sensory experiences. Navigating its bustling streets and surrounding wonders requires not just a vehicle, but a professional chauffeur who understands the nuances of local travel.",
+        "rak-intro-p1": "Welcome to <strong>Safia Transfers</strong>, your premier choice for a <strong>private driver in Marrakech</strong>. Known as the Red City, Marrakech is a vibrant tapestry of history, culture, and sensory experiences. Navigating its bustling streets and surrounding wonders requires not just a vehicle, but a professional chauffeur who understands the nuances of local travel.",
         "rak-intro-p2": "We specialize in providing high-end <strong>chauffeur services in Marrakech</strong> for discerning travelers who value punctuality, safety, and comfort. Whether you are visiting for business, a family vacation, or a romantic getaway, our fleet of luxury vehicles ensures that your journey is as memorable as the destination itself. Forget the hassle of haggling with taxis or navigating public transport; with our <strong>private transport Marrakech</strong> service, you travel on your own terms, with a dedicated driver at your disposal.",
         "rak-intro-p3": "Our commitment to excellence means you receive personalized attention from the moment you book. We offer valuable advice on local attractions, assistance with luggage, and the flexibility to adjust your itinerary as you wish. Choose the best <strong>luxury driver Marrakech</strong> has to offer and elevate your Moroccan adventure.",
         "rak-why-title": "Why Choose a Private Driver vs. Taxi in Marrakech?",
@@ -444,9 +444,9 @@ const translations = {
         "cmn-hero-title": "Private Driver in <span class='text-shine-gold'>Casablanca</span>",
         "cmn-hero-subtitle": "Luxury chauffeur and transfer services in Casablanca, Morocco",
         "cmn-intro-title": "Professional Business & Leisure Transport",
-        "cmn-intro-p1": "As the economic heartbeat of Morocco, Casablanca demands a level of transport service that mirrors its dynamism and sophistication. <strong>MouTaouakil Transfers</strong> provides a premier <strong>private driver in Casablanca</strong> service, tailored for business professionals, diplomats, and leisure travelers who refuse to compromise on quality.",
-        "cmn-intro-p2": "Navigating Morocco’s largest city can be challenging for the uninitiated. Traffic congestion and unfamiliar routes can cause unnecessary stress. Our <strong>chauffeur service Casablanca</strong> offers the perfect antidote: a reliable, comfortable, and efficient travel experience.",
-        "cmn-intro-p3": "We understand that for our clients, time is luxury. That's why punctual pickup, discreet service, and route optimization are the pillars of our offering. With a <strong>luxury driver Casablanca</strong> at your service, your vehicle becomes a mobile office or a sanctuary of relaxation amidst the city’s energy.",
+        "cmn-intro-p1": "As the economic heartbeat of Morocco, Casablanca demands a level of transport service that mirrors its dynamism and sophistication. <strong>Safia Transfers</strong> provides a premier <strong>private driver in Casablanca</strong> service, tailored for business professionals, diplomats, and leisure travelers who refuse to compromise on quality.",
+        "cmn-intro-p2": "Navigating Morocco's largest city can be challenging for the uninitiated. Traffic congestion and unfamiliar routes can cause unnecessary stress. Our <strong>chauffeur service Casablanca</strong> offers the perfect antidote: a reliable, comfortable, and efficient travel experience.",
+        "cmn-intro-p3": "We understand that for our clients, time is luxury. That's why punctual pickup, discreet service, and route optimization are the pillars of our offering. With a <strong>luxury driver Casablanca</strong> at your service, your vehicle becomes a mobile office or a sanctuary of relaxation amidst the city's energy.",
         "cmn-airport-title": "Casablanca Mohammed V Airport Transfers",
         "cmn-airport-p1": "Start your trip right with our seamless <strong>Casablanca airport transfer</strong> service. Mohammed V International Airport (CMN) is the busiest gateway to Morocco, but your arrival doesn't have to be chaotic.",
         "cmn-airport-p2": "Your private driver will monitor your flight in real-time and greet you at the arrivals terminal with a personalized name board. We assist with your luggage and guide you swiftly to your waiting Mercedes-Benz vehicle. From there, enjoy a smooth transfer to your hotel, corporate office, or any destination in the city center.",
@@ -456,7 +456,7 @@ const translations = {
         "cmn-city-p2": "For business travelers, our service offers the reliability you need. Keep your belongings safe in the vehicle between meetings, charge your devices on the go, and prepare for your next appointment in a quiet, air-conditioned environment. We cater to corporate roadshows, embassy visits, and executive logistics with absolute discretion.",
         "cmn-city-p3": "For leisure travelers, explore the incredible <strong>Corniche Ain Diab</strong>, visit the Morocco Mall, or discover the Old Medina. Your driver stays at your disposal, eliminating waiting times and ensuring you move effortlessly from one landmark to the next.",
         "cmn-intercity-title": "City-to-City Transfers from Casablanca",
-        "cmn-intercity-p": "Casablanca’s central location makes it the ideal starting point for exploring the Kingdom. We offer comfortable <strong>long-distance transfers</strong> to all major Moroccan cities, providing a stress-free alternative to trains or domestic flights.",
+        "cmn-intercity-p": "Casablanca's central location makes it the ideal starting point for exploring the Kingdom. We offer comfortable <strong>long-distance transfers</strong> to all major Moroccan cities, providing a stress-free alternative to trains or domestic flights.",
         "cmn-to-rak-t": "Casablanca to Marrakech:",
         "cmn-to-rak-d": "A quick highway transfer to the Red City.",
         "cmn-to-rba-t": "Casablanca to Rabat:",
@@ -512,7 +512,7 @@ const translations = {
         "aga-hero-title": "Private Driver in <span class='text-shine-gold'>Agadir</span>",
         "aga-hero-subtitle": "Luxury chauffeur and transfer services in Agadir, Morocco",
         "aga-intro-title": "Sun, Sea, and Seamless Transport",
-        "aga-intro-p1": "<strong>MouTaouakil Transfers</strong> welcomes you to Agadir, the jewel of Morocco’s southern coast. Famous for its golden crescent beach and year-round sunshine, Agadir is a premier destination for relaxation. Our <strong>private driver in Agadir</strong> service ensures that your holiday begins the moment you land, offering a stress-free alternative to crowded buses and taxis.",
+        "aga-intro-p1": "<strong>Safia Transfers</strong> welcomes you to Agadir, the jewel of Morocco's southern coast. Famous for its golden crescent beach and year-round sunshine, Agadir is a premier destination for relaxation. Our <strong>private driver in Agadir</strong> service ensures that your holiday begins the moment you land, offering a stress-free alternative to crowded buses and taxis.",
         "aga-intro-p2": "Whether you are heading to a resort on the promenade, searching for the perfect wave in Taghazout, or exploring the Souss-Massa region, our <strong>chauffeur service Agadir</strong> provides the comfort and flexibility you deserve. We understand that leisure travelers value convenience and reliability.",
         "aga-intro-p3": "With our <strong>luxury transport Agadir</strong> solutions, you can explore the Kasbah, the Souk El Had, and the marina in style. Our air-conditioned Mercedes-Benz vehicles provide a cool haven from the southern sun, driven by professional chauffeurs dedicated to your safety.",
         "aga-airport-title": "Agadir Al Massira Airport Transfers",
@@ -557,7 +557,7 @@ const translations = {
         "aga-local-1-t": "Argan Oil Cooperatives:",
         "aga-local-1-d": "Visit authentic cooperatives in the hinterland and see the famous tree-climbing goats.",
         "aga-local-2-t": "Souss-Massa National Park:",
-        "aga-local-2-d": "Spot Bald Ibises and flamingos in this bird-watcher’s paradise.",
+        "aga-local-2-d": "Spot Bald Ibises and flamingos in this bird-watcher's paradise.",
         "aga-local-3-t": "Legzira Beach:",
         "aga-local-3-d": "A full-day trip to see the massive natural stone arches, 2.5 hours south.",
         "aga-local-4-t": "Golf Transfers:",
@@ -568,7 +568,219 @@ const translations = {
         "f-safe-t": "Reliable & Safe",
         "f-safe-d": "Your safety is our priority. Our chauffeurs are licensed professionals with extensive experience on Moroccan roads.",
         "btn-book-whatsapp": "Book Your Private Driver on WhatsApp",
-        "nav-booking-process": "Booking Process"
+        "nav-booking-process": "Booking Process",
+        // ------------- ADDED MISSING ENGLISH CITIES (Fes, Chefchaouen, Sahara, Tangier, Rabat, Essaouira) -------------
+        // Fes (FEZ)
+        "fez-hero-title": "Private Driver in <span class='text-shine-gold'>Fes</span>",
+        "fez-hero-subtitle": "Luxury chauffeur and transfer services in Fes, Morocco",
+        "fez-intro-title": "Discover Fes in Luxury and Comfort",
+        "fez-intro-p1": "<strong>Safia Transfers</strong> invites you to explore the spiritual heart of Morocco with our exclusive <strong>private driver in Fes</strong> service.",
+        "fez-intro-p2": "Our mission is to offer premium <strong>chauffeur services in Fes</strong> that prioritize your comfort. Avoid the confusion of public transport and the hassle of taxis.",
+        "fez-intro-p3": "Our drivers are local experts who can assist with luggage. Choose the finest <strong>luxury driver Fes</strong> has to offer for an unforgettable experience.",
+        "fez-airport-title": "Fes Saïss Airport Transfers",
+        "fez-airport-p1": "Start your visit with ease using our professional <strong>Fes airport transfer</strong> service. We monitor your flight schedule meticulously.",
+        "fez-airport-p2": "You will be welcomed by your private driver holding a personalized sign. We provide full assistance with your luggage and escort you to your vehicle.",
+        "fez-airport-p3": "Our reliable service operates 24/7, ready to handle flight delays or early morning departures with the same level of excellence.",
+        "fez-tour-title": "Private Chauffeur for City Tours",
+        "fez-tour-p1": "Uncover the secrets of the Medina and beyond with our <strong>private chauffeur for city tours</strong>. Move between the historic sites with ease and comfort.",
+        "fez-tour-p2": "Your dedicated driver can take you to the magnificent <strong>Royal Palace</strong> gates, the panoramic <strong>Merinid Tombs</strong>, and the famous <strong>Chouara Tannery</strong>.",
+        "fez-tour-p3": "Our private service offers the flexibility to linger at sites. Enjoy the authentic atmosphere of Fes with the modern luxury of our fleet.",
+        "fez-intercity-title": "City-to-City Transfers from Fes",
+        "fez-intercity-p": "Fes serves as a central hub for exploring northern and central Morocco. We provide top-tier <strong>city-to-city transfers</strong> in premium vehicles.",
+        "fez-to-chf-t": "Fes to Chefchaouen:",
+        "fez-to-chf-d": "A popular transfer to the Blue Pearl.",
+        "fez-to-rak-t": "Fes to Marrakech:",
+        "fez-to-rak-d": "A scenic journey through the Middle Atlas.",
+        "fez-to-cmn-t": "Fes to Casablanca:",
+        "fez-to-cmn-d": "Efficient transfer to the business capital.",
+        "fez-to-mek-t": "Fes to Meknes:",
+        "fez-to-mek-d": "Short trips to the nearby imperial city.",
+        "fez-landmark-title": "Fes Landmarks & Cultural Travel Times",
+        "fez-fez": "Fes Saïss Airport (FEZ)",
+        "fez-gate": "Bab Boujloud (Blue Gate)",
+        "fez-tombs": "Merinid Tombs",
+        "fez-volubilis": "Volubilis Roman Ruins",
+        "fez-exp-title": "Spiritual & Artistic Experiences in Fes",
+        "fez-exp-1-t": "Ceramic District:",
+        "fez-exp-1-d": "Visit the famous Zellige workshops.",
+        "fez-exp-2-t": "Royal Palace Doors:",
+        "fez-exp-2-d": "Photoshoot at the Seven Gates.",
+        "fez-exp-3-t": "Borj Nord:",
+        "fez-exp-3-d": "Explore the fortress overlooking the city.",
+        "fez-faq-title": "Frequently Asked Questions (Fes FAQ)",
+        "fez-faq-1-q": "Can your private driver enter the Fes Medina?",
+        "fez-faq-1-a": "The Fes Medina is car-free. Our <strong>private driver in Fes</strong> will drop you off safely at the nearest gate (Bab) to your Riad.",
+        "fez-faq-2-q": "Do you offer private day trips to Chefchaouen from Fes?",
+        "fez-faq-2-a": "Yes. Our <strong>private transport Fes</strong> service provides a highly comfortable, air-conditioned ride there and back.",
+        "fez-faq-3-q": "Are child safety seats available for longer inter-city transfers?",
+        "fez-faq-3-a": "Absolutely. For <strong>long-distance transfers</strong>, we provide complimentary child safety seats upon request.",
+        "fez-cta-title": "Discover Fes with Comfort and Elegance",
+        
+        // Chefchaouen (CHE)
+        "che-hero-title": "Private Driver to <span class='text-shine-gold'>Chefchaouen</span>",
+        "che-hero-subtitle": "Explore the Blue Pearl of Morocco with total peace of mind",
+        "che-intro-title": "Discover the Magic of the Blue City",
+        "che-intro-p1": "<strong>Safia Transfers</strong> offers premium private transport to Chefchaouen, the famous 'Blue Pearl' nestled in the Rif Mountains.",
+        "che-intro-p2": "Chefchaouen is a photographer's paradise. With a <strong>private driver</strong>, you can enjoy the scenic drive and arrive refreshed.",
+        "che-routes-title": "Popular Routes",
+        "che-route-fes": "Fes to Chefchaouen: A beautiful 4-hour drive. An optional stop at Volubilis ruins is available.",
+        "che-route-tng": "Tangier to Chefchaouen: A short 2-hour drive, perfect for a day trip.",
+        "che-why-title": "Why Book a Private Driver?",
+        "che-why-safety": "Safety & Comfort: Experienced drivers familiar with mountain roads.",
+        "che-why-flex": "Flexibility: Stop for photos or a coffee break whenever you wish.",
+        "che-why-door": "Door-to-Door Service: We drop you off as close as possible to Medina gates.",
+
+        // Sahara Desert (SAH)
+        "sah-hero-title": "Private Driver to the <span class='text-shine-gold'>Sahara Desert</span>",
+        "sah-hero-subtitle": "Travel to the golden dunes of Merzouga and Zagora",
+        "sah-intro-title": "Discover the Majesty of the Dunes",
+        "sah-intro-p1": "<strong>Safia Transfers</strong> provides <strong>Sahara transfers</strong> and luxury circuits to Merzouga (Erg Chebbi) and Zagora.",
+        "sah-intro-p2": "The journey to the Sahara is long but spectacular. Our luxury 4x4s and vans guarantee absolute comfort through the High Atlas.",
+        "sah-routes-title": "Routes to the Desert",
+        "sah-route-rak": "Marrakech to Merzouga: A 3-day journey traversing the Dades Valley.",
+        "sah-route-fes": "Fes to Merzouga: A scenic route via the Middle Atlas and the Ziz Valley.",
+        "sah-faq-title": "Sahara Travel FAQ",
+        "sah-faq-1-q": "How long is the trip from Marrakech to Merzouga?",
+        "sah-faq-1-a": "Around 9 hours. We highly recommend a multi-day tour with an overnight stop at Ait Benhaddou.",
+        "sah-cta-title": "Embark on your Sahara Adventure",
+
+        // Tangier (TNG)
+        "tng-hero-title": "Private Driver in <span class='text-shine-gold'>Tangier</span>",
+        "tng-hero-subtitle": "Luxury chauffeur and transfer services in Tangier, Morocco",
+        "tng-intro-title": "Your Gateway to Africa in Comfort",
+        "tng-intro-p1": "<strong>Safia Transfers</strong> welcomes you to Tangier, the glamorous gateway between Europe and Africa. Our <strong>private driver in Tangier</strong> service is dedicated to your comfort.",
+        "tng-intro-p2": "Tangier is a city of stunning views. Navigating its streets requires local expertise. Our <strong>chauffeur service Tangier</strong> eliminates all stress.",
+        "tng-intro-p3": "With our <strong>luxury chauffeur Tangier</strong> services, punctuality and discretion are guaranteed. Our drivers adapt to your specific needs.",
+        "tng-airport-title": "Tangier Airport & Port Transfers",
+        "tng-airport-p1": "Arriving in Tangier should be a pleasure. Our <strong>Tangier airport transfer</strong> covers Ibn Battouta Airport (TNG) with flight tracking.",
+        "tng-airport-p2": "We are experts in <strong>Tangier Port transfers</strong>. Whether it's Tangier Ville or the giant Tangier Med port, we will be there.",
+        "tng-airport-p3": "No haggling, no waiting—just immediate, comfortable transport in an air-conditioned Mercedes-Benz.",
+        "tng-city-title": "Private Chauffeur for Business & Tours",
+        "tng-city-p1": "Discover the charm of the White City with a <strong>private chauffeur</strong>. Visit the <strong>Caves of Hercules</strong>, <strong>Cape Spartel</strong>, or the American Legation.",
+        "tng-city-p2": "Your driver remains available all day. Enjoy a lunch at Cafe Hafa without worrying about the return trip.",
+        "tng-city-p3": "For corporate clients, we offer a mobile lounge and reliable transport to Free Zones and business centers.",
+        "tng-intercity-title": "City-to-City Transfers from Tangier",
+        "tng-intercity-p": "Tangier is the perfect base to explore northern Morocco. We offer premium <strong>intercity transfers</strong>.",
+        "tng-to-chf-t": "Tangier to Chefchaouen:",
+        "tng-to-chf-d": "A beautiful drive to the Blue Pearl.",
+        "tng-to-asi-t": "Tangier to Asilah:",
+        "tng-to-asi-d": "A short getaway to the artistic coastal town.",
+        "tng-to-rak-t": "Tangier to Marrakech:",
+        "tng-to-rak-d": "The grand North-South connection.",
+        "tng-to-fes-t": "Tangier to Fes:",
+        "tng-to-fes-d": "A journey to the spiritual capital.",
+        "tng-landmark-title": "Tangier Landmarks & Coastal Travel Times",
+        "tng-landmark-p": "Easily reach key spots around Tangier with our transport services.",
+        "tng-tng": "Ibn Battouta Airport (TNG)",
+        "tng-med": "Tangier Med Port",
+        "tng-hercules": "Caves of Hercules / Cape Spartel",
+        "tng-asilah": "Asilah (City of Arts)",
+        "tng-exp-title": "Premium Experiences in Tangier",
+        "tng-exp-1-t": "Old Medina Stroll:",
+        "tng-exp-1-d": "Drop-off right at the Kasbah gates.",
+        "tng-exp-2-t": "Cap Spartel Lighthouse:",
+        "tng-exp-2-d": "Where the Atlantic meets the Mediterranean.",
+        "tng-exp-3-t": "Tangier Marina Bay:",
+        "tng-exp-3-d": "Luxury transport to yacht clubs and elite dining.",
+        "tng-faq-title": "Frequently Asked Questions (Tangier FAQ)",
+        "tng-faq-1-q": "Where does the driver pick me up at Tangier Med Port?",
+        "tng-faq-1-a": "Your <strong>private driver</strong> will be waiting at the passenger exit with a personalized sign.",
+        "tng-faq-2-q": "Do you offer transfers from Tangier to Chefchaouen?",
+        "tng-faq-2-a": "Yes, we offer <strong>private trips from Tangier to Chefchaouen</strong> with full door-to-door service.",
+        "tng-faq-3-q": "Is Wi-Fi available in the vehicle?",
+        "tng-faq-3-a": "Yes, all our premium vehicles in Tangier come equipped with free high-speed Wi-Fi.",
+        "tng-cta-title": "Travel in Tangier with Comfort and Professionalism",
+
+        // Rabat (RBA)
+        "rba-hero-title": "Private Driver in <span class='text-shine-gold'>Rabat</span>",
+        "rba-hero-subtitle": "Luxury chauffeur and transfer services in Rabat, Morocco",
+        "rba-intro-title": "Executive Transport & Chauffeur Services",
+        "rba-intro-p1": "<strong>Safia Transfers</strong> is proud to offer <strong>private driver services in Rabat</strong>, tailored to the needs of the Kingdom's capital.",
+        "rba-intro-p2": "Whether visiting an embassy or historic sites, our <strong>Rabat chauffeur service</strong> ensures your mobility with utmost professionalism.",
+        "rba-intro-p3": "With our <strong>executive transport Rabat</strong> solutions, expect an immaculate vehicle and a polite driver at your disposal.",
+        "rba-airport-title": "Rabat–Salé Airport Transfers",
+        "rba-airport-p1": "Experience a smooth arrival with our premium <strong>Rabat airport transfer</strong>. Skip the taxi lines.",
+        "rba-airport-p2": "We offer a personalized greeting in the terminal. We also provide seamless connections from Casablanca Mohamed V Airport.",
+        "rba-airport-p3": "Our flight tracking system guarantees our presence exactly when you land.",
+        "rba-city-title": "Private Chauffeur for Business & Tours",
+        "rba-city-p1": "Navigate the capital with ease. Visit the <strong>Royal Palace</strong>, Hassan Tower, or the Chellah Necropolis.",
+        "rba-city-p2": "For our corporate clients, our vehicles provide a quiet workspace. We are well-versed in diplomatic protocols.",
+        "rba-city-p3": "Leisure travelers can enjoy a relaxed tour of the <strong>Oudayas Kasbah</strong> and the Grand Theatre.",
+        "rba-intercity-title": "City-to-City Transfers from Rabat",
+        "rba-intercity-p": "Rabat is perfectly positioned for exploring the rest of Morocco. We offer <strong>long-distance luxury transfers</strong>.",
+        "rba-to-cmn-t": "Rabat to Casablanca:",
+        "rba-to-cmn-d": "A quick connection to the economic center.",
+        "rba-to-tng-t": "Rabat to Tangier:",
+        "rba-to-tng-d": "Travel north with total peace of mind.",
+        "rba-to-fes-t": "Rabat to Fes:",
+        "rba-to-fes-d": "Cross the agricultural plains to the spiritual capital.",
+        "rba-to-rak-t": "Rabat to Marrakech:",
+        "rba-to-rak-d": "A comfortable drive down to the Red City.",
+        "rba-landmark-title": "Rabat Landmarks & Executive Travel Times",
+        "rba-rba": "Rabat–Salé Airport (RBA)",
+        "rba-riad": "Hay Riad / Technopolis",
+        "rba-hassan": "Hassan Tower & Mausoleum",
+        "rba-cmn-b": "Casablanca (Business District)",
+        "rba-exp-title": "Corporate & Diplomatic Logistics",
+        "rba-exp-1-t": "Embassy Transfers",
+        "rba-exp-1-d": "Wait-and-return diplomatic service.",
+        "rba-exp-2-t": "Golf Royal Dar Essalam",
+        "rba-exp-2-d": "Luxury transport for a premium golf experience.",
+        "rba-faq-title": "Frequently Asked Questions (Rabat FAQ)",
+        "rba-faq-1-q": "Do you provide drivers for diplomatic visits?",
+        "rba-faq-1-a": "Yes, our drivers are trained in professional etiquette and discretion for officials and delegations.",
+        "rba-faq-2-q": "How far is Rabat from Casablanca Airport (CMN)?",
+        "rba-faq-2-a": "The <strong>Rabat to Casablanca CMN transfer</strong> takes approximately 1h15 via the A1 highway.",
+        "rba-faq-3-q": "Can the driver help with restaurant reservations?",
+        "rba-faq-3-a": "Absolutely. Your <strong>Rabat luxury chauffeur</strong> knows the best dining spots in Agdal and the Marina.",
+        "rba-cta-title": "Discover Rabat with Comfort and Professionalism",
+
+        // Essaouira (ESU)
+        "ess-hero-title": "Private Driver in <span class='text-shine-gold'>Essaouira</span>",
+        "ess-hero-subtitle": "Luxury chauffeur and transfer services in Essaouira, Morocco",
+        "ess-intro-title": "Relax and Explore the Windy City",
+        "ess-intro-p1": "<strong>Safia Transfers</strong> offers the ultimate comfort for your coastal travels with our <strong>private driver in Essaouira</strong> service.",
+        "ess-intro-p2": "Our <strong>Essaouira chauffeur service</strong> provides a dedicated vehicle and local driver to explore the ramparts and the art scene.",
+        "ess-intro-p3": "We welcome couples, families, and solo travelers prioritizing safety and comfort. Our fleet is ideal for coastal roads.",
+        "ess-airport-title": "Essaouira Mogador Airport Transfers",
+        "ess-airport-p1": "Start your stay stress-free with our <strong>Essaouira airport transfer</strong> service from Mogador Airport (ESU).",
+        "ess-airport-p2": "We organize your pickup and track your flight for a personalized welcome and direct transfer to your Riad or hotel.",
+        "ess-airport-p3": "We also provide direct transfers from Marrakech Menara Airport (RAK) to Essaouira (a 2.5-hour drive).",
+        "ess-tour-title": "Private Chauffeur for Touring & Leisure",
+        "ess-tour-p1": "Optimize your time with a <strong>private chauffeur for tours</strong>. Discover the Sqala port or the ruins of Diabat.",
+        "ess-tour-p2": "A private driver allows you to visit <strong>Sidi Kaouki</strong>, a surfer's paradise, or Argan oil cooperatives easily.",
+        "ess-tour-p3": "Enjoy the freedom to stop and see the tree-climbing goats or watch the sunset over the Atlantic.",
+        "ess-intercity-title": "City-to-City Transfers from Essaouira",
+        "ess-to-rak-t": "Essaouira to Marrakech:",
+        "ess-to-rak-d": "Our most popular route, a smooth journey to the Red City.",
+        "ess-to-aga-t": "Essaouira to Agadir:",
+        "ess-to-aga-d": "A magnificent coastal drive along the Atlantic.",
+        "ess-to-cmn-t": "Essaouira to Casablanca:",
+        "ess-to-cmn-d": "A comfortable coastal route up to the economic capital.",
+        "ess-landmark-title": "Essaouira Landmarks & Travel Times",
+        "ess-esu": "Essaouira Mogador Airport (ESU)",
+        "ess-kaouki": "Sidi Kaouki (Surf & Camels)",
+        "ess-rak": "Marrakech (The Red City)",
+        "ess-imsouane": "Imsouane (The Longest Wave)",
+        "ess-faq-title": "Frequently Asked Questions (Essaouira FAQ)",
+        "ess-faq-1-q": "Where does the driver drop me off in the Essaouira Medina?",
+        "ess-faq-1-a": "We drop you off at the closest gates (Bab Sbaa or Bab Marrakech) and coordinate with your Riad for luggage assistance.",
+        "ess-faq-2-q": "Is it better to fly into Marrakech or Essaouira?",
+        "ess-faq-2-a": "Landing at ESU is quicker, but RAK offers more international flights. We provide a swift 2h30 transfer between the two.",
+        "ess-faq-3-q": "Can we stop for photos on the way to Marrakech?",
+        "ess-faq-3-a": "Yes! Our private transfers are fully flexible, allowing photo stops at the Argan trees and scenic viewpoints.",
+        
+        // Forms & Booking
+        "booking-title": "Booking Request",
+        "booking-subtitle": "Secure your luxury transfer.",
+        "form-name": "Your Name",
+        "form-phone": "Your Phone / WhatsApp",
+        "form-pickup": "Pickup Location",
+        "form-destination": "Destination",
+        "form-date": "Date & Time",
+        "form-message": "Additional Details / Flight Number",
+        "form-gdpr": "I consent to the use of my data for this booking.",
+
     },
 
     fr: {
@@ -581,9 +793,9 @@ const translations = {
         "nav-contact": "Contact",
         "nav-contact": "Contact",
         "footer-explore": "Explorez Plus de Services",
-        "page-title": "MouTaouakil Transfers | Chauffeur Privé Maroc & Transferts de Luxe",
+        "page-title": "Safia Transfers | Chauffeur Privé Maroc & Transferts de Luxe",
         "page-desc": "Services de chauffeur privé premium et transferts de luxe au Maroc (Marrakech, Casablanca, Fès, Rabat, Tanger). Chauffeurs professionnels à prix fixes.",
-        "con-page-title": "Contacter MouTaouakil Transfers | Réserver votre Chauffeur au Maroc",
+        "con-page-title": "Contacter Safia Transfers | Réserver votre Chauffeur au Maroc",
         "con-page-desc": "Réservez votre chauffeur privé et vos transferts de luxe au Maroc. Contactez-nous pour un transport fiable et confortable.",
         "aga-page-title": "Chauffeur Privé à Agadir | Transferts de Luxe & Service de Chauffeur",
         "aga-page-desc": "Chauffeur privé professionnel à Agadir proposant des transferts aéroport, transport vers les stations balnéaires, excursions en ville et transferts longue distance.",
@@ -601,7 +813,7 @@ const translations = {
         "che-page-desc": "Réservez un chauffeur privé vers la Perle Bleue du Maroc. Chauffeur de luxe et transport vers Chefchaouen depuis Fès, Tanger et Casablanca.",
         "sah-page-title": "Chauffeur Privé pour le Désert du Sahara | Transferts de Luxe",
         "sah-page-desc": "Embarquez pour un circuit de luxe dans le Sahara avec un chauffeur privé professionnel. Transferts vers Merzouga et Zagora.",
-        "fle-page-title": "Flotte de Luxe | Mercedes Classe V & Classe E Maroc | MouTaouakil",
+        "fle-page-title": "Flotte de Luxe | Mercedes Classe V & Classe E Maroc | Safia",
         "fle-page-desc": "Explorez notre flotte de luxe pour le transport privé au Maroc. Vans Mercedes-Benz Classe V et transport VIP pour un confort et un style ultimes.",
         "ser-page-title": "Service de Chauffeur de Luxe Casablanca, Marrakech & Fès | Transferts",
         "ser-page-desc": "Service de chauffeur premium à Casablanca, Marrakech et Fès. Nous proposons des transferts aéroport fiables et des circuits de luxe.",
@@ -669,7 +881,7 @@ const translations = {
         "trust-verified": "Chauffeurs Professionnels Vérifiés",
         "trust-insured": "Véhicules Entièrement Assurés",
         "trust-support": "Support Client 24/7",
-        "faq-page-title": "FAQ | Chauffeur Privé Maroc | Questions & Réponses | MouTaouakil",
+        "faq-page-title": "FAQ | Chauffeur Privé Maroc | Questions & Réponses | Safia",
         "faq-page-desc": "Trouvez des réponses sur votre chauffeur privé au Maroc. Transferts de luxe, services aéroport à Marrakech, Casablanca, Fès, Rabat & Tanger.",
         "faq-hero-title": "Questions <span class='text-shine-gold'>Fréquentes</span> sur les Transferts Privés",
         "faq-hero-subtitle": "Tout ce que vous devez savoir sur votre expérience de voyage de luxe au Maroc",
@@ -677,7 +889,7 @@ const translations = {
         "faq-cat-fleet": "Flotte, Confort & Chauffeurs",
         "faq-cat-tours": "Circuits, Tarification & Confiance",
         "faq-p-q1": "Comment réserver un transfert privé au Maroc ?",
-        "faq-p-a1": "Réserver un <strong>chauffeur privé au Maroc</strong> est simple avec MouTaouakil Transfers. Vous pouvez réserver directement via WhatsApp pour une confirmation instantanée, ou utiliser notre page de réservation en ligne. Nous recommandons de réserver au moins 24 heures à l'avance.",
+        "faq-p-a1": "Réserver un <strong>chauffeur privé au Maroc</strong> est simple avec Safia Transfers. Vous pouvez réserver directement via WhatsApp pour une confirmation instantanée, ou utiliser notre page de réservation en ligne. Nous recommandons de réserver au moins 24 heures à l'avance.",
         "faq-p-q2": "Proposez-vous des transferts aéroport à Marrakech, Casablanca & Fès ?",
         "faq-p-a2": "Oui, nous fournissons des transferts aéroport de luxe fiables dans tous les grands centres marocains, notamment Marrakech (RAK), Casablanca (CMN), Fès (FEZ), Rabat et Tanger. Nos chauffeurs vous accueillent avec une pancarte.",
         "faq-p-q3": "Votre service de chauffeur est-il disponible 24h/24 et 7j/7 ?",
@@ -692,8 +904,8 @@ const translations = {
         "faq-p-a7": "Oui ! Nous proposons des circuits entièrement personnalisés. Qu'il s'agisse d'un voyage dans le désert à Merzouga ou d'un tour des villes impériales, nous adaptons l'itinéraire à votre rythme.",
         "faq-p-q8": "Votre tarification est-elle transparente ? Y a-t-il des frais cachés ?",
         "faq-p-a8": "Nous croyons en une tarification 100% transparente. Le devis inclut le véhicule, le chauffeur, le carburant et les péages. Pas de frais cachés pour les bagages ou les retards.",
-        "faq-p-q9": "Pourquoi choisir MouTaouakil Transfers pour mon voyage au Maroc ?",
-        "faq-p-a9": "MouTaouakil Transfers offre la tranquillité d'esprit avec des chauffeurs privés ponctuels, des véhicules de luxe impeccables, un support 24/7 et une connaissance locale approfondie.",
+        "faq-p-q9": "Pourquoi choisir Safia Transfers pour mon voyage au Maroc ?",
+        "faq-p-a9": "Safia Transfers offre la tranquillité d'esprit avec des chauffeurs privés ponctuels, des véhicules de luxe impeccables, un support 24/7 et une connaissance locale approfondie.",
         "faq-soft-cta": "Réservez votre chauffeur privé via WhatsApp dès maintenant",
         "faq-trust-title": "Fiabilité & Sécurité",
         "faq-trust-p": "Nous nous engageons à fournir des services de chauffeur privé fiables, sûrs et professionnels dans tout le Maroc.",
@@ -711,7 +923,7 @@ const translations = {
         "footer-area-fez": "Aéroport de Fès",
         "footer-contact-title": "Contact",
         "footer-available": "Disponible 24/7",
-        "footer-copyright": "© 2026 MouTaouakil Transfers. Tous droits réservés.",
+        "footer-copyright": "© 2026 Safia Transfers. Tous droits réservés.",
         "footer-follow": "Suivez-nous",
         // Fleet Page
         "fleet-hero-title": "<span class='text-shine-gold'>Flotte de Luxe</span> & Transport Privé",
@@ -895,7 +1107,7 @@ const translations = {
         "rak-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Marrakech</span>",
         "rak-hero-subtitle": "Services de chauffeur de luxe et transferts à Marrakech, Maroc",
         "rak-intro-title": "Vivez Marrakech dans le Luxe et le Confort",
-        "rak-intro-p1": "Bienvenue chez <strong>MouTaouakil Transfers</strong>, votre premier choix pour un <strong>chauffeur privé à Marrakech</strong>. Connue sous le nom de Ville Rouge, Marrakech est une tapisserie vibrante d'histoire, de culture et d'expériences sensorielles.",
+        "rak-intro-p1": "Bienvenue chez <strong>Safia Transfers</strong>, votre premier choix pour un <strong>chauffeur privé à Marrakech</strong>. Connue sous le nom de Ville Rouge, Marrakech est une tapisserie vibrante d'histoire, de culture et d'expériences sensorielles.",
         "rak-intro-p2": "Nous sommes spécialisés dans la fourniture de <strong>services de chauffeur haut de gamme à Marrakech</strong> pour les voyageurs exigeants qui apprécient la ponctualité, la sécurité et le confort. Que vous visitiez pour affaires, des vacances en famille ou une escapade romantique.",
         "rak-intro-p3": "Notre engagement envers l'excellence signifie que vous recevez une attention personnalisée dès votre réservation. Nous offrons des conseils précieux sur les attractions locales, une assistance avec les bagages et la flexibilité d'ajuster votre itinéraire.",
         "rak-why-title": "Pourquoi Choisir un Chauffeur Privé vs Taxi à Marrakech ?",
@@ -917,7 +1129,7 @@ const translations = {
         "rak-city-4-t": "Marrakech à Agadir :",
         "rak-city-4-d": "Voyagez vers le sud (3 heures) via l'autoroute.",
         "rak-exp-1-t": "Jardin Majorelle & Musée YSL :",
-        "rak-exp-1-d": "Évitez les foules avec une dépose tôt le matin dans ce chef-d'œuvre botanique.",
+        "rak-exp-1-d": "Évitez les foules avec une dépose tôt le matin dans ce chef-d'Å“uvre botanique.",
         "rak-exp-2-t": "Dîner dans le Désert d'Agafay :",
         "rak-exp-2-d": "Vivez un dîner magique au coucher du soleil dans le désert de pierre, à 45 min du centre.",
         "rak-exp-3-t": "Shopping Privé dans les Souks :",
@@ -939,7 +1151,7 @@ const translations = {
         "cmn-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Casablanca</span>",
         "cmn-hero-subtitle": "Services de chauffeur de luxe et transferts à Casablanca, Maroc",
         "cmn-intro-title": "Transport Professionnel Affaires & Loisirs",
-        "cmn-intro-p1": "En tant que cœur économique du Maroc, Casablanca exige un niveau de service qui reflète son dynamisme et sa sophistication. <strong>MouTaouakil Transfers</strong> fournit un service de <strong>chauffeur privé à Casablanca</strong>.",
+        "cmn-intro-p1": "En tant que cÅ“ur économique du Maroc, Casablanca exige un niveau de service qui reflète son dynamisme et sa sophistication. <strong>Safia Transfers</strong> fournit un service de <strong>chauffeur privé à Casablanca</strong>.",
         "cmn-intro-p2": "Naviguer dans la plus grande ville du Maroc peut être un défi. Notre <strong>service de chauffeur à Casablanca</strong> offre l'antidote parfait : une expérience fiable et efficace.",
         "cmn-intro-p3": "Nous comprenons que pour nos clients, le temps est un luxe. Avec un <strong>chauffeur de luxe Casablanca</strong>, votre véhicule devient un bureau mobile ou un sanctuaire de détente.",
         "cmn-airport-title": "Transferts Aéroport Casablanca Mohammed V",
@@ -971,7 +1183,7 @@ const translations = {
         "fez-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Fès</span>",
         "fez-hero-subtitle": "Services de chauffeur de luxe et transferts à Fès, Maroc",
         "fez-intro-title": "Découvrez Fès dans le Luxe et le Confort",
-        "fez-intro-p1": "<strong>MouTaouakil Transfers</strong> vous invite à explorer le cœur spirituel du Maroc avec notre service exclusif de <strong>chauffeur privé à Fès</strong>.",
+        "fez-intro-p1": "<strong>Safia Transfers</strong> vous invite à explorer le cÅ“ur spirituel du Maroc avec notre service exclusif de <strong>chauffeur privé à Fès</strong>.",
         "fez-intro-p2": "Notre mission est d'offrir des <strong>services de chauffeur premium à Fès</strong> qui privilégient votre confort. Évitez la confusion des transports et des taxis.",
         "fez-intro-p3": "Nos chauffeurs sont des experts locaux qui peuvent vous aider avec les bagages. Choisissez le meilleur <strong>chauffeur de luxe que Fès</strong> a à offrir.",
         "fez-airport-title": "Transferts Aéroport Fès Saïss",
@@ -1010,7 +1222,7 @@ const translations = {
         "che-hero-title": "Chauffeur Privé vers <span class='text-shine-gold'>Chefchaouen</span>",
         "che-hero-subtitle": "Explorez la Perle Bleue du Maroc en toute sérénité",
         "che-intro-title": "Découvrez la Magie de la Ville Bleue",
-        "che-intro-p1": "<strong>MouTaouakil Transfers</strong> propose un transport privé premium vers Chefchaouen, la célèbre 'Perle Bleue' nichée dans le Rif.",
+        "che-intro-p1": "<strong>Safia Transfers</strong> propose un transport privé premium vers Chefchaouen, la célèbre 'Perle Bleue' nichée dans le Rif.",
         "che-intro-p2": "Chefchaouen est le paradis des photographes. Avec un <strong>chauffeur privé</strong>, profitez du trajet et arrivez reposé.",
         "che-routes-title": "Itinéraires Populaires",
         "che-route-fes": "Fès vers Chefchaouen : Un beau trajet de 4h. Arrêt possible aux ruines de Volubilis.",
@@ -1023,7 +1235,7 @@ const translations = {
         "sah-hero-title": "Chauffeur Privé vers le <span class='text-shine-gold'>Désert du Sahara</span>",
         "sah-hero-subtitle": "Voyagez vers les dunes dorées de Merzouga et Zagora",
         "sah-intro-title": "Découvrez la Majesté des Dunes",
-        "sah-intro-p1": "<strong>MouTaouakil Transfers</strong> assure des <strong>transferts vers le Sahara</strong> et des circuits de luxe vers Merzouga (Erg Chebbi) et Zagora.",
+        "sah-intro-p1": "<strong>Safia Transfers</strong> assure des <strong>transferts vers le Sahara</strong> et des circuits de luxe vers Merzouga (Erg Chebbi) et Zagora.",
         "sah-intro-p2": "Le voyage vers le Sahara est long mais spectaculaire. Nos 4x4 et vans de luxe garantissent un confort absolu à travers le Haut Atlas.",
         "sah-routes-title": "Itinéraires vers le Désert",
         "sah-route-rak": "Marrakech vers Merzouga : Un voyage de 3 jours à travers la vallée du Dadès.",
@@ -1036,7 +1248,7 @@ const translations = {
         "tng-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Tanger</span>",
         "tng-hero-subtitle": "Services de chauffeur de luxe et transferts à Tanger, Maroc",
         "tng-intro-title": "Votre Porte de l'Afrique dans le Confort",
-        "tng-intro-p1": "<strong>MouTaouakil Transfers</strong> vous accueille à Tanger, porte glamour entre l'Europe et l'Afrique. Notre service de <strong>chauffeur privé à Tanger</strong> est dédié à votre confort.",
+        "tng-intro-p1": "<strong>Safia Transfers</strong> vous accueille à Tanger, porte glamour entre l'Europe et l'Afrique. Notre service de <strong>chauffeur privé à Tanger</strong> est dédié à votre confort.",
         "tng-intro-p2": "Tanger est une ville de vues imprenables. Naviguer dans ses rues nécessite une expertise locale. Notre <strong>chauffeur service Tanger</strong> élimine tout stress.",
         "tng-intro-p3": "Avec nos services de <strong>chauffeur de luxe Tanger</strong>, ponctualité et discrétion sont garanties. Nos chauffeurs s'adaptent à vos besoins.",
         "tng-airport-title": "Transferts Aéroport & Port Tanger",
@@ -1075,7 +1287,7 @@ const translations = {
         "rba-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Rabat</span>",
         "rba-hero-subtitle": "Services de chauffeur de luxe et transferts à Rabat, Maroc",
         "rba-intro-title": "Transport Exécutif & Services de Chauffeur",
-        "rba-intro-p1": "<strong>MouTaouakil Transfers</strong> est fier d'offrir des services de <strong>chauffeur privé à Rabat</strong>, adaptés aux besoins de la capitale du Royaume.",
+        "rba-intro-p1": "<strong>Safia Transfers</strong> est fier d'offrir des services de <strong>chauffeur privé à Rabat</strong>, adaptés aux besoins de la capitale du Royaume.",
         "rba-intro-p2": "Qu'il s'agisse de visites dans une ambassade ou de sites historiques, notre <strong>service chauffeur Rabat</strong> assure votre mobilité avec professionnalisme.",
         "rba-intro-p3": "Avec nos solutions de <strong>transport exécutif Rabat</strong>, attendez-vous à un véhicule impeccable et un chauffeur poli à votre disposition.",
         "rba-airport-title": "Transferts Aéroport Rabat–Salé",
@@ -1114,7 +1326,7 @@ const translations = {
         "aga-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Agadir</span>",
         "aga-hero-subtitle": "Services de chauffeur de luxe et transferts à Agadir, Maroc",
         "aga-intro-title": "Soleil, Mer et Transport Sans Couture",
-        "aga-intro-p1": "<strong>MouTaouakil Transfers</strong> vous accueille à Agadir, le joyau de la côte sud du Maroc. Célèbre pour sa plage en croissant doré et son ensoleillement annuel, Agadir est une destination de premier plan pour la détente. Notre service de <strong>chauffeur privé à Agadir</strong> garantit que vos vacances commencent dès votre arrivée, offrant une alternative sereine aux bus et taxis bondés.",
+        "aga-intro-p1": "<strong>Safia Transfers</strong> vous accueille à Agadir, le joyau de la côte sud du Maroc. Célèbre pour sa plage en croissant doré et son ensoleillement annuel, Agadir est une destination de premier plan pour la détente. Notre service de <strong>chauffeur privé à Agadir</strong> garantit que vos vacances commencent dès votre arrivée, offrant une alternative sereine aux bus et taxis bondés.",
         "aga-intro-p2": "Que vous vous rendiez dans un complexe hôtelier sur la promenade, à la recherche de la vague parfaite à Taghazout, ou pour explorer la région Souss-Massa, notre <strong>service chauffeur Agadir</strong> vous offre le confort et la flexibilité que vous méritez.",
         "aga-intro-p3": "Avec nos solutions de <strong>transport de luxe Agadir</strong>, explorez la Kasbah, le Souk El Had et la marina avec style dans nos véhicules Mercedes-Benz climatisés. Nos véhicules offrent un refuge frais face au soleil du sud, conduits par des chauffeurs professionnels dédiés à votre sécurité.",
         "aga-airport-title": "Transferts Aéroport Agadir Al Massira",
@@ -1149,7 +1361,7 @@ const translations = {
         "ess-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Essaouira</span>",
         "ess-hero-subtitle": "Services de chauffeur de luxe et transferts à Essaouira, Maroc",
         "ess-intro-title": "Détendez-vous et Explorez la Cité des Alizés",
-        "ess-intro-p1": "<strong>MouTaouakil Transfers</strong> vous offre le summum du confort pour vos voyages côtiers avec notre service de <strong>chauffeur privé à Essaouira</strong>.",
+        "ess-intro-p1": "<strong>Safia Transfers</strong> vous offre le summum du confort pour vos voyages côtiers avec notre service de <strong>chauffeur privé à Essaouira</strong>.",
         "ess-intro-p2": "Notre <strong>service chauffeur Essaouira</strong> met à votre disposition un véhicule dédié et un chauffeur local pour explorer les remparts et la scène artistique.",
         "ess-intro-p3": "Nous accueillons les couples, familles et voyageurs solo privilégiant sécurité et confort. Notre flotte est idéale pour les routes côtières.",
         "ess-airport-title": "Transferts Aéroport Essaouira Mogador",
@@ -1180,10 +1392,10 @@ const translations = {
         "ess-faq-3-q": "Peut-on s'arrêter pour des photos sur la route de Marrakech ?",
         "ess-faq-3-a": "Bien sûr ! Vous avez la flexibilité de vous arrêter aux coopératives d'Argan ou pour voir les chèvres sur les arbres.",
         // Contact (CON)
-        "con-hero-title": "Contacter <span class='text-shine-gold'>MouTaouakil Transfers</span>",
+        "con-hero-title": "Contacter <span class='text-shine-gold'>Safia Transfers</span>",
         "con-hero-subtitle": "Réservez votre chauffeur privé et vos transferts de luxe au Maroc — rapide, facile et fiable.",
         "con-info-title": "Contactez-nous",
-        "con-info-p": "Vous recherchez un chauffeur privé au Maroc ? MouTaouakil Transfers propose des transferts aéroport de luxe, des trajets en ville et des services de chauffeur longue distance à Marrakech, Casablanca, Rabat, Fès et Tanger. Contactez-nous dès aujourd'hui.",
+        "con-info-p": "Vous recherchez un chauffeur privé au Maroc ? Safia Transfers propose des transferts aéroport de luxe, des trajets en ville et des services de chauffeur longue distance à Marrakech, Casablanca, Rabat, Fès et Tanger. Contactez-nous dès aujourd'hui.",
         "con-wa-title": "WhatsApp (Réponse rapide)",
         "con-phone-title": "Appel téléphonique",
         "con-email-title": "E-mail",
@@ -1206,7 +1418,7 @@ const translations = {
         "con-gdpr": "J'accepte de m'abonner à la newsletter pour recevoir des offres exclusives. Mes données seront traitées conformément au RGPD.",
         "con-follow": "Suivez-nous",
         // Booking (BOO)
-        "boo-page-title": "Réserver Chauffeur Privé Maroc | Devis Instantané | MouTaouakil Transfers",
+        "boo-page-title": "Réserver Chauffeur Privé Maroc | Devis Instantané | Safia Transfers",
         "boo-page-desc": "Réservez facilement votre chauffeur privé au Maroc. Obtenez un devis instantané pour vos transferts aéroport ou circuits personnalisés. Réservation sécurisée.",
         "boo-hero-title": "Réservez votre <span class='text-shine-gold'>Chauffeur Privé</span>",
         "boo-hero-subtitle": "Réservation simple, rapide et sécurisée en quelques étapes",
@@ -1236,12 +1448,12 @@ const translations = {
         "boo-cta-title": "Prêt à réserver votre chauffeur privé au Maroc ?",
         "boo-cta-btn": "Réserver maintenant sur WhatsApp",
         // Marrakech (RAK)
-        "rak-page-title": "Chauffeur Privé à Marrakech | Transferts de Luxe & Service VTC | MouTaouakil",
+        "rak-page-title": "Chauffeur Privé à Marrakech | Transferts de Luxe & Service VTC | Safia",
         "rak-page-desc": "Chauffeur privé professionnel à Marrakech proposant des transferts aéroport, des visites de la ville et des transferts longue distance à travers le Maroc avec des véhicules de luxe.",
         "rak-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Marrakech</span>",
         "rak-hero-subtitle": "Services de chauffeur de luxe et transferts à Marrakech, Maroc",
         "rak-intro-title": "Vivez Marrakech dans le Luxe et le Confort",
-        "rak-intro-p1": "Bienvenue chez <strong>MouTaouakil Transfers</strong>, votre premier choix pour un <strong>chauffeur privé à Marrakech</strong>. Connue sous le nom de Ville Rouge, Marrakech est une tapisserie vibrante d'histoire, de culture et d'expériences sensorielles. Naviguer dans ses rues animées et ses merveilles environnantes nécessite non seulement un véhicule, mais un chauffeur professionnel qui comprend les nuances du voyage local.",
+        "rak-intro-p1": "Bienvenue chez <strong>Safia Transfers</strong>, votre premier choix pour un <strong>chauffeur privé à Marrakech</strong>. Connue sous le nom de Ville Rouge, Marrakech est une tapisserie vibrante d'histoire, de culture et d'expériences sensorielles. Naviguer dans ses rues animées et ses merveilles environnantes nécessite non seulement un véhicule, mais un chauffeur professionnel qui comprend les nuances du voyage local.",
         "rak-intro-p2": "Nous sommes spécialisés dans la fourniture de <strong>services de chauffeur haut de gamme à Marrakech</strong> pour les voyageurs exigeants qui apprécient la ponctualité, la sécurité et le confort. Que vous visitiez pour affaires, des vacances en famille ou une escapade romantique, notre flotte de véhicules de luxe garantit que votre voyage soit aussi mémorable que la destination elle-même. Oubliez les tracas de la négociation avec les taxis ou de la navigation dans les transports en commun ; avec notre service de <strong>transport privé Marrakech</strong>, vous voyagez selon vos propres termes, avec un chauffeur dédié à votre disposition.",
         "rak-intro-p3": "Notre engagement envers l'excellence signifie que vous recevez une attention personnalisée dès votre réservation. Nous offrons des conseils précieux sur les attractions locales, une assistance avec les bagages et la flexibilité d'ajuster votre itinéraire comme vous le souhaitez. Choisissez le meilleur <strong>chauffeur de luxe que Marrakech</strong> a à offrir et élevez votre aventure marocaine.",
         "rak-why-title": "Pourquoi Choisir un Chauffeur Privé vs Taxi à Marrakech ?",
@@ -1261,7 +1473,7 @@ const translations = {
         "rak-exp-title": "Top 5 des Expériences de Luxe avec Votre Chauffeur Privé",
         "rak-exp-p": "Découvrez les secrets de la Ville Rouge avec notre liste sélectionnée de lieux incontournables, facilement accessibles avec votre <strong>transport de luxe Marrakech</strong> :",
         "rak-exp-1-t": "Jardin Majorelle & Musée YSL :",
-        "rak-exp-1-d": "Évitez la foule avec un dépôt tôt le matin à ce chef-d'œuvre botanique.",
+        "rak-exp-1-d": "Évitez la foule avec un dépôt tôt le matin à ce chef-d'Å“uvre botanique.",
         "rak-exp-2-t": "Dîner dans le Désert d'Agafay :",
         "rak-exp-2-d": "Vivez un coucher de soleil magique et un dîner dans le désert de pierre, à seulement 45 minutes du centre-ville.",
         "rak-exp-3-t": "Shopping Privé dans les Souks :",
@@ -1300,7 +1512,7 @@ const translations = {
         "cmn-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Casablanca</span>",
         "cmn-hero-subtitle": "Services de chauffeur de luxe et transferts à Casablanca, Maroc",
         "cmn-intro-title": "Transport Professionnel Affaires & Loisirs",
-        "cmn-intro-p1": "En tant que cœur économique du Maroc, Casablanca exige un niveau de service de transport qui reflète son dynamisme et sa sophistication. <strong>MouTaouakil Transfers</strong> fournit un service de premier ordre de <strong>chauffeur privé à Casablanca</strong>, sur mesure pour les professionnels, les diplomates et les voyageurs de loisirs qui refusent de compromettre la qualité.",
+        "cmn-intro-p1": "En tant que cÅ“ur économique du Maroc, Casablanca exige un niveau de service de transport qui reflète son dynamisme et sa sophistication. <strong>Safia Transfers</strong> fournit un service de premier ordre de <strong>chauffeur privé à Casablanca</strong>, sur mesure pour les professionnels, les diplomates et les voyageurs de loisirs qui refusent de compromettre la qualité.",
         "cmn-intro-p2": "Naviguer dans la plus grande ville du Maroc peut être un défi pour les non-initiés. Les embouteillages et les itinéraires inconnus peuvent causer un stress inutile. Notre <strong>service de chauffeur à Casablanca</strong> offre l'antidote parfait : une expérience de voyage fiable, confortable et efficace. Que vous vous précipitiez pour une réunion dans le quartier financier ou que vous vous dirigiez vers un dîner en bord de mer sur la Corniche, nos solutions de <strong>transport d'affaires Casablanca</strong> garantissent que vous arriviez à l'heure et avec style.",
         "cmn-intro-p3": "Nous comprenons que pour nos clients, le temps est un luxe. C'est pourquoi la ponctualité, la discrétion et l'optimisation des itinéraires sont les piliers de notre offre. Avec un <strong>chauffeur de luxe Casablanca</strong> à votre service, votre véhicule devient un bureau mobile ou un sanctuaire de détente au milieu de l'énergie de la ville.",
         "cmn-airport-title": "Transferts Aéroport Casablanca Mohammed V",
@@ -1369,61 +1581,61 @@ const translations = {
         "nav-booking-process": "Booking Process",
         "nav-contact-us": "Contact Us",
         // Agadir (AGA)
-        "aga-page-title": "Private Chauffeur in Agadir | Luxury Transfers & VTC Service",
-        "aga-page-desc": "Professional private chauffeur in Agadir offering airport transfers, resort transport, city tours, and long-distance transfers to Marrakech and beyond.",
-        "aga-hero-title": "Private Chauffeur in <span class='text-shine-gold'>Agadir</span>",
-        "aga-hero-subtitle": "Luxury chauffeur services and transfers in Agadir, Morocco",
-        "aga-intro-title": "Sun, Sea, and Seamless Transport",
-        "aga-intro-p1": "<strong>MouTaouakil Transfers</strong> welcomes you to Agadir, the jewel of Morocco's southern coast. Famous for its golden crescent beach and year-round sunshine, Agadir is a premier destination for relaxation. Our <strong>private chauffeur service in Agadir</strong> ensures your vacation begins the moment you land, offering a stress-free alternative to crowded buses and taxis.",
-        "aga-intro-p2": "Whether you're heading to a resort on the promenade, seeking the perfect wave in Taghazout, or exploring the Souss-Massa region, our <strong>Agadir chauffeur service</strong> provides the comfort and flexibility you deserve. We understand that leisure travelers value convenience and reliability.",
-        "aga-intro-p3": "With our <strong>luxury transport Agadir</strong> solutions, you can explore the Kasbah, Souk El Had, and the marina in style. Our air-conditioned Mercedes-Benz vehicles offer a cool haven from the southern sun, driven by professional chauffeurs dedicated to your safety.",
-        "aga-airport-title": "Agadir Al Massira Airport Transfers",
-        "aga-airport-p1": "Arrive at your resort refreshed with our exclusive <strong>Agadir airport transfer</strong> service. Agadir Al Massira Airport (AGA) is located approximately 25 km from the city center, and finding reliable ground transport can be hectic.",
-        "aga-airport-p2": "We offer a premium meet-and-greet service. Your chauffeur will be waiting in the arrivals hall with a personalized sign, ready to assist with your luggage and sports equipment (golf clubs, surfboards). Enjoy a direct and comfortable ride to your hotel door in Agadir, Taghazout, or Taroudant.",
-        "aga-airport-p3": "Flight delays happen. We monitor your flight status in real-time, so your chauffeur is always there when you actually land. For departures, we allow ample time for check-in, removing logistical worries from your journey.",
-        "aga-tour-title": "Private Chauffeur for Day Trips & Surfing",
-        "aga-tour-p1": "Agadir is the ideal base for exploring the diverse landscapes of southern Morocco. With a <strong>private chauffeur for day trips</strong>, you can discover hidden gems at your own pace.",
-        "aga-tour-p2": "Take a scenic drive to <strong>Paradise Valley</strong>, an oasis in the High Atlas mountains perfect for swimming and hiking. Visit <strong>Taghazout</strong>, the world-renowned surf village, without the hassle of public transport. Our spacious vehicles can easily accommodate your surfing gear.",
-        "aga-tour-p3": "Explore the ancient walled city of <strong>Taroudant</strong>, often called \"Little Marrakech,\" or venture into Souss-Massa National Park to see unique wildlife. Your private chauffeur acts as your personal guide in the region, offering local insights and stopping whenever you wish to take photos of the famous tree-climbing goats.",
-        "aga-intercity-title": "Inter-City Transfers from Agadir",
-        "aga-intercity-p": "Need to travel beyond the coast? We offer safe and comfortable <strong>long-distance transfers</strong> from Agadir to key destinations across Morocco.",
-        "aga-to-rak-t": "Agadir to Marrakech :",
-        "aga-to-rak-d": "A smooth highway transfer to the Red City, connecting the beach to the Medina.",
-        "aga-to-ess-t": "Agadir to Essaouira :",
-        "aga-to-ess-d": "A breathtaking coastal drive north to the Windy City.",
-        "aga-to-cmn-t": "Agadir to Casablanca :",
-        "aga-to-cmn-d": "A reliable long-distance transfer to the business hub or CMN Airport.",
-        "aga-landmark-title": "Agadir Landmarks & Travel Times to Resorts",
-        "aga-aga": "Al Massira Airport (AGA)",
-        "aga-tagh": "Taghazout Bay",
-        "aga-paradise": "Paradise Valley",
+                "aga-page-title": "Chauffeur Privé à Agadir | Transferts de Luxe & Service VTC",
+        "aga-page-desc": "Chauffeur privé professionnel à Agadir proposant des transferts aéroport, un transport vers les stations balnéaires, des visites de la ville et des transferts longue distance vers Marrakech et au-delà.",
+        "aga-hero-title": "Chauffeur Privé à <span class='text-shine-gold'>Agadir</span>",
+        "aga-hero-subtitle": "Services de chauffeur de luxe et transferts à Agadir, Maroc",
+        "aga-intro-title": "Soleil, Mer et Transport Sans Couture",
+        "aga-intro-p1": "<strong>Safia Transfers</strong> vous souhaite la bienvenue à Agadir, le joyau de la côte sud du Maroc. Célèbre pour sa plage en croissant de lune dorée et son ensoleillement toute l'année. Notre <strong>service de chauffeur privé à Agadir</strong> garantit que vos vacances commencent dès votre atterrissage.",
+        "aga-intro-p2": "Que vous vous rendiez dans un complexe sur la promenade, à Taghazout pour le surf parfait, ou que vous exploriez la région de Souss-Massa, notre <strong>service de chauffeur Agadir</strong> offre le confort et la flexibilité que vous méritez.",
+        "aga-intro-p3": "Avec nos solutions de <strong>transport de luxe à Agadir</strong>, vous pouvez explorer la Kasbah, le Souk El Had et la marina avec style. Nos véhicules Mercedes-Benz climatisés offrent un havre de fraîcheur.",
+        "aga-airport-title": "Transferts Aéroport Agadir Al Massira",
+        "aga-airport-p1": "Arrivez à votre hôtel rafraîchi avec notre service exclusif de <strong>transfert aéroport Agadir</strong>. L'aéroport d'Agadir Al Massira (AGA) est situé à environ 25 km du centre-ville.",
+        "aga-airport-p2": "Nous proposons un service d'accueil premium. Votre chauffeur vous attendra dans le hall des arrivées avec une pancarte personnalisée.",
+        "aga-airport-p3": "Les retards de vol arrivent. Nous surveillons l'état de votre vol en temps réel, afin que votre chauffeur soit toujours là au moment de votre atterrissage.",
+        "aga-tour-title": "Chauffeur Privé pour Excursions et Surf",
+        "aga-tour-p1": "Agadir est la base idéale pour explorer les divers paysages du sud du Maroc. Avec un <strong>chauffeur privé pour des excursions d'une journée</strong>, vous pouvez découvrir des trésors cachés.",
+        "aga-tour-p2": "Faites un trajet pittoresque jusqu'à la <strong>Vallée du Paradis</strong>. Visitez <strong>Taghazout</strong>, le village de surf de renommée mondiale.",
+        "aga-tour-p3": "Explorez l'ancienne ville fortifiée de <strong>Taroudant</strong>. Votre chauffeur privé agit comme votre guide personnel.",
+        "aga-intercity-title": "Transferts Inter-Villes depuis Agadir",
+        "aga-intercity-p": "Besoin de voyager au-delà de la côte ? Nous proposons des <strong>transferts longue distance</strong> sûrs et confortables depuis Agadir.",
+        "aga-to-rak-t": "Agadir à Marrakech :",
+        "aga-to-rak-d": "Un transfert sur autoroute fluide vers la Ville Rouge, reliant la plage à la Médina.",
+        "aga-to-ess-t": "Agadir à Essaouira :",
+        "aga-to-ess-d": "Un trajet côtier époustouflant vers le nord jusqu'à la ville des alizés.",
+        "aga-to-cmn-t": "Agadir à Casablanca :",
+        "aga-to-cmn-d": "Un transfert longue distance fiable vers le centre d'affaires.",
+        "aga-landmark-title": "Lieux Emblématiques et Temps de Trajet à Agadir",
+        "aga-aga": "Aéroport Al Massira (AGA)",
+        "aga-tagh": "Baie de Taghazout",
+        "aga-paradise": "Vallée du Paradis",
         "aga-kasbah": "Agadir Oufella (Kasbah)",
-        "aga-faq-title": "Frequently Asked Questions (Agadir FAQ)",
-        "aga-faq-1-q": "Can your vehicles accommodate surfboards?",
-        "aga-faq-1-a": "Yes, our <strong>luxury transport Agadir</strong> fleet includes spacious Mercedes V-Class vans, equipped with roof racks or ample interior space to safely and comfortably transport your surfboards and kitesurfing gear to Taghazout or Imsouane.",
-        "aga-faq-2-q": "How far is Taghazout from Agadir Airport?",
-        "aga-faq-2-a": "The quick transfer from AGA Airport to Taghazout takes approximately 50 to 60 minutes, depending on local traffic. Our transparent fixed-rate service ensures you get a competitive price agreed upon even before you land.",
-        "aga-faq-3-q": "Do you offer transfers to Taroudant?",
-        "aga-faq-3-a": "Yes. The pleasant journey to \"Little Marrakech\" (Taroudant) takes about 1 hour and 15 minutes. It's a very popular and convenient day trip for many of our clients currently staying in Agadir.",
-        "aga-cta-title": "Enjoy Agadir with Premium Private Transport",
-        "aga-why-title": "Why Choose Our Private Chauffeur in Agadir?",
-        "f-experts-t": "Tourism Experts",
-        "f-experts-d": "We understand the needs of holidaymakers, golfers, and outdoor adventure enthusiasts.",
-        "f-climate-t": "Air-Conditioned Luxury",
-        "f-climate-d": "Stay cool despite Agadir's heat with our latest generation air-conditioned Mercedes-Benz fleet.",
-        "f-capacity-t": "Large Capacity",
-        "f-capacity-d": "No extra charge for golf bags or bulky luggage. Perfect for families and groups.",
-        "btn-book-tour-wa": "Book Your Southern Tour",
-        "aga-local-title": "Argan & Coastal Experiences",
-        "aga-local-p": "Explore the diversity of the Souss-Massa region with your <strong>private chauffeur in Agadir</strong> :",
-        "aga-local-1-t": "Argan Oil Cooperatives :",
-        "aga-local-1-d": "Visit authentic cooperatives in the hinterland and see the famous tree-climbing goats.",
-        "aga-local-2-t": "Souss-Massa National Park :",
-        "aga-local-2-d": "Observe bald ibises and flamingos in this birdwatcher's paradise.",
-        "aga-local-3-t": "Legzira Beach :",
-        "aga-local-3-d": "A full-day trip to see the immense natural stone arches, 2h30 south.",
-        "aga-local-4-t": "Golf Transfers :",
-        "aga-local-4-d": "Door-to-door service to Golf du Soleil or Golf Les Dunes with full luggage handling.",
+        "aga-faq-title": "Foire Aux Questions (FAQ Agadir)",
+        "aga-faq-1-q": "Vos véhicules peuvent-ils transporter des planches de surf ?",
+        "aga-faq-1-a": "Oui, notre flotte comprend des Mercedes V-Class spacieux avec suffisamment d'espace intérieur pour transporter vos planches.",
+        "aga-faq-2-q": "À quelle distance se trouve Taghazout de l'aéroport d'Agadir ?",
+        "aga-faq-2-a": "Le transfert prend environ 50 à 60 minutes selon la circulation. Notre tarif fixe garantit un prix compétitif.",
+        "aga-faq-3-q": "Proposez-vous des transferts vers Taroudant ?",
+        "aga-faq-3-a": "Oui. Le trajet vers la \"Petite Marrakech\" dure environ 1h15.",
+        "aga-cta-title": "Profitez d'Agadir avec un Transport Privé Premium",
+        "aga-why-title": "Pourquoi Choisir notre Chauffeur Privé à Agadir ?",
+        "f-experts-t": "Experts en Tourisme",
+        "f-experts-d": "Nous comprenons les besoins des vacanciers, des golfeurs et des amateurs d'aventure en plein air.",
+        "f-climate-t": "Luxe Climatisé",
+        "f-climate-d": "Restez au frais malgré la chaleur d'Agadir grâce à nos véhicules climatisés.",
+        "f-capacity-t": "Grande Capacité",
+        "f-capacity-d": "Pas de supplément pour les sacs de golf ou bagages encombrants.",
+        "btn-book-tour-wa": "Réservez Votre Excursion dans le Sud",
+        "aga-local-title": "Expériences d'Arganier et de la Côte",
+        "aga-local-p": "Découvrez la diversité de la région Souss-Massa avec votre <strong>chauffeur privé à Agadir</strong> :",
+        "aga-local-1-t": "Coopératives d'Huile d'Argan :",
+        "aga-local-1-d": "Visitez d'authentiques coopératives dans l'arrière-pays et observez les chèvres.",
+        "aga-local-2-t": "Parc National de Souss-Massa :",
+        "aga-local-2-d": "Observez les ibis chauves dans ce paradis des ornithologues.",
+        "aga-local-3-t": "Plage de Legzira :",
+        "aga-local-3-d": "Une excursion pour voir les immenses arches de pierre naturelle.",
+        "aga-local-4-t": "Transferts Golf :",
+        "aga-local-4-d": "Service porte-à-porte pour le Golf du Soleil ou le Golf Les Dunes.",
         // Shared feature cards
         "f-lang-fr-t": "Chauffeur Francophone",
         "f-lang-fr-d": "Une communication claire est essentielle. Nos chauffeurs parlent couramment français et anglais, garantissant que vos besoins sont compris.",
@@ -1431,9 +1643,36 @@ const translations = {
         "f-safe-d": "Votre sécurité est notre priorité. Nos chauffeurs sont des professionnels agréés avec une grande expérience sur les routes marocaines.",
         "btn-book-whatsapp": "Réservez Votre Chauffeur Privé sur WhatsApp",
         "nav-booking-process": "Processus de Réservation"
-    }
-};
+    },
+        // ------------- MISSING FR KEYS -------------
+        "ser-expect-h": "Ce Que Vous Pouvez Attendre",
+        "ser-expect-1": "Chauffeur professionnel et expérimenté",
+        "ser-expect-2": "Véhicules propres, confortables et bien entretenus",
+        "ser-expect-3": "Service anglophone et francophone",
+        "ser-expect-4": "Prix fixe sans frais cachés",
+        "ser-expect-5": "Disponibilité 24/7",
+        
+        "tng-exp-1-t": "Promenade dans l'Ancienne Médina :",
+        "tng-exp-1-d": "Dépose au pied des portes de la Kasbah.",
+        "tng-exp-2-t": "Phare du Cap Spartel :",
+        "tng-exp-2-d": "Là où l'Atlantique rencontre la Méditerranée.",
+        "tng-exp-3-t": "Marina de Tanger :",
+        "tng-exp-3-d": "Transport de luxe vers les clubs et la restauration d'élite.",
+        "tng-landmark-p": "Rejoignez facilement les lieux clés autour de Tanger avec nos services.",
 
+        "fez-exp-1-t": "Quartier de la Céramique :",
+        "fez-exp-1-d": "Visitez les célèbres ateliers de zellige.",
+        "fez-exp-2-t": "Portes du Palais Royal :",
+        "fez-exp-2-d": "Séance photo aux Sept Portes.",
+        "fez-exp-3-t": "Borj Nord :",
+        "fez-exp-3-d": "Explorez la forteresse surplombant la ville.",
+
+        "rba-exp-1-t": "Transferts Ambassades",
+        "rba-exp-1-d": "Service diplomatique avec attente.",
+        "rba-exp-2-t": "Golf Royal Dar Essalam",
+        "rba-exp-2-d": "Transport de luxe pour une expérience de golf premium."
+
+};
 
 function setLanguage(lang) {
     localStorage.setItem('selectedLanguage', lang);
@@ -1441,7 +1680,7 @@ function setLanguage(lang) {
 
     document.querySelectorAll('[data-i18n]').forEach(element => {
         const key = element.getAttribute('data-i18n');
-        if (translations[lang][key]) {
+        if (translations[lang] && translations[lang][key]) {
             if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
                 element.placeholder = translations[lang][key];
             } else if (element.tagName === 'META') {
@@ -1452,18 +1691,17 @@ function setLanguage(lang) {
         }
     });
 
-    // Special handling for document title if it has data-i18n
     const titleEl = document.querySelector('title[data-i18n]');
-    if (titleEl && translations[lang][titleEl.getAttribute('data-i18n')]) {
+    if (titleEl && translations[lang] && translations[lang][titleEl.getAttribute('data-i18n')]) {
         document.title = translations[lang][titleEl.getAttribute('data-i18n')];
     }
 
-    // Update active state on switcher buttons
     document.querySelectorAll('.lang-btn').forEach(btn => {
         btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
     });
 
-    // Refresh WhatsApp links with new language message
+    updateWhatsAppLinks(lang);
+
     if (typeof initWhatsAppBot === 'function') {
         initWhatsAppBot();
     }
@@ -1471,492 +1709,248 @@ function setLanguage(lang) {
 
 function initLanguage() {
     let lang = 'en';
-    const path = window.location.pathname;
-
-    // Detect language from URL first to ensure sync with physical folders
-    if (path.includes('/fr/')) {
-        lang = 'fr';
-    } else if (path.includes('/en/')) {
-        lang = 'en';
-    } else {
-        // Fallback to localStorage or browser default
-        const savedLang = localStorage.getItem('selectedLanguage');
-        const browserLang = navigator.language ? navigator.language.split('-')[0] : 'en';
-        const defaultLang = ['en', 'fr'].includes(browserLang) ? browserLang : 'en';
-        lang = savedLang || defaultLang;
-    }
-
-    localStorage.setItem('selectedLanguage', lang);
+    const savedLang = localStorage.getItem('selectedLanguage');
+    const browserLang = navigator.language ? navigator.language.split('-')[0] : 'en';
+    lang = savedLang || (['en', 'fr'].includes(browserLang) ? browserLang : 'en');
+    
     createLanguageSwitcher(lang);
     setLanguage(lang);
 }
 
 function createLanguageSwitcher(activeLang) {
     if (document.querySelector('.lang-switcher')) return;
-
     const switcher = document.createElement('div');
     switcher.className = 'lang-switcher';
-
-    const langs = [
-        { code: 'en', label: 'EN' },
-        { code: 'fr', label: 'FR' }
-    ];
-
+    const langs = [{ code: 'en', label: 'EN' }, { code: 'fr', label: 'FR' }];
     langs.forEach(lang => {
         const btn = document.createElement('div');
         btn.className = `lang-btn ${lang.code === activeLang ? 'active' : ''}`;
         btn.setAttribute('data-lang', lang.code);
         btn.innerHTML = `<i class="fas fa-globe"></i> ${lang.label}`;
-        btn.onclick = () => {
-            if (lang.code !== activeLang) {
-                switchLanguageAndRedirect(lang.code);
-            }
-        };
+        btn.onclick = () => { setLanguage(lang.code); };
         switcher.appendChild(btn);
     });
-
     document.body.appendChild(switcher);
 }
 
-function switchLanguageAndRedirect(newLang) {
-    localStorage.setItem('selectedLanguage', newLang);
-    let path = window.location.pathname;
-
-    let newUrl = "";
-    if (path.includes('/en/')) {
-        newUrl = path.replace('/en/', `/${newLang}/`);
-    } else if (path.includes('/fr/')) {
-        newUrl = path.replace('/fr/', `/${newLang}/`);
-    } else {
-        // Root directory
-        let pageName = path.split('/').pop();
-        if (!pageName || pageName === '') pageName = 'index.html';
-
-        // Handle path ending with slash
-        const basePath = path.endsWith('/') ? path : path.substring(0, path.lastIndexOf('/') + 1);
-        newUrl = `${basePath}${newLang}/${pageName}`;
-    }
-
-    window.location.href = newUrl;
+function updateWhatsAppLinks(lang) {
+    const links = document.querySelectorAll('a[href*="wa.me"]');
+    const msg = lang === 'fr' ? "Bonjour ! Je souhaite me renseigner sur une reservation." : "Hello! I'd like to inquire about a booking.";
+    links.forEach(link => {
+        const href = link.getAttribute('href');
+        if (href.includes('?text=')) {
+            const baseUrl = href.split('?text=')[0];
+            link.setAttribute('href', `${baseUrl}?text=${encodeURIComponent(msg)}`);
+        } else if (href.includes('wa.me/')) {
+            link.setAttribute('href', `${href}?text=${encodeURIComponent(msg)}`);
+        }
+    });
 }
 
-// initLanguage is safe to run on load
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initLanguage);
-} else {
-    initLanguage();
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initLanguage);
+else initLanguage();
+
+
+if (hamburger) {
+    hamburger.addEventListener('click', () => {
+        navMenu.classList.toggle('active');
+        hamburger.classList.toggle('active');
+        const icon = hamburger.querySelector('i');
+        if (navMenu.classList.contains('active')) {
+            icon.classList.remove('fa-bars');
+            icon.classList.add('fa-times');
+        } else {
+            icon.classList.remove('fa-times');
+            icon.classList.add('fa-bars');
+        }
+    });
 }
 
-hamburger.addEventListener('click', () => {
-    navMenu.classList.toggle('active');
-    hamburger.classList.toggle('active');
-
-    // Switch icon
-    const icon = hamburger.querySelector('i');
-    if (navMenu.classList.contains('active')) {
-        icon.classList.remove('fa-bars');
-        icon.classList.add('fa-times');
-    } else {
-        icon.classList.remove('fa-times');
-        icon.classList.add('fa-bars');
-    }
-});
-
-// Close mobile menu on link click
 navLinks.forEach(link => {
     link.addEventListener('click', () => {
         navMenu.classList.remove('active');
         const icon = hamburger.querySelector('i');
-        icon.classList.remove('fa-times');
-        icon.classList.add('fa-bars');
-    });
-});
-
-// Sticky Header
-window.addEventListener('scroll', () => {
-    if (window.scrollY > 50) {
-        header.classList.add('scrolled');
-    } else {
-        header.classList.remove('scrolled');
-    }
-});
-
-// Smooth Scroll for fallback environments
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        const targetId = this.getAttribute('href');
-        if (targetId === '#') return;
-
-        const targetElement = document.querySelector(targetId);
-        if (targetElement) {
-            targetElement.scrollIntoView({
-                behavior: 'smooth'
-            });
+        if (icon) {
+            icon.classList.remove('fa-times');
+            icon.classList.add('fa-bars');
         }
     });
 });
-const scrollTopBtn = document.getElementById('scroll-top');
 
 window.addEventListener('scroll', () => {
-    if (window.scrollY > 300) {
-        scrollTopBtn.classList.add('show');
-    } else {
-        scrollTopBtn.classList.remove('show');
+    if (header) {
+        if (window.scrollY > 50) header.classList.add('scrolled');
+        else header.classList.remove('scrolled');
     }
 });
 
-scrollTopBtn.addEventListener('click', (e) => {
-    e.preventDefault();
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const targetId = this.getAttribute('href');
+        if (targetId === '#') return;
+        const targetElement = document.querySelector(targetId);
+        if (targetElement) targetElement.scrollIntoView({ behavior: 'smooth' });
     });
 });
 
+const scrollTopBtn = document.getElementById('scroll-top');
+if (scrollTopBtn) {
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) scrollTopBtn.classList.add('show');
+        else scrollTopBtn.classList.remove('show');
+    });
+    scrollTopBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
 
-// Background Particle Animation
 const canvas = document.getElementById('bg-canvas');
-let ctx;
-let particlesArray = [];
-let mouse = {
-    x: null,
-    y: null,
-    radius: null
-};
-
+let ctx, particlesArray = [], mouse = { x: null, y: null, radius: null };
 if (canvas) {
     ctx = canvas.getContext('2d');
-
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     mouse.radius = (canvas.height / 80) * (canvas.width / 80);
-
-    window.addEventListener('mousemove', (event) => {
-        mouse.x = event.x;
-        mouse.y = event.y;
-    });
-
+    window.addEventListener('mousemove', (event) => { mouse.x = event.x; mouse.y = event.y; });
     window.addEventListener('resize', () => {
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
         mouse.radius = (canvas.height / 80) * (canvas.width / 80);
         if (typeof init === 'function') init();
     });
-}
-
-class Particle {
-    constructor(x, y, directionX, directionY, size, color) {
-        this.x = x;
-        this.y = y;
-        this.directionX = directionX;
-        this.directionY = directionY;
-        this.size = size;
-        this.color = color;
-    }
-
-    // Method to draw individual particle
-    draw() {
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2, false);
-        ctx.fillStyle = this.color;
-        ctx.fill();
-    }
-
-    // Check particle position, check mouse position, move the particle, draw the particle
-    update() {
-        // Check if particle is still within canvas
-        if (this.x > canvas.width || this.x < 0) {
-            this.directionX = -this.directionX;
+    class Particle {
+        constructor(x, y, dx, dy, size, color) {
+            this.x = x; this.y = y; this.dx = dx; this.dy = dy; this.size = size; this.color = color;
         }
-        if (this.y > canvas.height || this.y < 0) {
-            this.directionY = -this.directionY;
+        draw() {
+            ctx.beginPath();
+            ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2, false);
+            ctx.fillStyle = this.color;
+            ctx.fill();
         }
-
-        // Check collision detection - mouse position / particle position
-        let dx = mouse.x - this.x;
-        let dy = mouse.y - this.y;
-        let distance = Math.sqrt(dx * dx + dy * dy);
-
-        if (distance < mouse.radius + this.size) {
-            if (mouse.x < this.x && this.x < canvas.width - this.size * 10) {
-                this.x += 10;
+        update() {
+            if (this.x > canvas.width || this.x < 0) this.dx = -this.dx;
+            if (this.y > canvas.height || this.y < 0) this.dy = -this.dy;
+            let dist = Math.sqrt((mouse.x - this.x)**2 + (mouse.y - this.y)**2);
+            if (dist < mouse.radius + this.size) {
+                if (mouse.x < this.x && this.x < canvas.width - this.size * 10) this.x += 10;
+                if (mouse.x > this.x && this.x > this.size * 10) this.x -= 10;
+                if (mouse.y < this.y && this.y < canvas.height - this.size * 10) this.y += 10;
+                if (mouse.y > this.y && this.y > this.size * 10) this.y -= 10;
             }
-            if (mouse.x > this.x && this.x > this.size * 10) {
-                this.x -= 10;
-            }
-            if (mouse.y < this.y && this.y < canvas.height - this.size * 10) {
-                this.y += 10;
-            }
-            if (mouse.y > this.y && this.y > this.size * 10) {
-                this.y -= 10;
-            }
+            this.x += this.dx; this.y += this.dy;
+            this.draw();
         }
-
-        // Move particle
-        this.x += this.directionX;
-        this.y += this.directionY;
-
-        // Draw particle
-        this.draw();
     }
+    function init() {
+        particlesArray = [];
+        let num = (canvas.height * canvas.width) / 9000;
+        for (let i = 0; i < num; i++) {
+            let size = Math.random() * 3 + 1, x = Math.random() * (innerWidth - size * 4) + size * 2, y = Math.random() * (innerHeight - size * 4) + size * 2;
+            let dx = Math.random() * 2 - 1, dy = Math.random() * 2 - 1;
+            const colors = ['rgba(212, 175, 55, 0.5)', 'rgba(255, 255, 255, 0.3)', 'rgba(212, 175, 55, 0.2)'];
+            particlesArray.push(new Particle(x, y, dx, dy, size, colors[Math.floor(Math.random() * colors.length)]));
+        }
+    }
+    function animate() {
+        requestAnimationFrame(animate);
+        ctx.clearRect(0, 0, innerWidth, innerHeight);
+        particlesArray.forEach(p => p.update());
+    }
+    init(); animate();
 }
 
-function init() {
-    particlesArray = [];
-    let numberOfParticles = (canvas.height * canvas.width) / 9000;
-
-    for (let i = 0; i < numberOfParticles; i++) {
-        let size = (Math.random() * 3) + 1;
-        let x = (Math.random() * ((innerWidth - size * 2) - (size * 2)) + size * 2);
-        let y = (Math.random() * ((innerHeight - size * 2) - (size * 2)) + size * 2);
-        let directionX = (Math.random() * 2) - 1; // Speed
-        let directionY = (Math.random() * 2) - 1;
-
-        // Gold and Lux colors
-        const colors = ['rgba(212, 175, 55, 0.5)', 'rgba(255, 255, 255, 0.3)', 'rgba(212, 175, 55, 0.2)'];
-        let color = colors[Math.floor(Math.random() * colors.length)];
-
-        particlesArray.push(new Particle(x, y, directionX, directionY, size, color));
-    }
-}
-
-function animate() {
-    requestAnimationFrame(animate);
-    ctx.clearRect(0, 0, innerWidth, innerHeight);
-
-    for (let i = 0; i < particlesArray.length; i++) {
-        particlesArray[i].update();
-    }
-}
-
-// Start only if we have the canvas (failsafe)
-if (canvas) {
-    init();
-    animate();
-}// Album Slider Logic
 function initAlbumSliders() {
-    const sliders = document.querySelectorAll('.album-container');
-
-    sliders.forEach(slider => {
-        const slides = slider.querySelectorAll('.album-slide');
-        const dots = slider.querySelectorAll('.dot');
-        const nextBtn = slider.querySelector('.album-next');
-        const prevBtn = slider.querySelector('.album-prev');
-        let currentSlide = 0;
-
-        function updateSlider() {
-            slides.forEach((slide, i) => {
-                slide.classList.toggle('active', i === currentSlide);
-                if (dots[i]) dots[i].classList.toggle('active', i === currentSlide);
-            });
-        }
-
-        if (nextBtn) {
-            nextBtn.addEventListener('click', () => {
-                currentSlide = (currentSlide + 1) % slides.length;
-                updateSlider();
-            });
-        }
-
-        if (prevBtn) {
-            prevBtn.addEventListener('click', () => {
-                currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-                updateSlider();
-            });
-        }
-
-        if (dots) {
-            dots.forEach((dot, i) => {
-                dot.addEventListener('click', () => {
-                    const index = parseInt(dot.getAttribute('data-index'));
-                    currentSlide = index;
-                    updateSlider();
-                    resetAutoSlide();
-                });
-            });
-        }
-
-        // Automatic Slider
-        let slideInterval;
-        function startAutoSlide() {
-            slideInterval = setInterval(() => {
-                currentSlide = (currentSlide + 1) % slides.length;
-                updateSlider();
-            }, 4000); // Change image every 4 seconds
-        }
-
-        function resetAutoSlide() {
-            clearInterval(slideInterval);
-            startAutoSlide();
-        }
-
-        // Pause on hover
-        slider.addEventListener('mouseenter', () => clearInterval(slideInterval));
-        slider.addEventListener('mouseleave', startAutoSlide);
-
-        startAutoSlide();
+    document.querySelectorAll('.album-container').forEach(slider => {
+        const slides = slider.querySelectorAll('.album-slide'), dots = slider.querySelectorAll('.dot');
+        const next = slider.querySelector('.album-next'), prev = slider.querySelector('.album-prev');
+        let current = 0;
+        function update() { slides.forEach((s, i) => { s.classList.toggle('active', i === current); if (dots[i]) dots[i].classList.toggle('active', i === current); }); }
+        if (next) next.addEventListener('click', () => { current = (current + 1) % slides.length; update(); });
+        if (prev) prev.addEventListener('click', () => { current = (current - 1 + slides.length) % slides.length; update(); });
+        if (dots) dots.forEach((dot, i) => dot.addEventListener('click', () => { current = i; update(); }));
+        let interval = setInterval(() => { current = (current + 1) % slides.length; update(); }, 4000);
+        slider.addEventListener('mouseenter', () => clearInterval(interval));
+        slider.addEventListener('mouseleave', () => { interval = setInterval(() => { current = (current + 1) % slides.length; update(); }, 4000); });
     });
 }
-
-// Initializing on load
 document.addEventListener('DOMContentLoaded', initAlbumSliders);
 
-// Hero Background Slider
 function initHeroSlider() {
     const slides = document.querySelectorAll('.hero-bg-slide');
     if (slides.length === 0) return;
-
-    let currentSlide = 0;
-    const slideInterval = 5000; // 5 seconds per slide
-
-    setInterval(() => {
-        slides[currentSlide].classList.remove('active');
-        currentSlide = (currentSlide + 1) % slides.length;
-        slides[currentSlide].classList.add('active');
-    }, slideInterval);
+    let current = 0;
+    setInterval(() => { slides[current].classList.remove('active'); current = (current + 1) % slides.length; slides[current].classList.add('active'); }, 5000);
 }
-
 document.addEventListener('DOMContentLoaded', initHeroSlider);
 
-
-// FAQ Accordion
 function initFAQ() {
-    const faqItems = document.querySelectorAll('.faq-item');
-
-    faqItems.forEach(item => {
-        const question = item.querySelector('.faq-question');
-
-        if (!question) return;
-
-        question.addEventListener('click', () => {
-            const isActive = item.classList.contains('active');
-
-            // Close all other items
-            faqItems.forEach(otherItem => {
-                if (otherItem !== item) {
-                    otherItem.classList.remove('active');
-                }
-            });
-
-            // Toggle current item
-            if (isActive) {
-                item.classList.remove('active');
-            } else {
-                item.classList.add('active');
-            }
+    const items = document.querySelectorAll('.faq-item');
+    items.forEach(item => {
+        const q = item.querySelector('.faq-question');
+        if (q) q.addEventListener('click', () => {
+            const active = item.classList.contains('active');
+            items.forEach(i => i.classList.remove('active'));
+            if (!active) item.classList.add('active');
         });
     });
 }
-
 document.addEventListener('DOMContentLoaded', initFAQ);
 
-// Service Expand Toggle
 function toggleService(id, btn) {
     const content = document.getElementById(id);
-    content.classList.toggle('active');
-    btn.classList.toggle('active');
-
+    if (!content) return;
+    content.classList.toggle('active'); btn.classList.toggle('active');
     const span = btn.querySelector('span');
-    if (content.classList.contains('active')) {
-        span.textContent = 'View Less';
-    } else {
-        span.textContent = 'View More Details';
-    }
+    if (span) span.textContent = content.classList.contains('active') ? 'View Less' : 'View More Details';
 }
 
-// Auto-expand service details based on hash
 function checkHashForService() {
-    const hash = window.location.hash.substring(1); // Remove #
+    const hash = window.location.hash.substring(1);
     if (hash && hash.endsWith('-details')) {
-        const detailsEl = document.getElementById(hash);
-        if (detailsEl) {
-            // Find the button associated with this details element
-            // The button comes immediately after the details element in the HTML structure
-            const btn = detailsEl.nextElementSibling;
+        const el = document.getElementById(hash);
+        if (el) {
+            const btn = el.nextElementSibling;
             if (btn && btn.classList.contains('service-expand-btn')) {
                 toggleService(hash, btn);
-
-                // Scroll to the item
-                setTimeout(() => {
-                    const serviceItem = detailsEl.closest('.service-item');
-                    if (serviceItem) {
-                        serviceItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    }
-                }, 500);
+                setTimeout(() => { const item = el.closest('.service-item'); if (item) item.scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 500);
             }
         }
     }
 }
 
-
-// WhatsApp Bot Link Enhancer
 function initWhatsAppBot() {
-    const waLinks = document.querySelectorAll('a[href*="wa.me"]');
-    const lang = document.documentElement.lang || 'en';
-
-    let welcomeMsg = "Hello! I'd like to inquire about a booking.";
-    if (lang === 'fr') welcomeMsg = "Bonjour ! Je souhaite me renseigner sur une réservation.";
-
-    waLinks.forEach(link => {
+    const links = document.querySelectorAll('a[href*="wa.me"]'), lang = document.documentElement.lang || 'en';
+    let msg = lang === 'fr' ? "Bonjour ! Je souhaite me renseigner sur une reservation." : "Hello! I'd like to inquire about a booking.";
+    links.forEach(link => {
         try {
             const url = new URL(link.href);
-            if (!url.searchParams.has('text')) {
-                url.searchParams.set('text', welcomeMsg);
-                link.href = url.toString();
-            }
-        } catch (e) {
-            // Fallback for malformed URLs
-            if (link.href.indexOf('?') === -1) {
-                link.href += `?text=${encodeURIComponent(welcomeMsg)}`;
-            }
-        }
+            if (!url.searchParams.has('text')) { url.searchParams.set('text', msg); link.href = url.toString(); }
+        } catch (e) { if (link.href.indexOf('?') === -1) link.href += `?text=${encodeURIComponent(msg)}`; }
     });
-
-    // Create Floating WhatsApp Button if it doesn't exist
     if (!document.querySelector('.floating-whatsapp')) {
-        const waBtn = document.createElement('a');
-        waBtn.href = `https://wa.me/212600000000?text=${encodeURIComponent(welcomeMsg)}`;
-        waBtn.className = 'floating-whatsapp';
-        waBtn.target = '_blank';
-        waBtn.innerHTML = '<i class="fab fa-whatsapp"></i>';
-        document.body.appendChild(waBtn);
+        const btn = document.createElement('a'); btn.href = `https://wa.me/212663494405?text=${encodeURIComponent(msg)}`;
+        btn.className = 'floating-whatsapp'; btn.target = '_blank'; btn.innerHTML = '<i class="fab fa-whatsapp"></i>';
+        document.body.appendChild(btn);
     }
 }
 
-// Testimonial Auto-Slider
 function initTestimonialSlider() {
     const grid = document.querySelector('.testimonials-grid');
     if (!grid) return;
-
     const cards = grid.querySelectorAll('.testimonial-card');
     if (cards.length < 2) return;
-
-    let currentIndex = 0;
-
-    // Simple fade rotation
+    let current = 0;
     setInterval(() => {
-        cards[currentIndex].classList.remove('active');
-        currentIndex = (currentIndex + 1) % cards.length;
-        cards[currentIndex].classList.add('active');
-
-        // Ensure only one card shows if desired, or just highlight
-        cards.forEach((card, i) => {
-            card.style.opacity = (i === currentIndex) ? "1" : "0.4";
-            card.style.transform = (i === currentIndex) ? "scale(1.05)" : "scale(0.95)";
-        });
+        cards[current].classList.remove('active'); current = (current + 1) % cards.length; cards[current].classList.add('active');
+        cards.forEach((c, i) => { c.style.opacity = (i === current) ? "1" : "0.4"; c.style.transform = (i === current) ? "scale(1.05)" : "scale(0.95)"; });
     }, 5000);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    initWhatsAppBot();
-    initTestimonialSlider();
-    // Check hash after a slight delay to ensure DOM is ready
-    setTimeout(checkHashForService, 300);
-});
+document.addEventListener('DOMContentLoaded', () => { initWhatsAppBot(); initTestimonialSlider(); setTimeout(checkHashForService, 300); });
 
-// Booking Form Submission Handler for Webhooks (Make.com, Zapier, etc.)
 async function handleBookingSubmit(event) {
     event.preventDefault();
 
@@ -1974,7 +1968,6 @@ async function handleBookingSubmit(event) {
 
     // Check if GDPR is checked
     data.gdpr_consent = formData.get('gdpr') ? true : false;
-    data.gdprText = data.language === 'fr' ? 'Accepte les offres marketing' : 'Accepts marketing offers';
 
     // Loading UI
     submitBtn.disabled = true;
@@ -1985,10 +1978,6 @@ async function handleBookingSubmit(event) {
         statusDiv.className = '';
     }
 
-    // =========================================================
-    // IMPORTANT: REPLACE THIS URL with your Make.com Webhook URL
-    // e.g. 'https://hook.eu2.make.com/xxxxxx'
-    // =========================================================
     const WEBHOOK_URL = 'https://hook.eu2.make.com/your-webhook-id-here';
 
     try {
@@ -2000,14 +1989,12 @@ async function handleBookingSubmit(event) {
             body: JSON.stringify(data)
         });
 
-        // Some webhooks return opaque responses (no-cors), handle accordingly
         if (response.ok || response.type === 'opaque') {
-            // Success UI
             form.reset();
             if (statusDiv) {
                 statusDiv.innerHTML = data.language === 'fr'
-                    ? '✅ Réservation envoyée avec succès ! Vous recevrez un email de confirmation.'
-                    : '✅ Booking submitted successfully! You will receive a confirmation email.';
+                    ? 'âœ… Réservation envoyée avec succès ! Vous recevrez un email de confirmation.'
+                    : 'âœ… Booking submitted successfully! You will receive a confirmation email.';
                 statusDiv.style.color = '#4CAF50';
                 statusDiv.style.backgroundColor = 'rgba(76, 175, 80, 0.1)';
                 statusDiv.style.display = 'block';
@@ -2017,17 +2004,17 @@ async function handleBookingSubmit(event) {
         }
     } catch (error) {
         console.error('Submission failed:', error);
-        // Fallback to WhatsApp if Webhook fails or isn't set up
+        // Fallback to WhatsApp
         const waMessage = data.language === 'fr' ?
-            `Bonjour, je souhaite réserver un transfert.%0A👤 Nom: ${data.name}%0A✉️ Email: ${data.email}%0A📍 Départ: ${data.pickup}%0A🏁 Destination: ${data.destination}%0A📅 Date: ${data.date}` :
-            `Hello, I would like to book a transfer.%0A👤 Name: ${data.name}%0A✉️ Email: ${data.email}%0A📍 Pickup: ${data.pickup}%0A🏁 Destination: ${data.destination}%0A📅 Date: ${data.date}`;
+            `Bonjour, je souhaite réserver un transfert.%0AðŸ‘¤ Nom: ${data.name}%0Aâœ‰ï¸ Email: ${data.email}%0AðŸ“ Départ: ${data.pickup}%0AðŸ Destination: ${data.destination}%0AðŸ“… Date: ${data.date}` :
+            `Hello, I would like to book a transfer.%0AðŸ‘¤ Name: ${data.name}%0Aâœ‰ï¸ Email: ${data.email}%0AðŸ“ Pickup: ${data.pickup}%0AðŸ Destination: ${data.destination}%0AðŸ“… Date: ${data.date}`;
 
-        window.open(`https://wa.me/212600000000?text=${waMessage}`, '_blank');
+        window.open(`https://wa.me/212663494405?text=${waMessage}`, '_blank');
 
         if (statusDiv) {
             statusDiv.innerHTML = data.language === 'fr'
-                ? '🔗 Redirection vers WhatsApp...'
-                : '🔗 Redirecting to WhatsApp...';
+                ? 'ðŸ”— Redirection vers WhatsApp...'
+                : 'ðŸ”— Redirecting to WhatsApp...';
             statusDiv.style.color = 'var(--accent-gold)';
             statusDiv.style.backgroundColor = 'rgba(212, 175, 55, 0.1)';
             statusDiv.style.display = 'block';
