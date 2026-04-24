@@ -31,9 +31,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap&display=swap" rel="stylesheet">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
@@ -93,6 +91,15 @@
 
 <body>
     <canvas id="bg-canvas"></canvas>
+
+    <div class="lang-switcher">
+      <div class="lang-btn active" data-lang="en" onclick="setLanguage('en')">
+        <img src="https://flagcdn.com/w20/gb.png" width="20" height="15" alt="English"> EN
+      </div>
+      <div class="lang-btn" data-lang="fr" onclick="setLanguage('fr')">
+        <img src="https://flagcdn.com/w20/fr.png" width="20" height="15" alt="Français"> FR
+      </div>
+    </div>
 
     <!-- Header -->
     <header id="header">
@@ -414,7 +421,8 @@
         UP
     </a>
 
-    <script src="script.js" defer></script>
+    <script src="js/translations.js" defer></script>
+    <script src="js/script.js" defer></script>
 </body>
 
 </html>

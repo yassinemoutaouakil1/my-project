@@ -14,7 +14,6 @@
   <link rel="canonical" href="https://safia-transfers.com/">
   <link rel="alternate" hreflang="en" href="https://safia-transfers.com/">
   <link rel="alternate" hreflang="fr" href="https://safia-transfers.com/fr/index.html">
-
   <link rel="alternate" hreflang="x-default" href="https://safia-transfers.com/">
 
   <!-- SEO Schema: LocalBusiness + Review -->
@@ -88,9 +87,7 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap&display=swap" rel="stylesheet">
 
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
@@ -146,6 +143,16 @@
 <body>
   <canvas id="bg-canvas"></canvas>
 
+  <!-- Language Switcher -->
+  <div class="lang-switcher">
+    <div class="lang-btn active" data-lang="en" onclick="setLanguage('en')">
+      <img src="https://flagcdn.com/w20/gb.png" width="20" height="15" alt="English"> EN
+    </div>
+    <div class="lang-btn" data-lang="fr" onclick="setLanguage('fr')">
+      <img src="https://flagcdn.com/w20/fr.png" width="20" height="15" alt="Français"> FR
+    </div>
+  </div>
+
   <!-- Header -->
   <header id="header">
     <div class="container header-container">
@@ -182,9 +189,7 @@
         &<br>Luxury Transfers</h1>
       <p class="animate-up delay-1" data-i18n="hero-subtitle">Premium Chauffeur Service & Tourist Transport in Morocco
       </p>
-      <p class="hero-tagline animate-up delay-1" data-i18n="hero-tagline">Ã¢â‚¬Å“Moroccan roots. Global standards.
-        Exceptional
-        journeys.Ã¢â‚¬Â</p>
+      <p class="hero-tagline animate-up delay-1" data-i18n="hero-tagline">"Moroccan roots. Global standards. Exceptional journeys."</p>
       <a href="https://wa.me/212663494405" target="_blank" class="btn btn-gold animate-up delay-2">
         <i class="fab fa-whatsapp"></i> <span data-i18n="hero-whatsapp">Book on WhatsApp</span>
       </a>
@@ -199,24 +204,21 @@
         <div class="line"></div>
       </div>
       <div class="services-grid">
-        <a href="services.html#airport-details" class="service-card">
-          <i class="fas fa-plane-arrival"></i>
-          <h3 data-i18n="service-airport-t">Airport Transfers</h3>
-          <p data-i18n="service-airport-p">Seamless pickups and drop-offs at all major Moroccan airports (CMN, RAK,
-            FEZ).</p>
-        </a>
-        <a href="services.html#driver-details" class="service-card">
-          <i class="fas fa-user-tie"></i>
-          <h3 data-i18n="service-driver-t">Private Chauffeur</h3>
-          <p data-i18n="service-driver-p">Professional drivers for your daily trips, business meetings, or leisure
-            travel.</p>
-        </a>
-        <a href="services.html#city-details" class="service-card">
-          <i class="fas fa-city"></i>
-          <h3 data-i18n="service-city-t">City Transfers</h3>
-          <p data-i18n="service-city-p">Comfortable inter-city transfers between Fes, Marrakech, Casablanca, and more.
-          </p>
-        </a>
+        <div class="service-card">
+          <i class="fas fa-plane-departure" aria-hidden="true"></i>
+          <h3 data-i18n="service-1-title">Airport Transfers</h3>
+          <p data-i18n="service-1-desc">Stress-free transfers to and from all major Moroccan airports. We monitor your flight.</p>
+        </div>
+        <div class="service-card">
+          <i class="fas fa-city" aria-hidden="true"></i>
+          <h3 data-i18n="service-2-title">Inter-City Travel</h3>
+          <p data-i18n="service-2-desc">Comfortable long-distance travel between cities like Marrakech, Casablanca, and Fes.</p>
+        </div>
+        <div class="service-card">
+          <i class="fas fa-clock" aria-hidden="true"></i>
+          <h3 data-i18n="service-3-title">Hourly Chauffeur</h3>
+          <p data-i18n="service-3-desc">Professional drivers at your disposal for business meetings or sightseeing tours.</p>
+        </div>
         <a href="services.html#tour-details" class="service-card">
           <i class="fas fa-map-marked-alt"></i>
           <h3 data-i18n="service-tour-t">Luxury Tours</h3>
@@ -244,9 +246,9 @@
         <div class="line"></div>
       </div>
       <div class="philosophy-content animate-up">
-        <p class="philosophy-quote" data-i18n="philosophy-quote">Ã¢â‚¬Å“Rooted in Morocco, inspired by the world Ã¢â‚¬â€ we deliver
+        <p class="philosophy-quote" data-i18n="philosophy-quote">“Rooted in Morocco, inspired by the world — we deliver
           journeys shaped by comfort,
-          culture, and care.Ã¢â‚¬Â</p>
+          culture, and care.” </p>
         <div class="philosophy-divider"></div>
       </div>
     </div>
@@ -491,9 +493,9 @@
       <div
         style="width: 100%; height: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
         <iframe
-          title="Google Maps - Safia Transfers Location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54338.077673322!2d-8.0083!3d31.6295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh!5e0!3m2!1sen!2sma!4v1700000000000!5m2!1sen!2sma"
-          width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe>
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108703.208151475!2d-8.077893198046872!3d31.634602334000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafef4d9b4b08f5%3A0x6338424269c8e14e!2sMarrakesh!5e0!3m2!1sen!2sma!4v1691234567890!5m2!1sen!2sma"
+        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade" title="Safia Transfers Location in Marrakech"></iframe>
       </div>
     </div>
   </section>
@@ -548,7 +550,8 @@
     UP
   </a>
 
-  <script src="script.js" defer></script>
+  <script src="js/translations.js" defer></script>
+  <script src="js/script.js" defer></script>
 </body>
 
 </html>
