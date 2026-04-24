@@ -1,4 +1,4 @@
-/* Fonts are handled in HTML via preconnect and non-blocking links */
+﻿/* Fonts are handled in HTML via preconnect and non-blocking links */
 
 :root {
   --primary-bg: #0a0a0a;
@@ -1148,20 +1148,9 @@ footer {
 }
 
 /* Destinations Page Styles */
-.destinations-page-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 40px;
-  padding: 40px 0 80px;
-}
 
-.dest-page-card {
-  background: var(--secondary-bg);
-  border-radius: 12px;
-  overflow: hidden;
-  border: 1px solid rgba(212, 175, 55, 0.1);
-  transition: var(--transition);
-}
+
+
 
 .dest-page-card:hover {
   border-color: var(--accent-gold);
@@ -1169,10 +1158,7 @@ footer {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
-.dest-img-box {
-  height: 250px;
-  overflow: hidden;
-}
+
 
 .dest-img-box img {
   width: 100%;
@@ -1185,9 +1171,7 @@ footer {
   transform: scale(1.1);
 }
 
-.dest-content {
-  padding: 30px;
-}
+
 
 .dest-content h3 {
   font-size: 1.8rem;
@@ -1196,21 +1180,9 @@ footer {
   font-family: 'Playfair Display', serif;
 }
 
-.dest-subtitle {
-  color: var(--accent-gold);
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 15px;
-  font-weight: 500;
-}
 
-.dest-desc {
-  color: var(--text-muted);
-  line-height: 1.6;
-  margin-bottom: 25px;
-  font-size: 0.95rem;
-}
+
+
 
 .btn-text {
   color: var(--accent-gold);
@@ -1229,10 +1201,7 @@ footer {
 }
 
 @media (max-width: 768px) {
-  .destinations-page-grid {
-    grid-template-columns: 1fr;
-    gap: 30px;
-  }
+  
 }
 
 /* FAQ Page Styles */
