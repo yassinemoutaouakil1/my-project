@@ -1,5 +1,4 @@
-/* Google Fonts Import */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&family=Amiri:wght@400;700&display=swap');
+/* Fonts are handled in HTML via preconnect and non-blocking links */
 
 :root {
   --primary-bg: #0a0a0a;
@@ -7,7 +6,7 @@
   --card-bg: #1e1e1e;
   --accent-gold: #D4AF37;
   --text-light: #f0f0f0;
-  --text-muted: #cccccc;
+  --text-muted: #dddddd; /* Brighter for better accessibility contrast on dark backgrounds */
   --font-heading: 'Playfair Display', serif;
   --font-body: 'Montserrat', sans-serif;
   --font-arabic: 'Amiri', serif;
