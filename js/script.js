@@ -30,6 +30,20 @@ function initLanguage() {
 
 function setLanguage(lang) {
     localStorage.setItem('preferredLanguage', lang);
+    let path = window.location.pathname;
+    let file = path.substring(path.lastIndexOf('/') + 1) || 'index.html';
+    let isFr = path.includes('/fr/');
+    let isEn = path.includes('/en/');
+    
+    if (lang === 'fr' && !isFr) {
+        if (isEn) window.location.href = '../fr/' + file + window.location.hash;
+        else window.location.href = 'fr/' + file + window.location.hash;
+        return;
+    } else if (lang === 'en' && (isFr || isEn)) {
+        window.location.href = '../' + file + window.location.hash;
+        return;
+    }
+    
     document.documentElement.lang = lang;
     updateContent(lang);
 }

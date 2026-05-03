@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Safia Transfers - WhatsApp Bot Logic
  * This is a state machine to handle client conversations.
  */
@@ -22,7 +22,7 @@ function handleMessage(from, message) {
 
     const session = userSessions[from];
     const text = message.trim();
-    let response = "";
+    let response = ";
 
     // Language Detection (Simple check for Arabic characters)
     if (/[\u0600-\u06FF]/.test(text)) {

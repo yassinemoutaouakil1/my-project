@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.googleapis.com">`n    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RÃ©server Chauffeur PrivÃ© Maroc | Devis ImmÃ©diat | Safia Transfers</title>
+    <title>Réserver Chauffeur Privé Maroc | Devis Immédiat | Safia Transfers</title>
     <meta name="description"
-        content="RÃ©servez facilement votre chauffeur privÃ© au Maroc. Obtenez un devis immÃ©diat pour vos transferts aÃ©roport ou circuits personnalisÃ©s. RÃ©servation sÃ©curisÃ©e.">
+        content="Réservez facilement votre chauffeur privé au Maroc. Obtenez un devis immédiat pour vos transferts aéroport ou circuits personnalisés. Réservation sécurisée.">
     <meta name="keywords"
-        content="rÃ©server chauffeur privÃ© Maroc, rÃ©servation transfert aÃ©roport Marrakech, rÃ©servation transport spÃ©cialisÃ©, rÃ©servation chauffeur WhatsApp">
+        content="réserver chauffeur privé Maroc, réservation transfert aéroport Marrakech, réservation transport spécialisé, réservation chauffeur WhatsApp">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://safia-transfers.com/fr/booking.html">
@@ -20,6 +20,15 @@
 
 <body>
     <canvas id="bg-canvas"></canvas>
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <div class="lang-btn active" data-lang="en" onclick="setLanguage('en')">
+            <img src="https://flagcdn.com/w20/gb.png" width="20" height="15" alt="English"> EN
+        </div>
+        <div class="lang-btn" data-lang="fr" onclick="setLanguage('fr')">
+            <img src="https://flagcdn.com/w20/fr.png" width="20" height="15" alt="Français"> FR
+        </div>
+    </div>
 
     <!-- Header -->
     <header id="header">
@@ -35,13 +44,13 @@
                     <li><a href="fleet.html">Flotte</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li><a href="destinations.html">Destinations</a></li>
-                    <li><a href="booking.html" class="active">RÃ©servation</a></li>
+                    <li><a href="booking.html" class="active">Réservation</a></li>
                     <li><a href="faq.html">FAQ</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
             <div class="book-btn-container">
-                <a href="booking.html" class="btn btn-gold">RÃ©server</a>
+                <a href="booking.html" class="btn btn-gold">Réserver</a>
             </div>
             <div class="hamburger">
                 <i class="fas fa-bars"></i>
@@ -52,16 +61,16 @@
     <!-- Booking Hero -->
     <section class="services-hero">
         <div class="container">
-            <h1 class="animate-up">RÃ©servez Votre <span class="text-shine-gold">Chauffeur PrivÃ©</span></h1>
-            <p class="animate-up delay-1">Simple, rapide et sÃ©curisÃ© en quelques Ã©tapes</p>
+            <h1 class="animate-up">Réservez Votre <span class="text-shine-gold">Chauffeur Privé</span></h1>
+            <p class="animate-up delay-1">Simple, rapide et sécurisé en quelques étapes</p>
         </div>
     </section>
 
-    <!-- Formulaire de RÃ©servation -->
+    <!-- Formulaire de Réservation -->
     <section class="section">
         <div class="container">
             <div class="section-title">
-                <h2>Formulaire de RÃ©servation</h2>
+                <h2>Formulaire de Réservation</h2>
                 <div class="line"></div>
             </div>
             <div class="booking-container animate-up"
@@ -84,7 +93,7 @@
                         </div>
                         <div class="form-group" style="flex: 1; min-width: 250px;">
                             <label for="b_phone"
-                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">TÃ©lÃ©phone /
+                                style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Téléphone /
                                 WhatsApp *</label>
                             <input type="tel" id="b_phone" name="phone" class="form-control" placeholder="+212..."
                                 required
@@ -98,7 +107,7 @@
                                 style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Lieu de prise en
                                 charge *</label>
                             <input type="text" id="b_pickup" name="pickup" class="form-control"
-                                placeholder="AÃ©roport, HÃ´tel, Adresse..." required
+                                placeholder="Aéroport, Hôtel, Adresse..." required
                                 style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
                         </div>
                         <div class="form-group" style="flex: 1; min-width: 250px;">
@@ -106,7 +115,7 @@
                                 style="color: var(--accent-gold); display: block; margin-bottom: 8px;">Destination
                                 *</label>
                             <input type="text" id="b_destination" name="destination" class="form-control"
-                                placeholder="Ville ou lieu prÃ©cis" required
+                                placeholder="Ville ou lieu précis" required
                                 style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff; border-radius: 4px;">
                         </div>
                     </div>
@@ -124,14 +133,14 @@
                             style="margin-top: 5px; cursor: pointer; border-radius: 4px; width: 18px; height: 18px;">
                         <label for="b_gdpr"
                             style="color: var(--text-light); font-size: 0.9rem; line-height: 1.4; cursor: pointer;">
-                            J'accepte de m'inscrire Ã  la newsletter pour recevoir des offres exclusives. Mes donnÃ©es
-                            seront traitÃ©es conformÃ©ment au RGPD.
+                            J'accepte de m'inscrire à la newsletter pour recevoir des offres exclusives. Mes données
+                            seront traitées conformément au RGPD.
                         </label>
                     </div>
 
                     <button type="submit" id="submitBtn" class="btn btn-gold"
                         style="width: 100%; border: none; cursor: pointer; padding: 15px; font-size: 1.1rem;">
-                        Confirmer la RÃ©servation
+                        Confirmer la Réservation
                     </button>
 
                     <div id="formStatus"
@@ -145,9 +154,9 @@
     <!-- CTA Section -->
     <section class="cta-section">
         <div class="container cta-content">
-            <h2 class="animate-up">PrÃªt Ã  rÃ©server votre chauffeur privÃ© au Maroc ?</h2>
+            <h2 class="animate-up">Prêt à réserver votre chauffeur privé au Maroc ?</h2>
             <a href="https://wa.me/212663494405" target="_blank" class="btn btn-gold btn-large animate-up delay-1">
-                <i class="fab fa-whatsapp"></i> RÃ©server sur WhatsApp
+                <i class="fab fa-whatsapp"></i> Réserver sur WhatsApp
             </a>
         </div>
     </section>
@@ -168,7 +177,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 Safia Transfers. Tous droits rÃ©servÃ©s.</p>
+            <p>&copy; 2026 Safia Transfers. Tous droits réservés.</p>
         </div>
     </footer>
 
